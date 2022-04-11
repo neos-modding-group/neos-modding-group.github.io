@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "Neos Mod List"
+title: "Mod List"
 ---

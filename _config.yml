@@ -5,12 +5,10 @@ minima:
     github: neos-modding-group
   # Minima date format. refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
   date_format: "%Y-%m-%d"
-title: Neos Mod List
+title: Neos Modding Group
 header_pages:
+  - mod-list.md
   - submission-tutorial.md
-  - mod-guidelines.md
-  - auditing-process.md
-  - schema.md
   - about.md
 plugins:
   - jekyll-sitemap

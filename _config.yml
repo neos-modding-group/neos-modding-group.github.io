@@ -9,6 +9,5 @@ title: Neos Modding Group
 header_pages:
   - mods.md
   - submission-tutorial.md
-  - about.md
 plugins:
   - jekyll-sitemap

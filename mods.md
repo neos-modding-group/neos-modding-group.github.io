@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated on <time datetime='2022-04-19T08:37:02.565613'>08:02, 19 April 2022</time>
+Last updated on <time datetime='2022-04-19T15:09:19.562012'>03:19, 19 April 2022</time>
 
 
 ## Asset Importing Tweaks
@@ -132,6 +132,13 @@ Adds buttons for session orb / copy session uri to your contact's tab
 #### [SpeedyURLs](https://github.com/dfgHiatus/SpeedyURLs) by [dfgHiatus](https://github.com/dfgHiatus)
 
 Removes the 5-second cool-down on hyperlinks
+
+## Developers
+
+<!--Banane9.RenameDirectlyLinkedDynVars-->
+#### [RenameDirectlyLinkedDynVars](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars) by [Banane9](https://github.com/Banane9)
+
+Renames directly linked dynamic variables alongside the namespace they're bound to.
 
 ## For Mod Developers
 
@@ -273,6 +280,18 @@ Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust wh
 
 Changes the legacy world switcher to open depending on the primary hand setting
 
+## LogiX
+
+<!--Banane9.BetterLogixWiresThatCanScroll-->
+#### [BetterLogixWiresThatCanScroll](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll) by [eia485](https://github.com/EIA485), [Banane9](https://github.com/Banane9)
+
+Optimizes and optionally animates LogiX wires.
+
+<!--Banane9.LocalLogixRegisters-->
+#### [LocalLogixRegisters](https://github.com/Banane9/NeosLocalLogixRegisters) by [Banane9](https://github.com/Banane9)
+
+Allows creating LogiX registers with localized values directly.
+
 ## Logix
 
 <!--net.cyro.darklogixbrowser-->
@@ -388,6 +407,11 @@ Restores Vive tracker names to their old LHR-whatever behavior
 #### [NoSteam](https://github.com/EIA485/NeosNoSteam) by [eia485](https://github.com/EIA485)
 
 Partially stops neos from connecting to steam
+
+<!--Banane9.PacifistAprilFoolsExplosion-->
+#### [PacifistAprilFoolsExplosion](https://github.com/Banane9/NeosPacifistAprilFoolsExplosion) by [Banane9](https://github.com/Banane9)
+
+Can individually hide each part of the ViolentAprilFoolsExplosion.
 
 <!--xyz.ljoonal.neos.privacyshield-->
 #### [PrivacyShield](https://neos.ljoonal.xyz/mods/#privacy-shield) by [ljoonal](https://www.ljoonal.xyz/)

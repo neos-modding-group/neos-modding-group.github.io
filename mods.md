@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-20T00:33:47.837674+00:00'>20 April 2022, 12:47 UTC</time>
+Last updated at <time datetime='2022-04-21T16:57:17.002215+00:00'>21 April 2022, 04:17 UTC</time>
 
 
 ## Asset Importing Tweaks
@@ -508,6 +508,11 @@ Forces vsync to be disabled
 #### [SsaoDisable](https://github.com/zkxs/SsaoDisable) by [runtime](https://github.com/zkxs)
 
 Disables SSAO for all of your cameras, including your view
+
+<!--DoubleStyx.SsaoTweaks-->
+#### [SsaoTweaks](https://github.com/DoubleStyx/SsaoTweaks) by [DoubleStyx](https://github.com/DoubleStyx)
+
+Allows the individual parameters of the SSAO effect to be configured.
 
 ## Wizards
 

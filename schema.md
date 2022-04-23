@@ -51,10 +51,10 @@ Flags:
   - `file` it does not depend on NML
 - Version Flags (mod flags are inherited)
   - Security Vulnerability
-    - `vulnerablity:low` Low
-    - `vulnerablity:medium` Medium
-    - `vulnerablity:high` High
-    - `vulnerablity:critical` Critical
+    - `vulnerability:low` Low
+    - `vulnerability:medium` Medium
+    - `vulnerability:high` High
+    - `vulnerability:critical` Critical
   - `broken` Broken (different from incompatible, means the version itself is broken by design)
     - `broken:linux-native` Doesn't work on linux native
     - `broken:linux-wine` Doesn't work on linux wine/proton

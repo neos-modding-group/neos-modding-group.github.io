@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-22T19:10:24.998943+00:00'>22 April 2022, 07:24 UTC</time>
+Last updated at <time datetime='2022-04-23T04:42:53.951522+00:00'>23 April 2022, 04:53 UTC</time>
 
 
 ## Asset Importing Tweaks
@@ -244,6 +244,11 @@ Allows you to scroll UIX panels (including inspectors) using the thumbstick / to
 #### [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) by [eia485](https://github.com/EIA485)
 
 Disables the desktop tool keybinds
+
+<!--Banane9.MaybeJump-->
+#### [MaybeJump](https://github.com/Banane9/NeosMaybeJump) by [Banane9](https://github.com/Banane9), [eia485](https://github.com/EIA485)
+
+Allows you to configure on which sides the thumbstick will be used as jump.
 
 <!--dev.zkxs.noescape-->
 #### [NoEscape](https://github.com/zkxs/NoEscape) by [runtime](https://github.com/zkxs)

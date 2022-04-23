@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-23T04:55:06.181844+00:00'>23 April 2022, 04:06 UTC</time>
+Last updated at <time datetime='2022-04-23T07:14:01.654773+00:00'>23 April 2022, 07:01 UTC</time>
 
 
 ## Asset Importing Tweaks
@@ -292,13 +292,6 @@ Changes the legacy world switcher to open depending on the primary hand setting
 
 Optimizes and optionally animates LogiX wires.
 
-<!--Banane9.LocalLogixRegisters-->
-#### [LocalLogixRegisters](https://github.com/Banane9/NeosLocalLogixRegisters) by [Banane9](https://github.com/Banane9)
-
-Allows creating LogiX registers with localized values directly.
-
-## Logix
-
 <!--net.cyro.darklogixbrowser-->
 #### [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) by [Cyro](https://github.com/RileyGuy)
 
@@ -323,6 +316,11 @@ Exposes all SyncMembers on interfaces
 #### [FixToString](https://github.com/EIA485/NeosFixToString) by [eia485](https://github.com/EIA485)
 
 Fixes the to string logix node
+
+<!--Banane9.LocalLogixRegisters-->
+#### [LocalLogixRegisters](https://github.com/Banane9/NeosLocalLogixRegisters) by [Banane9](https://github.com/Banane9)
+
+Allows creating LogiX registers with localized values directly.
 
 <!--me.badhaloninja.logixutils-->
 #### [LogixUtils](https://github.com/badhaloninja/LogixUtils) by [badhaloninja](https://github.com/badhaloninja)

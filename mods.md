@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-23T07:14:01.654773+00:00'>23 April 2022, 07:01 UTC</time>
+Last updated at <time datetime='2022-04-23T08:04:35.073408+00:00'>23 April 2022, 08:35 UTC</time>
 
 
 ## Asset Importing Tweaks
@@ -182,11 +182,6 @@ Integrates the Varjo Areo's Eye tracking into NeosVR
 #### [ColorDrop](https://github.com/art0007i/ColorDrop) by [art0007i](https://github.com/art0007i)
 
 Makes it so you can grab and drop colors
-
-<!--net.Toxic_Cookie.fieldexpressions-->
-#### [FieldExpressions](https://github.com/Toxic-Cookie/FieldExpressions) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
-
- Allows you to use CodingSeb's Expression Evaluator in inspector fields
 
 <!--net.eia485.localslotnames-->
 #### [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) by [eia485](https://github.com/EIA485)

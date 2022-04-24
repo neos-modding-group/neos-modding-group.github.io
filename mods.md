@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-23T08:04:35.073408+00:00'>23 April 2022, 08:35 UTC</time>
+Last updated at <time datetime='2022-04-24T15:46:35.185105+00:00'>24 April 2022, 03:35 UTC</time>
 
 
 ## Asset Importing Tweaks
@@ -21,11 +21,6 @@ Lets you change your default video player
 #### [GifImporter](https://github.com/kawaiiamber/GifImporter) by [amber](https://github.com/kawaiiamber)
 
 Allows you to import gif images
-
-<!--me.art0007i.gifimporter-->
-#### [GifImporter (arti's fork)](https://github.com/art0007i/GifImporter) by [art0007i](https://github.com/art0007i)
-
-GifImporter but it tries to fit the sprite sheets into a square resolution, it will sometimes create redundant empty frames at the end of the gif
 
 <!--dev.kokoa.neospastetweak-->
 #### [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) by [kka429](https://github.com/rassi0429)

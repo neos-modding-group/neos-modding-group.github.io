@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-25T14:54:48.334903+00:00'>25 April 2022, 02:48 UTC</time>
+Last updated at <time datetime='2022-04-25T21:41:36.428383+00:00'>25 April 2022, 09:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -67,9 +67,9 @@ The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 <!--io.github.frozenreflex.neosvideoplayerfix-->
 ### [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) by [Fro Zen](https://github.com/Frozenreflex)
 
-Force libVLC to prevent crashes in Proton
+Fix video players on Linux Native and force libVLC to prevent crashes in Proton
 
-The latest version is [1.1.0](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/1.1.0)
+The latest version is [3.3.1](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/3.3.1)
 
 <!--net.dfghiatus.mixnmatch_lipsnmouth-->
 ### [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) by [dfgHiatus](https://github.com/dfgHiatus)

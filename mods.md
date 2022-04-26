@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-25T21:41:36.428383+00:00'>25 April 2022, 09:36 UTC</time>
+Last updated at <time datetime='2022-04-26T00:19:56.726031+00:00'>26 April 2022, 12:56 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -168,24 +168,6 @@ The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases
 Removes the 5-second cool-down on hyperlinks
 
 The latest version is [1.0.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.0.0)
-
-## Developers
-
-<!--Banane9.RenameDirectlyLinkedDynVars-->
-### [RenameDirectlyLinkedDynVars](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars) by [Banane9](https://github.com/Banane9)
-
-Renames directly linked dynamic variables alongside the namespace they're bound to.
-
-The latest version is [1.1.0](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars/releases/tag/v1.1.0)
-
-## For Mod Developers
-
-<!--net.Toxic_Cookie.GenericSettings-->
-### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
-
-Allows you to define, save, load and use custom settings
-
-The latest version is [1.0.0](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
 
 ## General Ui Tweaks
 
@@ -566,6 +548,15 @@ Lets you adjust your microphone volume in-game
 
 The latest version is [1.0.1](https://github.com/zkxs/VoiceVolumeOverride/releases/tag/1.0.1.0)
 
+## Mod Developers
+
+<!--net.Toxic_Cookie.GenericSettings-->
+### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
+
+Allows you to define, save, load and use custom settings
+
+The latest version is [1.0.0](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
+
 ## Optimization
 
 <!--net.eia485.betterlogixwires-->
@@ -639,6 +630,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/GenericTypeAdditio
 Makes the color of your inspector panels reflect your custom user color cloud variable
 
 The latest version is [1.1.0](https://github.com/RileyGuy/Inspectrum/releases/tag/1.1.0)
+
+<!--Banane9.RenameDirectlyLinkedDynVars-->
+### [RenameDirectlyLinkedDynVars](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars) by [Banane9](https://github.com/Banane9)
+
+Renames directly linked dynamic variables alongside the namespace they're bound to.
+
+The latest version is [1.1.0](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars/releases/tag/v1.1.0)
 
 <!--net.eia485.showhiddencategory-->
 ### [ShowHiddenCategory](https://github.com/EIA485/NeosShowHiddenCategory) by [eia485](https://github.com/EIA485)

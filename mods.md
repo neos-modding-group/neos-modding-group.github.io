@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-26T00:19:56.726031+00:00'>26 April 2022, 12:56 UTC</time>
+Last updated at <time datetime='2022-04-26T14:28:39.375962+00:00'>26 April 2022, 02:39 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -468,7 +468,10 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosYouWantDarkmode/rele
 
 Lets you configure your cloud home's default access level
 
-The latest version is [1.0.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/releases/tag/1.1.0):
+
+- add hide from listing config
+- remove enabled config (it didn't actually do anything of value in version 1.0.0)
 
 <!--net.eia485.desktopphisicalgrab-->
 ### [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) by [eia485](https://github.com/EIA485)

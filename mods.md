@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-26T16:01:11.665289+00:00'>26 April 2022, 04:11 UTC</time>
+Last updated at <time datetime='2022-04-27T07:13:59.308531+00:00'>27 April 2022, 07:59 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -49,6 +49,13 @@ The latest version is [1.1.0](https://github.com/art0007i/PasteInvidious/release
 Disable libVLC to prevent crashes in Windows
 
 The latest version is [1.0.0](https://github.com/KyuubiYoru/DisableLibVLC/releases/tag/1.0.0)
+
+<!--me.badhaloninja.FixAltEnter-->
+### [FixAltEnter](https://github.com/badhaloninja/FixAltEnter) by [badhaloninja](https://github.com/badhaloninja/)
+
+Fixes returning to fullscreen via alt + enter not respecting monitor resolution
+
+The latest version is [1.0.0](https://github.com/badhaloninja/FixAltEnter/releases/tag/v1.0.0)
 
 <!--me.art0007i.fixuixbutton-->
 ### [FixUIXButton](https://github.com/art0007i/FixUIXButton) by [art0007i](https://github.com/art0007i)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-28T00:17:07.538692+00:00'>28 April 2022, 12:07 UTC</time>
+Last updated at <time datetime='2022-04-28T08:05:30.719226+00:00'>28 April 2022, 08:30 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -244,6 +244,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosMoreReferenceProxies
 Makes spawned inspectors set to nonpersistent by default
 
 The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspectors/releases/tag/1.0.0)
+
+<!--me.badhaloninja.ReverseAudioClip-->
+### [ReverseAudioClip](https://github.com/badhaloninja/ReverseAudioClip) by [badhaloninja](https://github.com/badhaloninja/)
+
+Adds a button to reverse an audio clip
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ReverseAudioClip/releases/tag/v1.0.0)
 
 <!--me.art0007i.showcomponentslot-->
 ### [ShowComponentSlot](https://github.com/art0007i/ShowComponentSlot) by [art0007i](https://github.com/art0007i)

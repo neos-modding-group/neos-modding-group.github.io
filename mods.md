@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-27T07:13:59.308531+00:00'>27 April 2022, 07:59 UTC</time>
+Last updated at <time datetime='2022-04-28T00:17:07.538692+00:00'>28 April 2022, 12:07 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -707,6 +707,13 @@ The latest version is [1.0.0](https://github.com/DoubleStyx/SsaoTweaks/releases/
 Automatically sets up Dynamic Bone Chains on avatars and validly named slots
 
 The latest version is [1.0.1](https://github.com/dfgHiatus/DynamicBoneChainWizardMod/releases/tag/v1.0.1)
+
+<!--tk.deltawolf.LogixCleanupWizard-->
+### [LogixCleanupWizard](https://github.com/XDelta/NeosLogixCleanupWizard) by [Delta](https://github.com/XDelta)
+
+Provides a wizard for cleaning up leftover logiX components.
+
+The latest version is [1.0.0](https://github.com/XDelta/NeosLogixCleanupWizard/releases/tag/1.0.0)
 
 <!--net.toxic_cookie.neosbakery-->
 ### [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) by [Toxic_Cookie](https://github.com/Toxic-Cookie)

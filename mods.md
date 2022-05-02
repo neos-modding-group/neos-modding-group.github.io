@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-04-28T08:05:30.719226+00:00'>28 April 2022, 08:30 UTC</time>
+Last updated at <time datetime='2022-05-02T18:38:31.072125+00:00'>02 May 2022, 06:31 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -557,6 +557,14 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosPacifistAprilFoolsE
 Some privacy enhancements like requesting web permission for anything outside of Neos APIs, not just web requests. Also timezone and FPS spoofing.
 
 The latest version is [0.3.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-12)
+
+<!--dev.zkxs.neosvoicequality-->
+### [VoiceQuality](https://github.com/zkxs/NeosVoiceQuality) by [runtime](https://github.com/zkxs)
+
+Lets you easily change your own voice stream's bitrate
+
+The latest version is [1.1.0](https://github.com/zkxs/NeosVoiceQuality/releases/tag/1.1.0):
+adds ability to change opus application type and frame size
 
 <!--dev.zkxs.voicevolumeoverride-->
 ### [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) by [runtime](https://github.com/zkxs)

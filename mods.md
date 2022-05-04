@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-02T18:38:31.072125+00:00'>02 May 2022, 06:31 UTC</time>
+Last updated at <time datetime='2022-05-04T14:19:39.601082+00:00'>04 May 2022, 02:39 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -238,6 +238,13 @@ Adds reference proxy sources to bag editors and list editors
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosMoreReferenceProxies/releases/tag/1.0.0.0)
 
+<!--io.github.frozenreflex.neosparticletools-->
+### [NeosParticleTools](https://github.com/Frozenreflex/NeosParticleTools) by [Fro Zen](https://github.com/Frozenreflex)
+
+Adds better tools to edit particle fades
+
+The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/releases/tag/1.0.0)
+
 <!--tk.deltawolf.NeosNonPersistentInspectors-->
 ### [NonPersistentInspectors](https://github.com/XDelta/NeosNonPersistentInspectors) by [Delta](https://github.com/XDelta)
 
@@ -367,6 +374,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/PrimaryHandLegacyW
 Optimizes and optionally animates LogiX wires.
 
 The latest version is [1.1.0](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll/releases/tag/v1.1.0)
+
+<!--me.art0007i.CastNodeHotline-->
+### [CastNodeHotline](https://github.com/art0007i/CastNodeHotline) by [art0007i](https://github.com/art0007i)
+
+Makes cast nodes not delete themselves automatically. This fixes the cast bug.
+
+The latest version is [1.0.1](https://github.com/art0007i/CastNodeHotline/releases/tag/1.0.1.0)
 
 <!--net.cyro.darklogixbrowser-->
 ### [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) by [Cyro](https://github.com/RileyGuy)

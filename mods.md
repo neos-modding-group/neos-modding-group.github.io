@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-04T14:19:39.601082+00:00'>04 May 2022, 02:39 UTC</time>
+Last updated at <time datetime='2022-05-06T00:10:09.890978+00:00'>06 May 2022, 12:09 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -160,7 +160,8 @@ The latest version is [1.0.0](https://github.com/rassi0429/MessageCopy/releases/
 
 Sorts contacts Better™
 
-The latest version is [1.1.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.1.0)
+The latest version is [1.2.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.2.0):
+sort friends above search results
 
 <!--net.kazu0617.sessiontweaks-->
 ### [SessionTweaks](https://github.com/kazu0617/SessionTweaks) by [kazu0617](https://github.com/kazu0617)

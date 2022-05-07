@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-06T00:10:09.890978+00:00'>06 May 2022, 12:09 UTC</time>
+Last updated at <time datetime='2022-05-07T08:07:17.510412+00:00'>07 May 2022, 08:17 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -743,7 +743,9 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/DynamicBoneChainWizar
 
 Provides a wizard for cleaning up leftover logiX components.
 
-The latest version is [1.0.0](https://github.com/XDelta/NeosLogixCleanupWizard/releases/tag/1.0.0)
+The latest version is [1.0.2](https://github.com/XDelta/NeosLogixCleanupWizard/releases/tag/1.0.2):
+Fixes empty Ref removal
+Status messages no longer are cleared
 
 <!--net.toxic_cookie.neosbakery-->
 ### [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) by [Toxic_Cookie](https://github.com/Toxic-Cookie)

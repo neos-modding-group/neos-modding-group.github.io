@@ -2,9 +2,16 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-07T08:07:17.510412+00:00'>07 May 2022, 08:17 UTC</time>
+Last updated at <time datetime='2022-05-08T11:19:20.735139+00:00'>08 May 2022, 11:20 UTC</time>
 
 ## Asset Importing Tweaks
+
+<!--net.DoubleStyx.AutoConfigureNormalMaps-->
+### [AutoConfigureNormalMaps](https://github.com/DoubleStyx/AutoConfigureNormalMaps) by [DoubleStyx](https://github.com/DoubleStyx)
+
+Automatically sets imported textures as normal maps according to a custom Regex expression.
+
+The latest version is [1.0.0](https://github.com/DoubleStyx/AutoConfigureNormalMaps/releases/tag/1.0.0)
 
 <!--net.dfghiatus.autoimageresize-->
 ### [AutoResizeImages](https://github.com/dfgHiatus/AutoResizeImages) by [dfgHiatus](https://github.com/dfgHiatus)

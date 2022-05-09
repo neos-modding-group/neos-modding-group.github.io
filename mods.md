@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-08T11:19:20.735139+00:00'>08 May 2022, 11:20 UTC</time>
+Last updated at <time datetime='2022-05-09T20:40:54.235923+00:00'>09 May 2022, 08:54 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -544,6 +544,13 @@ The latest version is [1.0.0](https://github.com/Sox-NeosVR/LocalStreamVolume/re
 Automatically makes any video you import have a local volume slider
 
 The latest version is [1.0.0](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
+
+<!--tk.deltawolf.NeosBetterGizmos-->
+### [NeosBetterGizmos](https://github.com/XDelta/NeosBetterGizmos) by [Delta](https://github.com/XDelta)
+
+Gizmo buttons will automatically face you.
+
+The latest version is [1.0.0](https://github.com/XDelta/NeosBetterGizmos/releases/tag/1.0.0)
 
 <!--dev.zkxs.neosplatformspoof-->
 ### [NeosPlatformSpoof](https://github.com/zkxs/NeosPlatformSpoof) by [runtime](https://github.com/zkxs)

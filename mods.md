@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-09T20:40:54.235923+00:00'>09 May 2022, 08:54 UTC</time>
+Last updated at <time datetime='2022-05-13T08:35:08.422135+00:00'>13 May 2022, 08:08 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -293,9 +293,9 @@ The latest version is [1.1.1](https://github.com/art0007i/ShowDriveSource/releas
 <!--dev.zkxs.neosdesktoptoolshortcutremapper-->
 ### [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) by [runtime](https://github.com/zkxs)
 
-Remaps `5` on desktop from ShapeTip to ComponentCloneTip
+Fully configurable number key bindings for spawning arbitrary tools. You do not need to restart Neos to apply changes.
 
-The latest version is [1.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRemapper/releases/tag/1.0.0)
+The latest version is [2.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRemapper/releases/tag/2.0.0)
 
 <!--net.kazu0617.desktoptoolshortcutremapper-->
 ### [DesktopToolShortcutRemapper (kazu's fork)](https://github.com/kazu0617/DesktopToolShortcutRemapper) by [kazu0617](https://github.com/kazu0617)

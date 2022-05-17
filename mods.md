@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-13T08:35:08.422135+00:00'>13 May 2022, 08:08 UTC</time>
+Last updated at <time datetime='2022-05-17T14:18:07.172348+00:00'>17 May 2022, 02:07 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -640,6 +640,13 @@ The latest version is [1.3.1](https://github.com/KyuubiYoru/IkCulling/releases/t
 Kills the log spam normally caused by changing world configuration
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosKillLogSpam/releases/tag/1.0.0.0)
+
+<!--me.art0007i.StackTraceFixer-->
+### [StackTraceFixer](https://github.com/art0007i/StackTraceFixer) by [art0007i](https://github.com/art0007i)
+
+Removes stack traces from places where they should have never been
+
+The latest version is [1.0.0](https://github.com/art0007i/StackTraceFixer/releases/tag/1.0.0.0)
 
 ## Technical Tweaks
 

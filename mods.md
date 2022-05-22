@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-17T14:18:07.172348+00:00'>17 May 2022, 02:07 UTC</time>
+Last updated at <time datetime='2022-05-22T11:31:00.684468+00:00'>22 May 2022, 11:00 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -185,6 +185,13 @@ Removes the 5-second cool-down on hyperlinks
 The latest version is [1.0.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.0.0)
 
 ## General Ui Tweaks
+
+<!--net.DoubleStyx.NotificationsWhenBusy-->
+### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
+
+Allows you to receive notifications while your status is set to Busy.
+
+The latest version is [1.0.0](https://github.com/DoubleStyx/NotificationsWhenBusy/releases/tag/v1.0.0)
 
 <!--net.eia485.reduceanimation-->
 ### [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) by [eia485](https://github.com/EIA485)

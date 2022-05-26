@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-22T11:31:00.684468+00:00'>22 May 2022, 11:00 UTC</time>
+Last updated at <time datetime='2022-05-26T18:15:25.931954+00:00'>26 May 2022, 06:25 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -183,6 +183,22 @@ The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases
 Removes the 5-second cool-down on hyperlinks
 
 The latest version is [1.0.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.0.0)
+
+## Developers
+
+<!--Banane9.AvatarClothingHelper-->
+### [AvatarClothingHelper](https://github.com/Banane9/NeosAvatarClothingHelper) by [Banane9](https://github.com/Banane9)
+
+Automatically sets up Blendshapes with the same name on multiple renderers to be driven by the primary mesh's values on import or when pressing a button on the SkinnedMeshRenderer.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosAvatarClothingHelper/releases/tag/v1.0.0)
+
+<!--Banane9.DynVarSpaceTree-->
+### [DynVarSpaceTree](https://github.com/Banane9/NeosDynVarSpaceTree) by [Banane9](https://github.com/Banane9)
+
+Adds buttons to the DynamicVariableSpace component in the inspector that allow copying all linked variable definitions or the whole hierarchy of linked dynamic variable components.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v1.0.0)
 
 ## General Ui Tweaks
 
@@ -388,7 +404,7 @@ The latest version is [1.0.0](https://github.com/badhaloninja/PrimaryHandLegacyW
 
 Optimizes and optionally animates LogiX wires.
 
-The latest version is [1.1.0](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll/releases/tag/v1.1.0)
+The latest version is [1.2.0](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll/releases/tag/v1.2.0)
 
 <!--me.art0007i.CastNodeHotline-->
 ### [CastNodeHotline](https://github.com/art0007i/CastNodeHotline) by [art0007i](https://github.com/art0007i)
@@ -437,7 +453,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosFixToString/releases
 
 Allows creating LogiX registers with localized values directly.
 
-The latest version is [1.1.0](https://github.com/Banane9/NeosLocalLogixRegisters/releases/tag/v1.1.0)
+The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters/releases/tag/v1.2.0)
 
 <!--me.badhaloninja.logixutils-->
 ### [LogixUtils](https://github.com/badhaloninja/LogixUtils) by [badhaloninja](https://github.com/badhaloninja)
@@ -523,6 +539,13 @@ Enables physical grabbing in screen mode
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosDesktopPhisicalGrab/releases/tag/1.0.0.0)
 
+<!--Banane9.EditorTabbing-->
+### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9)
+
+Adds moving between UIX text inputs in the inspector or anywhere else with tab and/or enter.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v1.0.0)
+
 <!--net.eia485.exposepatchedmethods-->
 ### [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) by [eia485](https://github.com/EIA485), [kazu0617](https://github.com/kazu0617)
 
@@ -572,6 +595,13 @@ The latest version is [1.1.1](https://github.com/zkxs/NeosPlatformSpoof/releases
 Restores Vive tracker names to their old LHR-whatever behavior
 
 The latest version is [1.0.0](https://github.com/zkxs/NeosTrackerIdStabilizer/releases/tag/1.0.0.0)
+
+<!--Banane9.NoEscape-->
+### [NoEscape](https://github.com/Banane9/NeosNoEscape) by [Banane9](https://github.com/Banane9)
+
+Can disable the emergency respawn / disconnect gesture.
+
+The latest version is [1.1.0](https://github.com/Banane9/NeosNoEscape/releases/tag/v1.1.0)
 
 <!--net.eia485.nosteam-->
 ### [NoSteam](https://github.com/EIA485/NeosNoSteam) by [eia485](https://github.com/EIA485)

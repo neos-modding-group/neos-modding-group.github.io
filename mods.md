@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-26T18:15:25.931954+00:00'>26 May 2022, 06:25 UTC</time>
+Last updated at <time datetime='2022-05-26T18:17:58.991513+00:00'>26 May 2022, 06:58 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -122,10 +122,9 @@ The latest version is [1.0.0](https://github.com/rassi0429/SaveToWhere/releases/
 
 replaces 2D overlay dash in Screen mode with the regular 3D one
 
-The latest version is [3.0.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.0.0.0):
+The latest version is [3.2.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.2.0.0):
 
-- Added automated compatibility tweak - if the mod detects badhaloninja's DesktopNotifications installed, the VR notification restoration patch is automatically disabled
- - Camera Controls UI can be now released from its slider - can be turned on in mod config, requires Neos restart on change
+- added ability to disable the mod trough mod config (requires Neos restart to take effect)
 
 <!--net.eia485.allowmultipleaudiostreams-->
 ### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)

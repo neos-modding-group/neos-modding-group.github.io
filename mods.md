@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-26T18:17:58.991513+00:00'>26 May 2022, 06:58 UTC</time>
+Last updated at <time datetime='2022-05-26T23:59:34.991459+00:00'>26 May 2022, 11:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -520,6 +520,13 @@ Makes EVERYTHING dark mode
 The latest version is [1.0.0](https://github.com/EIA485/NeosYouWantDarkmode/releases/tag/1.0.0.0)
 
 ## Misc
+
+<!--io.github.frozenreflex.neosaudiocustomizer-->
+### [AudioCustomizer](https://github.com/Frozenreflex/NeosAudioCustomizer) by [Fro Zen](https://github.com/Frozenreflex)
+
+Allows adjusting the max amount of audio voices
+
+The latest version is [1.0.0](https://github.com/Frozenreflex/NeosAudioCustomizer/releases/tag/1.0.0)
 
 <!--dev.zkxs.neoscloudhomeaccesslevel-->
 ### [CloudHomeAccessLevel](https://github.com/zkxs/NeosCloudHomeAccessLevel) by [runtime](https://github.com/zkxs)

@@ -5,6 +5,9 @@ title: Mod Auditing Process
 
 This is the process mod auditors follow when reviewing a new addition to the manifest.
 
+## Who Can Audit?
+Anyone! The people auditing mods are volunteers, and all help is appreciated.
+
 ## Pull Requests
 
 - Submissions are [pull requests] on this repository that add a new mod or mod version

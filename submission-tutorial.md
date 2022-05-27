@@ -3,7 +3,7 @@ layout: page
 title: Submission Tutorial
 ---
 
-Create a [new pull request] adding a new mod definition to the [manifest]. An example mod definition is provided below. Note that comments are not allowed in JSON and are only provided here for your reference.
+Create a new pull request adding a new mod definition to the [manifest]. (If you're new to GitHub, they have a simple [web editor][github web pull request] for pull requests). An example mod definition is provided below. Note that comments are not allowed in JSON and are only provided here for your reference.
 
 ```js
 "dev.zkxs.examplemod": { // GUID for your mod. This MUST be unique.
@@ -31,6 +31,8 @@ Create a [new pull request] adding a new mod definition to the [manifest]. An ex
 }
 ```
 
+If you're trying to figure out how to get the sha256 hash, a [web tool like this][sha256 online] may help.
+
 Some of these fields are optional, and some rarely-used fields are omitted from this example. Consult the [schema] for more details.
 
 Once your pull request is created, community members will review your submission as per the [mod auditing process].
@@ -41,9 +43,10 @@ Take a look at the [category list][categories] and check how [other mods][mod li
 
 <!-- Links -->
 [categories]: categories
+[github web pull request]: https://github.com/neos-modding-group/neos-mod-manifest/edit/master/manifest.json
 [manifest]: https://github.com/neos-modding-group/neos-mod-manifest/blob/master/manifest.json
 [mod auditing process]: auditing-process
-[mod list]: ../
+[mod list]: mods
 [mod submission guidelines]: mod-guidelines
-[new pull request]: https://github.com/neos-modding-group/neos-mod-manifest/compare
 [schema]: schema
+[sha256 online]: https://emn178.github.io/online-tools/sha256_checksum.html

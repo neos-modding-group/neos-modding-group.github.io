@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-26T23:59:34.991459+00:00'>26 May 2022, 11:34 UTC</time>
+Last updated at <time datetime='2022-05-27T17:49:11.873041+00:00'>27 May 2022, 05:11 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -750,6 +750,13 @@ Shows the hidden category
 The latest version is [1.1.0](https://github.com/EIA485/NeosShowHiddenCategory/releases/tag/1.1.0.0)
 
 ## Visual Tweaks
+
+<!--net.Cyro.InterfacialAbsence-->
+### [Interfacial Absence](https://github.com/RileyGuy/InterfacialAbsence) by [Cyro](https://github.com/RileyGuy)
+
+A mod that lets you avoid having to user LogiX Interface Proxies in Neos 
+
+The latest version is [1.0.0](https://github.com/RileyGuy/InterfacialAbsence/releases/tag/1.0.0)
 
 <!--dev.zkxs.motionblurdisable-->
 ### [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) by [runtime](https://github.com/zkxs)

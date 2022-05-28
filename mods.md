@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-28T04:39:51.496424+00:00'>28 May 2022, 04:51 UTC</time>
+Last updated at <time datetime='2022-05-28T08:25:20.734356+00:00'>28 May 2022, 08:20 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -200,6 +200,13 @@ Adds buttons to the DynamicVariableSpace component in the inspector that allow c
 The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v1.0.0)
 
 ## General Ui Tweaks
+
+<!--net.LeCloutPanda.InspectorCustomizer-->
+### [InspectorCustomizer](https://github.com/LeCloutPanda/Inspector-Customizer) by [LeCloutPanda](https://https://github.com/LeCloutPanda)
+
+Allows you to customize some Neos panel items including Inspector, Logix browser and more.
+
+The latest version is [1.0.5](https://github.com/LeCloutPanda/Inspector-Customizer/releases/tag/v1.0.5)
 
 <!--net.DoubleStyx.NotificationsWhenBusy-->
 ### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
@@ -741,6 +748,13 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosRenameDirectlyLinke
 Shows the hidden category
 
 The latest version is [1.1.0](https://github.com/EIA485/NeosShowHiddenCategory/releases/tag/1.1.0.0)
+
+<!--net.LeCloutPanda.VideoToStream-->
+### [Video To Stream](https://github.com/LeCloutPanda/Video-To-Stream) by [LeCloutPanda](https://https://github.com/LeCloutPanda)
+
+Sets Video Players spawned by the player to automatically set Stream to true.
+
+The latest version is [1.0.0](https://github.com/LeCloutPanda/Video-To-Stream/releases/tag/v1.0.0)
 
 ## Visual Tweaks
 

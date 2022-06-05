@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-05-30T18:56:04.502392+00:00'>30 May 2022, 06:04 UTC</time>
+Last updated at <time datetime='2022-06-05T02:04:10.443651+00:00'>05 June 2022, 02:10 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -608,6 +608,13 @@ The latest version is [1.0.0](https://github.com/zkxs/NeosTrackerIdStabilizer/re
 Can disable the emergency respawn / disconnect gesture.
 
 The latest version is [1.1.0](https://github.com/Banane9/NeosNoEscape/releases/tag/v1.1.0)
+
+<!--io.github.frozenreflex.nomoregizmolag-->
+### [NoMoreGizmoLag](https://github.com/Frozenreflex/NoMoreGizmoLag) by [Fro Zen](https://github.com/Frozenreflex)
+
+Reduces gizmo lag by disabling the pink bounding boxes
+
+The latest version is [1.0.0](https://github.com/Frozenreflex/NoMoreGizmoLag/releases/tag/1.0.0)
 
 <!--net.eia485.nosteam-->
 ### [NoSteam](https://github.com/EIA485/NeosNoSteam) by [eia485](https://github.com/EIA485)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-05T02:04:10.443651+00:00'>05 June 2022, 02:10 UTC</time>
+Last updated at <time datetime='2022-06-05T03:04:22.613173+00:00'>05 June 2022, 03:22 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -548,9 +548,9 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosDesktopPhisicalGrab/
 <!--Banane9.EditorTabbing-->
 ### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9)
 
-Adds moving between UIX text inputs in the inspector or anywhere else with tab and/or enter.
+Allows moving between UIX text inputs in the inspector or anywhere else with tab, with a fallback when Steam Overlay could be triggered with shift+tab.
 
-The latest version is [1.0.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v1.1.0)
 
 <!--net.eia485.exposepatchedmethods-->
 ### [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) by [eia485](https://github.com/EIA485), [kazu0617](https://github.com/kazu0617)
@@ -558,6 +558,13 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosEditorTabbing/relea
 Exposes what mods you have loaded to userspace and/or worldspace
 
 The latest version is [2.0.0](https://github.com/EIA485/NeosExposePatchedMethods/releases/tag/2.0.0.0)
+
+<!--Banane9.LagFreeContactsLoading-->
+### [LagFreeContactsLoading](https://github.com/Banane9/NeosLagFreeContactsLoading) by [Banane9](https://github.com/Banane9)
+
+Spreads out the initial loading of the contacts list over a configurable number of updates to prevent the game from freezing while it adds all the contacts.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosLagFreeContactsLoading/releases/tag/v1.0.0)
 
 <!--xyz.ljoonal.neos.latestlog-->
 ### [LatestLog](https://neos.ljoonal.xyz/mods/#latest-log) by [ljoonal](https://www.ljoonal.xyz/)

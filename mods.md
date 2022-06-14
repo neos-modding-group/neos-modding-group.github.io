@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-05T03:04:22.613173+00:00'>05 June 2022, 03:22 UTC</time>
+Last updated at <time datetime='2022-06-14T03:00:41.828156+00:00'>14 June 2022, 03:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -395,6 +395,13 @@ The latest version is [1.1.0](https://github.com/XDelta/NeosPTTKeybinds/releases
 Changes the legacy world switcher to open depending on the primary hand setting
 
 The latest version is [1.0.0](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher/releases/tag/v1.0.0)
+
+<!--dev.Kodu.ViveForAll-->
+### [ViveForAll](https://github.com/Kodufan/ViveForAll) by [Kodufan](https://github.com/Kodufan)
+
+Brings HTC Vive single button App / Localspace toggle functionality to other controllers.
+
+The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag/1.0.0)
 
 ## LogiX
 

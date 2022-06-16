@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-14T03:00:41.828156+00:00'>14 June 2022, 03:41 UTC</time>
+Last updated at <time datetime='2022-06-16T15:46:14.459812+00:00'>16 June 2022, 03:14 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -145,7 +145,7 @@ The latest version is [1.0.0](https://github.com/badhaloninja/ContactsPublishedW
 
 Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 
-The latest version is [1.1.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.0.0.0)
+The latest version is [1.0.0.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.0.0.0)
 
 <!--net.cyro.loadalready-->
 ### [LoadAlready](https://github.com/RileyGuy/LoadAlready) by [Cyro](https://github.com/RileyGuy)
@@ -406,7 +406,7 @@ The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag
 ## LogiX
 
 <!--Banane9.BetterLogixWiresThatCanScroll-->
-### [BetterLogixWiresThatCanScroll](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll) by [eia485](https://github.com/EIA485), [Banane9](https://github.com/Banane9)
+### [BetterLogixWiresThatCanScroll](https://github.com/Banane9/NeosBetterLogixWiresThatCanScroll) by [Banane9](https://github.com/Banane9), [eia485](https://github.com/EIA485)
 
 Optimizes and optionally animates LogiX wires.
 
@@ -586,14 +586,14 @@ Removed the need for Harmony
 
  Makes any audio stream you create have a local volume slider
 
-The latest version is [1.0.0](https://github.com/Sox-NeosVR/LocalStreamVolume/releases/tag/1.0.0.1)
+The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalStreamVolume/releases/tag/1.0.0.1)
 
 <!--net.sox.localvideoplayervolume-->
 ### [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) by [Sox](https://github.com/Sox-NeosVR)
 
 Automatically makes any video you import have a local volume slider
 
-The latest version is [1.0.0](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
+The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
 
 <!--tk.deltawolf.NeosBetterGizmos-->
 ### [NeosBetterGizmos](https://github.com/XDelta/NeosBetterGizmos) by [Delta](https://github.com/XDelta)
@@ -673,7 +673,7 @@ The latest version is [1.0.1](https://github.com/zkxs/VoiceVolumeOverride/releas
 
 Allows you to define, save, load and use custom settings
 
-The latest version is [1.0.0](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
+The latest version is [1.0.0.2](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
 
 ## Optimization
 

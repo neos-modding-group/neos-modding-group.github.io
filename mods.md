@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-16T15:46:14.459812+00:00'>16 June 2022, 03:14 UTC</time>
+Last updated at <time datetime='2022-06-18T20:29:34.961207+00:00'>18 June 2022, 08:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -696,7 +696,7 @@ The latest version is [1.0.3](https://github.com/dfgHiatus/CacheGetClapped/relea
 
 Disables the IK of Users who are behind you or far away
 
-The latest version is [1.3.1](https://github.com/KyuubiYoru/IkCulling/releases/tag/1.3.1)
+The latest version is [1.4.0](https://github.com/KyuubiYoru/IkCulling/releases/tag/1.4.0)
 
 <!--net.eia485.killlogspam-->
 ### [KillLogSpam](https://github.com/EIA485/NeosKillLogSpam) by [eia485](https://github.com/EIA485)

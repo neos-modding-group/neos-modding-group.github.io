@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-18T20:29:34.961207+00:00'>18 June 2022, 08:34 UTC</time>
+Last updated at <time datetime='2022-06-19T12:51:01.845261+00:00'>19 June 2022, 12:01 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -564,7 +564,7 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosEditorTabbing/relea
 
 Exposes what mods you have loaded to userspace and/or worldspace
 
-The latest version is [2.0.0](https://github.com/EIA485/NeosExposePatchedMethods/releases/tag/2.0.0.0)
+The latest version is [3.0.0](https://github.com/EIA485/NeosExposePatchedMethods/releases/tag/3.0.0.0)
 
 <!--Banane9.LagFreeContactsLoading-->
 ### [LagFreeContactsLoading](https://github.com/Banane9/NeosLagFreeContactsLoading) by [Banane9](https://github.com/Banane9)

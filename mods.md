@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-27T17:17:31.160623+00:00'>27 June 2022, 05:31 UTC</time>
+Last updated at <time datetime='2022-06-27T17:17:40.197323+00:00'>27 June 2022, 05:40 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -273,7 +273,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosLocalSlotNames/relea
 
 Adds reference proxy sources to bag editors and list editors
 
-The latest version is [1.0.0](https://github.com/EIA485/NeosMoreReferenceProxies/releases/tag/1.0.0.0)
+The latest version is [1.1.0](https://github.com/EIA485/NeosMoreReferenceProxies/releases/tag/1.1.0.0)
 
 <!--io.github.frozenreflex.neosparticletools-->
 ### [NeosParticleTools](https://github.com/Frozenreflex/NeosParticleTools) by [Fro Zen](https://github.com/Frozenreflex)

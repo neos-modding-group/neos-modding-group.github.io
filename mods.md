@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-19T12:51:01.845261+00:00'>19 June 2022, 12:01 UTC</time>
+Last updated at <time datetime='2022-06-27T17:17:31.160623+00:00'>27 June 2022, 05:31 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -643,6 +643,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosNoSteam/releases/tag
 Can individually hide each part of the ViolentAprilFoolsExplosion.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosPacifistAprilFoolsExplosion/releases/tag/v1.0.0)
+
+<!--Psychpsyo.PrivacyPlus-->
+### [PrivacyPlus](https://github.com/Psychpsyo/PrivacyPlus) by [Psychpsyo](https://github.com/Psychpsyo)
+
+Hides your Discord and Steam IDs from other users in a session.
+
+The latest version is [1.0.0](https://github.com/Psychpsyo/PrivacyPlus/releases/tag/release)
 
 <!--xyz.ljoonal.neos.privacyshield-->
 ### [PrivacyShield](https://neos.ljoonal.xyz/mods/#privacy-shield) by [ljoonal](https://www.ljoonal.xyz/)

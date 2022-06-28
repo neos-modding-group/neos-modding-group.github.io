@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-27T17:17:40.197323+00:00'>27 June 2022, 05:40 UTC</time>
+Last updated at <time datetime='2022-06-28T15:26:29.360164+00:00'>28 June 2022, 03:29 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -200,6 +200,13 @@ Adds buttons to the DynamicVariableSpace component in the inspector that allow c
 The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v1.0.0)
 
 ## General Ui Tweaks
+
+<!--dev.Kodu.CustomNotificationSounds-->
+### [CustomNotificationSounds](https://github.com/Kodufan/CustomNotificationSounds) by [Kodufan](https://github.com/Kodufan)
+
+Change Neos' notification sounds!
+
+The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSounds/releases/tag/v1.0.0)
 
 <!--net.LeCloutPanda.InspectorCustomizer-->
 ### [InspectorCustomizer](https://github.com/LeCloutPanda/Inspector-Customizer) by [LeCloutPanda](https://https://github.com/LeCloutPanda)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-28T15:26:29.360164+00:00'>28 June 2022, 03:29 UTC</time>
+Last updated at <time datetime='2022-06-29T17:44:25.140462+00:00'>29 June 2022, 05:25 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -664,6 +664,13 @@ The latest version is [1.0.0](https://github.com/Psychpsyo/PrivacyPlus/releases/
 Some privacy enhancements like requesting web permission for anything outside of Neos APIs, not just web requests. Also timezone and FPS spoofing.
 
 The latest version is [0.3.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-12)
+
+<!--net.eia485.privacyshield-->
+### [PrivacyShield](https://github.com/EIA485/NeosPrivacyShield) by [eia485](https://github.com/EIA485), [ljoonal](https://www.ljoonal.xyz/)
+
+Makes popup requests for geting assets from urls
+
+The latest version is [0.3.1](https://github.com/EIA485/NeosPrivacyShield/releases/tag/0.3.1)
 
 <!--dev.zkxs.neosvoicequality-->
 ### [VoiceQuality](https://github.com/zkxs/NeosVoiceQuality) by [runtime](https://github.com/zkxs)

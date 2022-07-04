@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-06-29T17:44:25.140462+00:00'>29 June 2022, 05:25 UTC</time>
+Last updated at <time datetime='2022-07-04T00:04:45.911763+00:00'>04 July 2022, 12:45 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -367,6 +367,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosKillDesktopTools/rel
 Allows you to configure on which sides the thumbstick will be used as jump.
 
 The latest version is [1.1.0](https://github.com/Banane9/NeosMaybeJump/releases/tag/v1.1.0)
+
+<!--net.lexevo.NeosDisableGamepads-->
+### [NeosDisableGamepads](https://github.com/Lexevolution/NeosDisableGamepads) by [Lexevo](https://github.com/Lexevolution)
+
+Disables all gamepad inputs (eg. from an Xbox controller) for Neos!
+
+The latest version is [1.0.0](https://github.com/Lexevolution/NeosDisableGamepads/releases/tag/v1.0.0)
 
 <!--me.art0007i.noheadmenudash-->
 ### [NoHeadMenuDash](https://github.com/art0007i/NoHeadMenuDash) by [art0007i](https://github.com/art0007i)

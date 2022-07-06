@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-04T00:04:45.911763+00:00'>04 July 2022, 12:45 UTC</time>
+Last updated at <time datetime='2022-07-06T03:01:03.370223+00:00'>06 July 2022, 03:03 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -122,9 +122,9 @@ The latest version is [1.0.0](https://github.com/rassi0429/SaveToWhere/releases/
 
 replaces 2D overlay dash in Screen mode with the regular 3D one
 
-The latest version is [3.2.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.2.0.0):
+The latest version is [3.3.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.3.0.0):
 
-- added ability to disable the mod trough mod config (requires Neos restart to take effect)
+- patched out the grab lock forcing last grabbed item to stay grabbed if dash is opened
 
 <!--net.eia485.allowmultipleaudiostreams-->
 ### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)

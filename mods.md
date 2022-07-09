@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-06T12:22:07.946250+00:00'>06 July 2022, 12:07 UTC</time>
+Last updated at <time datetime='2022-07-09T02:48:29.202163+00:00'>09 July 2022, 02:29 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -122,9 +122,9 @@ The latest version is [1.0.0](https://github.com/rassi0429/SaveToWhere/releases/
 
 replaces 2D overlay dash in Screen mode with the regular 3D one
 
-The latest version is [3.3.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.3.0.0):
+The latest version is [3.4.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.4.0.0):
 
-- patched out the grab lock forcing last grabbed item to stay grabbed if dash is opened
+- compatibility hotfix for compatibility with ExitAndDiscardHomesKeybind
 
 <!--net.eia485.allowmultipleaudiostreams-->
 ### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)
@@ -339,6 +339,15 @@ The latest version is [2.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRem
 Fully configurable number key bindings for spawning arbitrary tools
 
 The latest version is [2.0.0](https://github.com/kazu0617/DesktopToolShortcutRemapper/releases/tag/v2.0.0-kazu)
+
+<!--net.rampa3.ExitAndDiscardHomesKeybind-->
+### [ExitAndDiscardHomesKeybind](https://github.com/rampa3/ExitAndDiscardHomesKeybind) by [rampa3](https://github.com/rampa3)
+
+allows to exit without saving changes in home world using Ctrl+Alt+F4 key shortcut
+
+The latest version is [1.0.0](https://github.com/rampa3/ExitAndDiscardHomesKeybind/releases/tag/1.0.0.0):
+
+- initial relese, adds the keybind and can be disabled trough mod config
 
 <!--net.dfghiatus.fingerqrcode-->
 ### [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) by [dfgHiatus](https://github.com/dfgHiatus)

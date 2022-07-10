@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-09T02:48:29.202163+00:00'>09 July 2022, 02:29 UTC</time>
+Last updated at <time datetime='2022-07-10T04:25:19.382392+00:00'>10 July 2022, 04:19 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -25,21 +25,21 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/AutoResizeImages/rele
 
 Lets you change your default video player
 
-The latest version is [1.0.2](https://github.com/art0007i/CustomVideoPlayers/releases/tag/1.0.2.0)
+The latest version is [2.0.0](https://github.com/art0007i/CustomVideoPlayers/releases/tag/2.0.0.0)
 
 <!--tk.kawaiiamber.gifimporter-->
 ### [GifImporter](https://github.com/kawaiiamber/GifImporter) by [amber](https://github.com/kawaiiamber)
 
 Allows you to import gif images
 
-The latest version is [1.1.1](https://github.com/kawaiiamber/GifImporter/releases/tag/1.1.1.0)
+The latest version is [1.1.2](https://github.com/kawaiiamber/GifImporter/releases/tag/1.1.2)
 
 <!--dev.kokoa.neospastetweak-->
 ### [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) by [kka429](https://github.com/rassi0429)
 
 Allows you to paste text and URL
 
-The latest version is [1.0.1](https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.0.1)
+The latest version is [1.0.2](https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.0.2)
 
 <!--me.art0007i.pasteinvidious-->
 ### [PasteInvidious](https://github.com/art0007i/PasteInvidious) by [art0007i](https://github.com/art0007i)
@@ -161,6 +161,13 @@ Lets you copy msgs from dms
 
 The latest version is [1.0.0](https://github.com/rassi0429/MessageCopy/releases/tag/v1.0.0)
 
+<!--me.badhaloninja.neosmodsettings-->
+### [ModSettings](https://github.com/badhaloninja/NeosModSettings) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds a dash screen to edit mod configs
+
+The latest version is [1.1.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.1.0)
+
 <!--dev.zkxs.neoscontactssort-->
 ### [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) by [runtime](https://github.com/zkxs)
 
@@ -190,7 +197,7 @@ The latest version is [1.0.0](https://github.com/dfgHiatus/SpeedyURLs/releases/t
 
 Automatically sets up Blendshapes with the same name on multiple renderers to be driven by the primary mesh's values on import or when pressing a button on the SkinnedMeshRenderer.
 
-The latest version is [1.0.0](https://github.com/Banane9/NeosAvatarClothingHelper/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/Banane9/NeosAvatarClothingHelper/releases/tag/v1.1.0)
 
 <!--Banane9.DynVarSpaceTree-->
 ### [DynVarSpaceTree](https://github.com/Banane9/NeosDynVarSpaceTree) by [Banane9](https://github.com/Banane9)
@@ -268,6 +275,13 @@ Makes it so you can grab and drop colors
 
 The latest version is [1.1.0](https://github.com/art0007i/ColorDrop/releases/tag/1.1.0.0)
 
+<!--me.badhaloninja.ComponentAttacherFavorites-->
+### [ComponentAttacherFavorites](https://github.com/badhaloninja/ComponentAttacherFavorites/) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds the ability to save favorite components
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.0)
+
 <!--net.eia485.localslotnames-->
 ### [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) by [eia485](https://github.com/EIA485)
 
@@ -315,7 +329,7 @@ The latest version is [1.0.0](https://github.com/art0007i/ShowComponentSlot/rele
 
 Shows delegates in inspectors
 
-The latest version is [1.0.0](https://github.com/art0007i/ShowDelegates/releases/tag/1.0.0.0)
+The latest version is [1.1.0](https://github.com/art0007i/ShowDelegates/releases/tag/1.1.0.0)
 
 <!--me.art0007i.showdrivesource-->
 ### [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) by [art0007i](https://github.com/art0007i)
@@ -426,6 +440,15 @@ Brings HTC Vive single button App / Localspace toggle functionality to other con
 
 The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag/1.0.0)
 
+## Libraries
+
+<!--me.art0007i.SpecialItemsLib-->
+### [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) by [art0007i](https://github.com/art0007i/)
+
+A library which allows other mods to easily add custom special items to be shown in the inventory.
+
+The latest version is [1.1.0](https://github.com/art0007i/SpecialItemsLib/releases/tag/1.1.0)
+
 ## LogiX
 
 <!--Banane9.BetterLogixWiresThatCanScroll-->
@@ -489,7 +512,7 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters
 
 Tweaks some logix things
 
-The latest version is [1.5.0](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.0)
+The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.1)
 
 <!--net.eia485.ReferenceNodeHotline-->
 ### [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) by [eia485](https://github.com/EIA485)

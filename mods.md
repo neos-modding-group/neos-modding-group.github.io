@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-10T04:25:19.382392+00:00'>10 July 2022, 04:19 UTC</time>
+Last updated at <time datetime='2022-07-18T07:44:22.649020+00:00'>18 July 2022, 07:22 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -579,7 +579,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosYouWantDarkmode/rele
 
 Allows adjusting the max amount of audio voices
 
-The latest version is [1.0.0](https://github.com/Frozenreflex/NeosAudioCustomizer/releases/tag/1.0.0)
+The latest version is [1.0.1](https://github.com/Frozenreflex/NeosAudioCustomizer/releases/tag/1.0.1)
 
 <!--dev.zkxs.neoscloudhomeaccesslevel-->
 ### [CloudHomeAccessLevel](https://github.com/zkxs/NeosCloudHomeAccessLevel) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-18T07:44:22.649020+00:00'>18 July 2022, 07:22 UTC</time>
+Last updated at <time datetime='2022-07-18T09:44:26.880180+00:00'>18 July 2022, 09:26 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -139,6 +139,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioSt
 Adds a button to contacts to show their published worlds
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ContactsPublishedWorldsButton/releases/tag/v1.0.0)
+
+<!--net.eia485.friendLinkSessionList-->
+### [FriendLinkSessionList](https://github.com/EIA485/NeosFriendLinkSessionList) by [eia485](https://github.com/EIA485)
+
+Adds FriendLinks to the session tab
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosFriendLinkSessionList/releases/tag/1.0.0.0)
 
 <!--net.eia485.getitemlink-->
 ### [GetItemLink](https://github.com/EIA485/NeosGetItemLink) by [eia485](https://github.com/EIA485)

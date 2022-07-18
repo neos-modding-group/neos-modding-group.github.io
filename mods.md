@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-18T09:46:53.595268+00:00'>18 July 2022, 09:53 UTC</time>
+Last updated at <time datetime='2022-07-18T11:40:58.876256+00:00'>18 July 2022, 11:58 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -195,7 +195,8 @@ The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases
 
 Removes the 5-second cool-down on hyperlinks
 
-The latest version is [1.0.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.1.0):
+Added support for host access requests
 
 ## Developers
 

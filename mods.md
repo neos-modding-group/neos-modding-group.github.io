@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-18T09:44:26.880180+00:00'>18 July 2022, 09:26 UTC</time>
+Last updated at <time datetime='2022-07-18T09:46:53.595268+00:00'>18 July 2022, 09:53 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -527,6 +527,15 @@ The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/release
 Stops reference nodes from killing themselves
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline/releases/tag/1.0.0.0)
+
+## Logix
+
+<!--me.badhaloninja.NoLogixTraversalContext-->
+### [NoLogixTraversalContext](https://github.com/badhaloninja/NoLogixTraversalContext) by [badhaloninja](https://github.com/badhaloninja)
+
+Hides the logix tip's node traversal context item.
+
+The latest version is [1.0.0](https://github.com/badhaloninja/NoLogixTraversalContext/releases/tag/v1.0.0)
 
 ## Memes
 

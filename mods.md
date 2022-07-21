@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-18T11:40:58.876256+00:00'>18 July 2022, 11:58 UTC</time>
+Last updated at <time datetime='2022-07-21T13:42:08.253897+00:00'>21 July 2022, 01:08 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -189,6 +189,13 @@ sort friends above search results
 Adds buttons for session orb / copy session uri to your contact's tab
 
 The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.1)
+
+<!--tk.deltawolf.SettingsRedux-->
+### [SettingsRedux](https://github.com/XDelta/SettingsRedux) by [Delta](https://github.com/XDelta)
+
+Replaces the default Neos Settings page with an enhanced settings page that adds in many QoL changes
+
+The latest version is [1.0.0](https://github.com/XDelta/SettingsRedux/releases/tag/1.0.0)
 
 <!--net.dfghiatus.speedyurls-->
 ### [SpeedyURLs](https://github.com/dfgHiatus/SpeedyURLs) by [dfgHiatus](https://github.com/dfgHiatus)

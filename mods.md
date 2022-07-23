@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-21T13:42:08.253897+00:00'>21 July 2022, 01:08 UTC</time>
+Last updated at <time datetime='2022-07-23T14:56:05.870133+00:00'>23 July 2022, 02:05 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -139,6 +139,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioSt
 Adds a button to contacts to show their published worlds
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ContactsPublishedWorldsButton/releases/tag/v1.0.0)
+
+<!--net.Sox.EasyVoiceMessage-->
+### [EasyVoiceMessage](https://github.com/Sox-NeosVR/EasyVoiceMessage) by [Sox](https://github.com/Sox-NeosVR)
+
+Allows you to record voice messages without having to keep your laser on the tiny square button. (although your laser needs to stay on your dash)
+
+The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/EasyVoiceMessage/releases/tag/v1.0.0.0)
 
 <!--net.eia485.friendLinkSessionList-->
 ### [FriendLinkSessionList](https://github.com/EIA485/NeosFriendLinkSessionList) by [eia485](https://github.com/EIA485)

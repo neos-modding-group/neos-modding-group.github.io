@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-23T14:56:05.870133+00:00'>23 July 2022, 02:05 UTC</time>
+Last updated at <time datetime='2022-07-23T16:32:50.944355+00:00'>23 July 2022, 04:50 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -202,7 +202,7 @@ The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases
 
 Replaces the default Neos Settings page with an enhanced settings page that adds in many QoL changes
 
-The latest version is [1.0.0](https://github.com/XDelta/SettingsRedux/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/XDelta/SettingsRedux/releases/tag/1.1.0)
 
 <!--net.dfghiatus.speedyurls-->
 ### [SpeedyURLs](https://github.com/dfgHiatus/SpeedyURLs) by [dfgHiatus](https://github.com/dfgHiatus)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-23T16:32:50.944355+00:00'>23 July 2022, 04:50 UTC</time>
+Last updated at <time datetime='2022-07-27T08:04:39.140157+00:00'>27 July 2022, 08:39 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -536,21 +536,19 @@ Tweaks some logix things
 
 The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.1)
 
-<!--net.eia485.ReferenceNodeHotline-->
-### [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) by [eia485](https://github.com/EIA485)
-
-Stops reference nodes from killing themselves
-
-The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline/releases/tag/1.0.0.0)
-
-## Logix
-
 <!--me.badhaloninja.NoLogixTraversalContext-->
 ### [NoLogixTraversalContext](https://github.com/badhaloninja/NoLogixTraversalContext) by [badhaloninja](https://github.com/badhaloninja)
 
 Hides the logix tip's node traversal context item.
 
 The latest version is [1.0.0](https://github.com/badhaloninja/NoLogixTraversalContext/releases/tag/v1.0.0)
+
+<!--net.eia485.ReferenceNodeHotline-->
+### [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) by [eia485](https://github.com/EIA485)
+
+Stops reference nodes from killing themselves
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline/releases/tag/1.0.0.0)
 
 ## Memes
 

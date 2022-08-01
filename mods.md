@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-07-31T22:15:36.699005+00:00'>31 July 2022, 10:36 UTC</time>
+Last updated at <time datetime='2022-08-01T04:14:42.686385+00:00'>01 August 2022, 04:42 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -620,6 +620,13 @@ The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/r
 - add hide from listing config
 - remove enabled config (it didn't actually do anything of value in version 1.0.0)
 
+<!--Psychpsyo.DefaultVoiceMode-->
+### [DefaultVoiceMode](https://github.com/Psychpsyo/DefaultVoiceMode) by [Psychpsyo](https://psychpsyo.com)
+
+Gives you the option to set what voice mode should be active when the game starts.
+
+The latest version is [1.0.0](https://github.com/Psychpsyo/DefaultVoiceMode/releases/tag/1.0.0)
+
 <!--net.eia485.desktopphisicalgrab-->
 ### [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) by [eia485](https://github.com/EIA485)
 
@@ -720,11 +727,11 @@ Can individually hide each part of the ViolentAprilFoolsExplosion.
 The latest version is [1.0.0](https://github.com/Banane9/NeosPacifistAprilFoolsExplosion/releases/tag/v1.0.0)
 
 <!--Psychpsyo.PrivacyPlus-->
-### [PrivacyPlus](https://github.com/Psychpsyo/PrivacyPlus) by [Psychpsyo](https://github.com/Psychpsyo)
+### [PrivacyPlus](https://github.com/Psychpsyo/PrivacyPlus) by [Psychpsyo](https://psychpsyo.com)
 
 Hides your Discord and Steam IDs from other users in a session.
 
-The latest version is [1.0.0](https://github.com/Psychpsyo/PrivacyPlus/releases/tag/release)
+The latest version is [1.0.1](https://github.com/Psychpsyo/PrivacyPlus/releases/tag/release2)
 
 <!--xyz.ljoonal.neos.privacyshield-->
 ### [PrivacyShield](https://neos.ljoonal.xyz/mods/#privacy-shield) by [ljoonal](https://www.ljoonal.xyz/)
@@ -739,6 +746,20 @@ The latest version is [0.3.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 Makes popup requests for geting assets from urls
 
 The latest version is [0.3.1](https://github.com/EIA485/NeosPrivacyShield/releases/tag/0.3.1)
+
+<!--Psychpsyo.ShutTheFuckUp-->
+### [ShutTheFuckUp](https://github.com/Psychpsyo/ShutTheFuckUp) by [Psychpsyo](https://psychpsyo.com)
+
+Mutes custom context menus.
+
+The latest version is [1.0.0](https://github.com/Psychpsyo/ShutTheFuckUp/releases/tag/Release1)
+
+<!--Psychpsyo.TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP-->
+### [The Neos Mod That Makes It So That Your Fingers Are No Longer Trusted Touch Sources So You Can Rest Easy At Night Knowing No One Will Shove Buttons Into Your Hand Without Your Permission](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP) by [Psychpsyo](https://psychpsyo.com)
+
+See Name.
+
+The latest version is [1.0.0](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP/releases/tag/1.0.0)
 
 <!--dev.zkxs.neosvoicequality-->
 ### [VoiceQuality](https://github.com/zkxs/NeosVoiceQuality) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-01T04:14:42.686385+00:00'>01 August 2022, 04:42 UTC</time>
+Last updated at <time datetime='2022-08-05T17:33:54.656723+00:00'>05 August 2022, 05:54 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -471,6 +471,13 @@ A library which allows other mods to easily add custom special items to be shown
 
 The latest version is [1.1.0](https://github.com/art0007i/SpecialItemsLib/releases/tag/1.1.0)
 
+<!--Psychpsyo.Tooltippery-->
+### [Tooltippery](https://github.com/Psychpsyo/Tooltippery) by [Psychpsyo](https://psychpsyo.com)
+
+Adds the capability for other mods and users to add hover tooltips to buttons.
+
+The latest version is [1.0.1](https://github.com/Psychpsyo/Tooltippery/releases/tag/1.0.1)
+
 ## LogiX
 
 <!--Banane9.BetterLogixWiresThatCanScroll-->
@@ -565,6 +572,13 @@ The latest version is [1.2.0](https://github.com/EIA485/NeosCheese4All/releases/
 Shows the hidden DeZomp
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosDeZomp4All/releases/tag/1.0.0.0)
+
+<!--Psychpsyo.DiscordVR-->
+### [DiscordVR](https://github.com/Psychpsyo/DiscordVR) by [Psychpsyo](https://psychpsyo.com)
+
+Adds a Discord tab to your dash, next to the contacts tab.
+
+The latest version is [1.0.1](https://github.com/Psychpsyo/DiscordVR/releases/tag/1.0.1)
 
 <!--net.eia485.fools-->
 ### [Fools](https://github.com/EIA485/NeosFools) by [eia485](https://github.com/EIA485)

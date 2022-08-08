@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-08T19:14:30.192516+00:00'>08 August 2022, 07:30 UTC</time>
+Last updated at <time datetime='2022-08-08T19:32:41.318022+00:00'>08 August 2022, 07:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -26,6 +26,13 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/AutoResizeImages/rele
 Lets you change your default video player
 
 The latest version is [2.0.0](https://github.com/art0007i/CustomVideoPlayers/releases/tag/2.0.0.0)
+
+<!--net.Toxic_Cookie.DefaultToAnisotropic-->
+### [DefaultToAnisotropic](https://github.com/Toxic-Cookie/DefaultToAnisotropic) by [Toxic-Cookie](https://github.com/Toxic-Cookie/)
+
+Import textures using Anisotropic filtering by default
+
+The latest version is [1.1.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.1.0)
 
 <!--tk.kawaiiamber.gifimporter-->
 ### [GifImporter](https://github.com/kawaiiamber/GifImporter) by [amber](https://github.com/kawaiiamber)

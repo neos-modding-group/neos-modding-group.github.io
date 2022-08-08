@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-07T19:01:13.317163+00:00'>07 August 2022, 07:13 UTC</time>
+Last updated at <time datetime='2022-08-08T19:14:30.192516+00:00'>08 August 2022, 07:30 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -851,6 +851,13 @@ The latest version is [1.0.0](https://github.com/art0007i/StackTraceFixer/releas
 Lets you use non neos sanctioned shaders
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosAllShadersValid/releases/tag/1.0.0.0)
+
+<!--net.eia485.allowCompSpawn-->
+### [AllowCompSpawn](https://github.com/EIA485/NeosAllowCompSpawn) by [eia485](https://github.com/EIA485/)
+
+Allows spawning worker inspectors from held syncrefs unconditionally
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosAllowCompSpawn/releases/tag/1.0.0)
 
 <!--net.eia485.anyshaderanywhere-->
 ### [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) by [eia485](https://github.com/EIA485)

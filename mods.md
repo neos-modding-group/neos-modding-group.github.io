@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-14T22:54:41.827008+00:00'>14 August 2022, 10:41 UTC</time>
+Last updated at <time datetime='2022-08-14T23:08:16.851477+00:00'>14 August 2022, 11:16 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -100,6 +100,13 @@ Allows for differing makes and models of Eye and Face Trackers to operate togeth
 The latest version is [1.0.1](https://github.com/dfgHiatus/mixNmatch_lipsNmouth/releases/tag/v1.0.1)
 
 ## Context Menu Tweaks
+
+<!--net.LeCloutPanda.DefaultLaserState-->
+### [DefaultLaserState](https://github.com/LeCloutPanda/DefaultLaserState/) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Change the default state of the interaction laser
+
+The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/releases/tag/v1.0.1)
 
 <!--dev.zkxs.neoslocomotionrename-->
 ### [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) by [runtime](https://github.com/zkxs)

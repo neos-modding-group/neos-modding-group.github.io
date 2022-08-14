@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-08T19:32:41.318022+00:00'>08 August 2022, 07:41 UTC</time>
+Last updated at <time datetime='2022-08-14T22:54:41.827008+00:00'>14 August 2022, 10:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -241,6 +241,29 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosAvatarClothingHelpe
 Adds buttons to the DynamicVariableSpace component in the inspector that allow copying all linked variable definitions or the whole hierarchy of linked dynamic variable components.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v1.0.0)
+
+<!--Banane9.DynamicBlendShapeDriverSetup-->
+### [DynamicBlendShapeDriverSetup](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup) by [Banane9](https://github.com/Banane9)
+
+Adds buttons to the DynamicBlendShapeDriver component to automatically add entries for all BlendShapes on the linked SkinnedMeshRenderer.
+
+The latest version is [1.1.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.1.0)
+
+## General UI Tweaks
+
+<!--Banane9.FlexibleContactsSort-->
+### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
+
+Sorts contacts Better™ and to your liking.
+
+The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
+
+<!--Banane9.StopDisappearingLocomotionMenu-->
+### [StopDisappearingLocomotionMenu](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu) by [Banane9](https://github.com/Banane9)
+
+Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
 
 ## General Ui Tweaks
 

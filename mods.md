@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-15T03:43:18.481588+00:00'>15 August 2022, 03:18 UTC</time>
+Last updated at <time datetime='2022-08-15T03:43:47.571366+00:00'>15 August 2022, 03:47 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -294,6 +294,13 @@ The latest version is [1.0.5](https://github.com/LeCloutPanda/Inspector-Customiz
 Allows you to receive notifications while your status is set to Busy.
 
 The latest version is [1.0.0](https://github.com/DoubleStyx/NotificationsWhenBusy/releases/tag/v1.0.0)
+
+<!--me.badhaloninja.ReadableDebugDialog-->
+### [ReadableDebugDialog](https://github.com/badhaloninja/ReadableDebugDialog/) by [badhaloninja](https://github.com/badhaloninja)
+
+Makes the debug dialog more readable in dark lighting
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ReadableDebugDialog/releases/tag/v1.0.0)
 
 <!--net.eia485.reduceanimation-->
 ### [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) by [eia485](https://github.com/EIA485)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-15T03:43:47.571366+00:00'>15 August 2022, 03:47 UTC</time>
+Last updated at <time datetime='2022-08-15T20:23:07.969501+00:00'>15 August 2022, 08:07 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -107,6 +107,13 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/mixNmatch_lipsNmouth/
 Change the default state of the interaction laser
 
 The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/releases/tag/v1.0.1)
+
+<!--dev.LeCloutPanda.Local-Menu-->
+### [Local-Menu](https://github.com/LeCloutPanda/Local-Menu/) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Adds the options to make both Context Menu and Interaction laser local so only you can see them.
+
+The latest version is [1.0.1](https://github.com/LeCloutPanda/Local-Menu/releases/tag/v1.0.1)
 
 <!--dev.zkxs.neoslocomotionrename-->
 ### [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-14T23:08:16.851477+00:00'>14 August 2022, 11:16 UTC</time>
+Last updated at <time datetime='2022-08-15T03:43:18.481588+00:00'>15 August 2022, 03:18 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -375,6 +375,13 @@ The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/
 Makes spawned inspectors set to nonpersistent by default
 
 The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspectors/releases/tag/1.0.0)
+
+<!--net.hantabaru1014.RemoveNABlendshapes-->
+### [RemoveNABlendshapes](https://github.com/hantabaru1014/RemoveNABlendshapes) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Add a "Remove N/A Blendshapes" button to SkinnedMeshRenderer.
+
+The latest version is [1.0.0](https://github.com/hantabaru1014/RemoveNABlendshapes/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.ReverseAudioClip-->
 ### [ReverseAudioClip](https://github.com/badhaloninja/ReverseAudioClip) by [badhaloninja](https://github.com/badhaloninja/)
@@ -953,6 +960,13 @@ Sets Video Players spawned by the player to automatically set Stream to true.
 The latest version is [1.0.0](https://github.com/LeCloutPanda/Video-To-Stream/releases/tag/v1.0.0)
 
 ## Visual Tweaks
+
+<!--net.hantabaru1014.HeadCullingMask-->
+### [HeadCullingMask](https://github.com/hantabaru1014/HeadCullingMask) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Make your avatar's head invisible only to your FPV. (Looks like NearClip, but others are visible at near distance)
+
+The latest version is [1.2.0](https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.2.0)
 
 <!--net.Cyro.InterfacialAbsence-->
 ### [Interfacial Absence](https://github.com/RileyGuy/InterfacialAbsence) by [Cyro](https://github.com/RileyGuy)

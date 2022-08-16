@@ -30,7 +30,9 @@ Top-level: `object`
         - Neos version compatibility: `string` (NOT semver "2022.1.28.1310" but "<" and ">" rules will work fine)
         - Modloader version compatibility: `string` (semver version specifier)
         - Flag list: `string[]` (see version flags below)
-        - Conflicts: `string[]`  (mod GUIDs)
+        - Conflicts: `map`
+          - Key: `string` (mod GUID)
+          - Value: `string` (semver version specifier, "*" is all versions)
         - Dependencies: `map`
           - Key: `string` (dependency mod GUID)
           - Value: `object`

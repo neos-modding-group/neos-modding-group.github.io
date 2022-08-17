@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-17T22:29:57.959448+00:00'>17 August 2022, 10:57 UTC</time>
+Last updated at <time datetime='2022-08-17T22:43:47.571993+00:00'>17 August 2022, 10:47 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -194,7 +194,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosFriendLinkSessionLis
 
 Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 
-The latest version is [1.0.0.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.0.0.0)
+The latest version is [1.2.0.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.2.0.0)
 
 <!--net.cyro.loadalready-->
 ### [LoadAlready](https://github.com/RileyGuy/LoadAlready) by [Cyro](https://github.com/RileyGuy)

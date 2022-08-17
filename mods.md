@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-15T20:23:07.969501+00:00'>15 August 2022, 08:07 UTC</time>
+Last updated at <time datetime='2022-08-17T22:29:57.959448+00:00'>17 August 2022, 10:57 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -56,6 +56,13 @@ Changes all pasted youtube links to invidious links
 The latest version is [1.1.0](https://github.com/art0007i/PasteInvidious/releases/tag/1.1.0.0)
 
 ## Bug Workarounds
+
+<!--net.Sox.CompliantAvatarCreator-->
+### [CompliantAvatarCreator](https://github.com/Sox-NeosVR/CompliantAvatarCreator) by [Sox](https://github.com/Sox-NeosVR)
+
+Allows you to stop that annoying snapping when trying to set up an avatar in certain sessions (Especially when in a Headless session).
+
+The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/CompliantAvatarCreator/releases/tag/v1.0.0.0)
 
 <!--io.github.kyuubiyoru.disablelibvlc-->
 ### [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) by [KyuubiYoru](https://github.com/KyuubiYoru)

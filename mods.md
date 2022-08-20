@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-17T22:43:47.571993+00:00'>17 August 2022, 10:47 UTC</time>
+Last updated at <time datetime='2022-08-20T15:09:51.338680+00:00'>20 August 2022, 03:51 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -19,6 +19,13 @@ The latest version is [1.0.0](https://github.com/DoubleStyx/AutoConfigureNormalM
 Automatically resize large square, power-of-2 textures
 
 The latest version is [1.0.1](https://github.com/dfgHiatus/AutoResizeImages/releases/tag/v1.0.1)
+
+<!--me.badhaloninja.BetterLUTImport-->
+### [BetterLUTImport](https://github.com/badhaloninja/BetterLUTImport) by [badhaloninja](https://github.com/badhaloninja)
+
+Make LUTs import as a LUT material
+
+The latest version is [1.0.0](https://github.com/badhaloninja/BetterLUTImport/releases/tag/v1.0.0)
 
 <!--me.art0007i.customvideoplayers-->
 ### [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) by [art0007i](https://github.com/art0007i)
@@ -115,6 +122,16 @@ Change the default state of the interaction laser
 
 The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/releases/tag/v1.0.1)
 
+<!--me.badhaloninja.DeselectOwnGizmos-->
+### [DeselectOwnGizmos](https://github.com/badhaloninja/DeselectOwnGizmos) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds the ability to deselect the user's own gizmos
+
+The latest version is [1.1.0](https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v1.1.0):
+
+- Added new icon
+ - Removed unnecessary traverse
+
 <!--dev.LeCloutPanda.Local-Menu-->
 ### [Local-Menu](https://github.com/LeCloutPanda/Local-Menu/) by [LeCloutPanda](https://github.com/LeCloutPanda)
 
@@ -175,6 +192,22 @@ Adds a button to contacts to show their published worlds
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ContactsPublishedWorldsButton/releases/tag/v1.0.0)
 
+<!--me.badhaloninja.DesktopLoadingIndicator-->
+### [DesktopLoadingIndicator](https://github.com/badhaloninja/DesktopLoadingIndicator) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds desktop support for the loading indicator
+
+The latest version is [1.1.0](https://github.com/badhaloninja/DesktopLoadingIndicator/releases/tag/v1.1.0):
+Switch to using float2 instead of 2 separate float options
+
+<!--me.badhaloninja.DesktopNotifications-->
+### [DesktopNotifications](https://github.com/badhaloninja/DesktopNotifications) by [badhaloninja](https://github.com/badhaloninja)
+
+Shows notifications in desktop mode
+
+The latest version is [1.1.0](https://github.com/badhaloninja/DesktopNotifications/releases/tag/v1.1.0):
+Switch to using float2 instead of 2 separate float options
+
 <!--net.Sox.EasyVoiceMessage-->
 ### [EasyVoiceMessage](https://github.com/Sox-NeosVR/EasyVoiceMessage) by [Sox](https://github.com/Sox-NeosVR)
 
@@ -215,7 +248,9 @@ The latest version is [1.0.0](https://github.com/rassi0429/MessageCopy/releases/
 
 Adds a dash screen to edit mod configs
 
-The latest version is [1.1.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.1.0)
+The latest version is [1.1.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.1.0):
+Fixed some performance issues discovered by RileyGuy and zkxs
+Fixed matrixes not displaying correctly
 
 <!--dev.zkxs.neoscontactssort-->
 ### [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) by [runtime](https://github.com/zkxs)
@@ -246,6 +281,14 @@ Removes the 5-second cool-down on hyperlinks
 
 The latest version is [1.1.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.1.0):
 Added support for host access requests
+
+<!--me.badhaloninja.UserJoinLeaveNotifications-->
+### [UserJoinLeaveNotifications](https://github.com/badhaloninja/UserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds user join and leave notifications to the notifications panel
+
+The latest version is [1.2.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.2.0):
+Solved issue of ReversePatch not working as intended with harmony versions past v2.1.0.0 breaking compatibility with desktop notifications
 
 ## Developers
 
@@ -369,6 +412,13 @@ Adds the ability to save favorite components
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.0)
 
+<!--me.badhaloninja.InspectorExpandAll-->
+### [InspectorExpandAll](https://github.com/badhaloninja/InspectorExpandAll) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds a button to the inspector to expand all visible slots on an inspector
+
+The latest version is [1.0.0](https://github.com/badhaloninja/InspectorExpandAll/releases/tag/v1.0.0)
+
 <!--net.eia485.localslotnames-->
 ### [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) by [eia485](https://github.com/EIA485)
 
@@ -396,6 +446,13 @@ The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/
 Makes spawned inspectors set to nonpersistent by default
 
 The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspectors/releases/tag/1.0.0)
+
+<!--me.badhaloninja.ReloadInspectorButton-->
+### [ReloadInspectorButton](https://github.com/badhaloninja/ReloadInspectorButton) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds a button that reloads an inspector component view as local user
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ReloadInspectorButton/releases/tag/v1.0.0)
 
 <!--net.hantabaru1014.RemoveNABlendshapes-->
 ### [RemoveNABlendshapes](https://github.com/hantabaru1014/RemoveNABlendshapes) by [hantabaru1014](https://github.com/hantabaru1014)
@@ -511,7 +568,17 @@ The latest version is [1.0.0](https://github.com/furrz/NoTankControls/releases/t
 
 Disables the UndoManager in userspace
 
-The latest version is [1.1.1](https://github.com/badhaloninja/NoUserspaceUndo/releases/tag/v1.1.1)
+The latest version is [1.1.1](https://github.com/badhaloninja/NoUserspaceUndo/releases/tag/v1.1.1):
+Fix for blocking undo anywhere and not just in userspace
+
+<!--me.badhaloninja.OculusSwapMenuAndSecondary-->
+### [OculusSwapMenuAndSecondary](https://github.com/badhaloninja/OculusSwapMenuAndSecondary) by [badhaloninja](https://github.com/badhaloninja)
+
+Swaps the bindings for secondary and dash menu on the touch controllers
+Requested by Salireths
+
+The latest version is [1.1.0](https://github.com/badhaloninja/OculusSwapMenuAndSecondary/releases/tag/v1.1.0):
+Rebind jump to ButtonXA
 
 <!--tk.deltawolf.NeosPTTKeybinds-->
 ### [PTTKeybinds](https://github.com/XDelta/NeosPTTKeybinds) by [Delta](https://github.com/XDelta)
@@ -519,6 +586,14 @@ The latest version is [1.1.1](https://github.com/badhaloninja/NoUserspaceUndo/re
 Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust which are disabled
 
 The latest version is [1.1.0](https://github.com/XDelta/NeosPTTKeybinds/releases/tag/1.1.0)
+
+<!--me.badhaloninja.PimaxSwordAsViveWand-->
+### [PimaxSwordAsViveWand](https://github.com/badhaloninja/PimaxSwordAsViveWand) by [badhaloninja](https://github.com/badhaloninja)
+
+Uses vive wand bindings for pimax sword controllers
+Requested by Engi
+
+The latest version is [1.0.0](https://github.com/badhaloninja/PimaxSwordAsViveWand/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.primaryhandlegacyworldswitcher-->
 ### [PrimaryHandLegacyWorldSwitcher](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher) by [badhaloninja](https://github.com/badhaloninja)
@@ -613,7 +688,9 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters
 
 Tweaks some logix things
 
-The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.1)
+The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.1):
+
+- Fixed an issue preventing input nodes of certain types from being created
 
 <!--me.badhaloninja.NoLogixTraversalContext-->
 ### [NoLogixTraversalContext](https://github.com/badhaloninja/NoLogixTraversalContext) by [badhaloninja](https://github.com/badhaloninja)
@@ -652,12 +729,26 @@ Adds a Discord tab to your dash, next to the contacts tab.
 
 The latest version is [1.0.1](https://github.com/Psychpsyo/DiscordVR/releases/tag/1.0.1)
 
+<!--me.badhaloninja.ExitNeosAndShutdown-->
+### [ExitNeosAndShutdown](https://github.com/badhaloninja/ExitNeosAndShutdown) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds a button to the exitscreen that shuts down your computer
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ExitNeosAndShutdown/releases/tag/v1.0.0)
+
 <!--net.eia485.fools-->
 ### [Fools](https://github.com/EIA485/NeosFools) by [eia485](https://github.com/EIA485)
 
 Forces April Fools mode
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosFools/releases/tag/1.0.0.0)
+
+<!--me.badhaloninja.NewMissingTexture-->
+### [NewMissingTexture](https://github.com/badhaloninja/NewMissingTexture) by [badhaloninja](https://github.com/badhaloninja)
+
+Changes the null texture
+
+The latest version is [1.0.0](https://github.com/badhaloninja/NewMissingTexture/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.printimportreport-->
 ### [PrintImportReport](https://github.com/badhaloninja/PrintImportReport) by [badhaloninja](https://github.com/badhaloninja)
@@ -733,6 +824,21 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosEditorTabbing/relea
 Exposes what mods you have loaded to userspace and/or worldspace
 
 The latest version is [3.0.0](https://github.com/EIA485/NeosExposePatchedMethods/releases/tag/3.0.0.0)
+
+<!--me.New-Project-Final-Final-WIP.HeadlessTweaks-->
+### [HeadlessTweaks](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks) by [badhaloninja](https://github.com/badhaloninja), [Spex](https://github.com/PointerOffset), [New-Project-Final-Final-WIP](https://github.com/New-Project-Final-Final-WIP)
+
+Adds some nice to have features to headless clients
+
+The latest version is [1.2.0](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v1.2.0):
+Added Optional SmartAutoSave
+ - If enabled, will only save if a user is in the world and once after the last user leaves
+
+Fixed Check for if a user can join a world
+ - Allow contacts of headless who aren't moderator or above when world is set to contacts or higher
+ 
+ 
+# UPDTATED TO DISCORD.NET 3.7.2
 
 <!--Banane9.LagFreeContactsLoading-->
 ### [LagFreeContactsLoading](https://github.com/Banane9/NeosLagFreeContactsLoading) by [Banane9](https://github.com/Banane9)
@@ -931,6 +1037,20 @@ Lets you use any StaticShader in any Material
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosAnyShaderAnywhere/releases/tag/1.0.0.0)
 
+<!--me.badhaloninja.CreateNewAdditions-->
+### [CreateNewAdditions](https://github.com/badhaloninja/CreateNewAdditions) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds more primitives to the CreateNewDialog
+
+The latest version is [1.0.0](https://github.com/badhaloninja/CreateNewAdditions/releases/tag/v1.0.0)
+
+<!--me.badhaloninja.DevOriginSelectTweaks-->
+### [DevOriginSelectTweaks](https://github.com/badhaloninja/DevOriginSelectTweaks) by [badhaloninja](https://github.com/badhaloninja)
+
+Ability to control behavior of origin sniping with the dev tool tip
+
+The latest version is [1.0.0](https://github.com/badhaloninja/DevOriginSelectTweaks/releases/tag/v1.0.0)
+
 <!--dev.zkxs.exportneostojson-->
 ### [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) by [runtime](https://github.com/zkxs)
 
@@ -945,6 +1065,13 @@ Prevents crashing from invalid SyncMembers
 
 The latest version is [1.0.0.0](https://github.com/EIA485/NeosExtendCompatibility/releases/tag/1.0.0.0)
 
+<!--me.badhaloninja.ExtraTypeAliases-->
+### [ExtraTypeAliases](https://github.com/badhaloninja/ExtraTypeAliases) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds more type aliases to the component attacher
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ExtraTypeAliases/releases/tag/v1.0.0)
+
 <!--me.badhaloninja.generictypeadditions-->
 ### [GenericTypeAdditions](https://github.com/badhaloninja/GenericTypeAdditions) by [badhaloninja](https://github.com/badhaloninja)
 
@@ -958,6 +1085,14 @@ The latest version is [1.0.0](https://github.com/badhaloninja/GenericTypeAdditio
 Makes the color of your inspector panels reflect your custom user color cloud variable
 
 The latest version is [1.1.0](https://github.com/RileyGuy/Inspectrum/releases/tag/1.1.0)
+
+<!--me.badhaloninja.MaterialTipAutoScoop-->
+### [MaterialTipAutoScoop](https://github.com/badhaloninja/MaterialTipAutoScoop) by [badhaloninja](https://github.com/badhaloninja)
+
+Makes MaterialTip grab a new material regardless if there is already a material orb in the tool
+
+The latest version is [1.2.1](https://github.com/badhaloninja/MaterialTipAutoScoop/releases/tag/v1.2.1):
+Fixed issue of material conversion not working when 'Pick up materials when created' option is enabled
 
 <!--Banane9.RenameDirectlyLinkedDynVars-->
 ### [RenameDirectlyLinkedDynVars](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars) by [Banane9](https://github.com/Banane9)
@@ -1008,7 +1143,13 @@ The latest version is [1.1.0](https://github.com/zkxs/MotionBlurDisable/releases
 
 Adds the ability to zoom with a keypress
 
-The latest version is [1.1.0](https://github.com/badhaloninja/Optizoom/releases/tag/v1.1.0)
+The latest version is [1.2.0](https://github.com/badhaloninja/Optizoom/releases/tag/v1.2.0):
+Added option to make zoom toggle
+Added a customizable overlay
+ - Uri
+ - Size
+ - Optional Background
+ - Background color
 
 <!--net.cyro.photonicfreedom-->
 ### [PhotonicFreedom](https://github.com/RileyGuy/PhotonicFreedom) by [Cyro](https://github.com/RileyGuy)
@@ -1062,4 +1203,12 @@ Status messages no longer are cleared
 A light baking solution for NeosVR
 
 The latest version is [1.0.2](https://github.com/Toxic-Cookie/NeosBakery/releases/tag/1.0.2)
+
+<!--me.Gareth48.ParticleWorkshop-->
+### [ParticleWorkshop](https://github.com/Epimonster/ParticleWorkshop) by [Gareth48](https://github.com/Epimonster), [Cyro](https://github.com/RileyGuy), [badhaloninja](https://github.com/badhaloninja)
+
+Adds a wizard for creating particles with color and alpha over time.
+Created by Gareth48 with some huge help from badhaloninja and Cyro!
+
+The latest version is [1.0.0](https://github.com/Epimonster/ParticleWorkshop/releases/tag/1.0.0)
 

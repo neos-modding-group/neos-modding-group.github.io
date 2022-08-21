@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-21T20:08:29.052754+00:00'>21 August 2022, 08:29 UTC</time>
+Last updated at <time datetime='2022-08-21T20:08:34.494728+00:00'>21 August 2022, 08:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -298,6 +298,13 @@ Solved issue of ReversePatch not working as intended with harmony versions past 
 Automatically sets up Blendshapes with the same name on multiple renderers to be driven by the primary mesh's values on import or when pressing a button on the SkinnedMeshRenderer.
 
 The latest version is [1.1.0](https://github.com/Banane9/NeosAvatarClothingHelper/releases/tag/v1.1.0)
+
+<!--net.TheJebForge.BoneReferenceHelper-->
+### [BoneReferenceHelper](https://github.com/TheJebForge/BoneReferenceHelper) by [TheJebForge](https://github.com/TheJebForge)
+
+Allows you to easily manage bone references of any skinned mesh renderer either using clipboard or by just showing where to find all the bones/slots and setting references from hierarchy
+
+The latest version is [1.0.0](https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.0)
 
 <!--Banane9.DynVarSpaceTree-->
 ### [DynVarSpaceTree](https://github.com/Banane9/NeosDynVarSpaceTree) by [Banane9](https://github.com/Banane9)

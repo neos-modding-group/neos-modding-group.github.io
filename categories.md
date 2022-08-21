@@ -13,13 +13,13 @@ If you need a new category or think an existing category should be split let us 
 | Bug Workarounds        |  |
 | Context Menu Tweaks    |  |
 | Dash Tweaks            |  |
-| For Mod Developers     | Not intended for non-mod-developer users |
-| General Ui Tweaks      |  |
+| Developers             |  |
+| General UI Tweaks      |  |
 | Hardware Integrations  |  |
 | Inspectors             |  |
 | Keybinds & Gestures    |  |
 | Libraries              | No standalone behavior. Intended to be used by other mods. |
-| Logix                  |  |
+| LogiX                  |  |
 | Memes                  |  |
 | Misc                   | Things that don't fit well into any category |
 | Optimization           |  |

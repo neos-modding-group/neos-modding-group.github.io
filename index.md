@@ -17,7 +17,7 @@ Since mods are another form of executables, and it's generally not recommended t
 
 NeosModLoader of course allows you to run any mods, but be extra cautious about making sure that they're safe if you go looking for ones not on the list.
 
-### For developers
+## For developers
 
 If you have more items for the list, please [open a PR][submission tutorial]. If you want to get update notifications join [our Discord][discord].
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-21T22:36:31.832088+00:00'>21 August 2022, 10:31 UTC</time>
+Last updated at <time datetime='2022-08-21T23:29:15.216738+00:00'>21 August 2022, 11:15 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -881,14 +881,12 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosGoToBedAlready/rele
 Adds some nice to have features to headless clients
 
 The latest version is [1.2.0](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v1.2.0):
-Added Optional SmartAutoSave
- - If enabled, will only save if a user is in the world and once after the last user leaves
 
-Fixed Check for if a user can join a world
- - Allow contacts of headless who aren't moderator or above when world is set to contacts or higher
- 
- 
-# UPDTATED TO DISCORD.NET 3.7.2
+- Added Optional SmartAutoSave
+- If enabled, will only save if a user is in the world and once after the last user leaves
+- Fixed Check for if a user can join a world
+- Allow contacts of headless who aren't moderator or above when world is set to contacts or higher
+- UPDATED TO DISCORD.NET 3.7.2
 
 <!--Banane9.LagFreeContactsLoading-->
 ### [LagFreeContactsLoading](https://github.com/Banane9/NeosLagFreeContactsLoading) by [Banane9](https://github.com/Banane9)

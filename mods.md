@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-20T21:27:21.509762+00:00'>20 August 2022, 09:21 UTC</time>
+Last updated at <time datetime='2022-08-21T20:08:29.052754+00:00'>21 August 2022, 08:29 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -412,6 +412,13 @@ Adds the ability to save favorite components
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.0)
 
+<!--me.art0007i.CustomInspectors-->
+### [CustomInspectors](https://github.com/art0007i/CustomInspectors) by [art0007i](https://github.com/art0007i)
+
+Lets you change your default inspector panel
+
+The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/releases/tag/1.1.0)
+
 <!--me.badhaloninja.InspectorExpandAll-->
 ### [InspectorExpandAll](https://github.com/badhaloninja/InspectorExpandAll) by [badhaloninja](https://github.com/badhaloninja)
 
@@ -797,6 +804,13 @@ The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/r
 - add hide from listing config
 - remove enabled config (it didn't actually do anything of value in version 1.0.0)
 
+<!--me.art0007i.CustomStreamPlayers-->
+### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)
+
+Lets you change your default audio stream player
+
+The latest version is [1.0.0](https://github.com/art0007i/CustomStreamPlayers/releases/tag/1.0.0)
+
 <!--Psychpsyo.DefaultVoiceMode-->
 ### [DefaultVoiceMode](https://github.com/Psychpsyo/DefaultVoiceMode) by [Psychpsyo](https://psychpsyo.com)
 
@@ -1116,6 +1130,13 @@ Sets Video Players spawned by the player to automatically set Stream to true.
 The latest version is [1.0.0](https://github.com/LeCloutPanda/Video-To-Stream/releases/tag/v1.0.0)
 
 ## Visual Tweaks
+
+<!--me.art0007i.CapturePrivateUI-->
+### [CapturePrivateUI](https://github.com/art0007i/CapturePrivateUI) by [art0007i](https://github.com/art0007i)
+
+Allows finger photos to render private UI
+
+The latest version is [1.0.0](https://github.com/art0007i/CapturePrivateUI/releases/tag/1.0.0.0)
 
 <!--net.hantabaru1014.HeadCullingMask-->
 ### [HeadCullingMask](https://github.com/hantabaru1014/HeadCullingMask) by [hantabaru1014](https://github.com/hantabaru1014)

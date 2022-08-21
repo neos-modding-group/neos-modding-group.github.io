@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-21T20:08:34.494728+00:00'>21 August 2022, 08:34 UTC</time>
+Last updated at <time datetime='2022-08-21T20:08:49.682334+00:00'>21 August 2022, 08:49 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -318,9 +318,16 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/rel
 
 Adds buttons to the DynamicBlendShapeDriver component to automatically add entries for all BlendShapes on the linked SkinnedMeshRenderer.
 
-The latest version is [1.1.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.1.0)
+The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.3.0)
 
 ## General UI Tweaks
+
+<!--Banane9.ContactSessionsUserCapacity-->
+### [ContactSessionsUserCapacity](https://github.com/Banane9/NeosContactSessionsUserCapacity) by [Banane9](https://github.com/Banane9)
+
+Adds a label showing the maximum user count in a session on the contacts page and can color it to show usage.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosContactSessionsUserCapacity/releases/tag/v1.0.0)
 
 <!--Banane9.FlexibleContactsSort-->
 ### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
@@ -335,6 +342,13 @@ The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSor
 Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
+
+<!--Banane9.UserJoinLeaveNotifications-->
+### [UserJoinLeaveNotifications](https://github.com/Banane9/NeosUserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja/), [Banane9](https://github.com/Banane9)
+
+Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
+
+The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
 
 ## General Ui Tweaks
 
@@ -845,6 +859,13 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosEditorTabbing/relea
 Exposes what mods you have loaded to userspace and/or worldspace
 
 The latest version is [3.0.0](https://github.com/EIA485/NeosExposePatchedMethods/releases/tag/3.0.0.0)
+
+<!--Banane9.GoToBedAlready-->
+### [GoToBedAlready](https://github.com/Banane9/NeosGoToBedAlready) by [Banane9](https://github.com/Banane9)
+
+Tracks a boolean Cloud Variable and triggers the game shutdown when it changes from its value at startup.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosGoToBedAlready/releases/tag/v1.0.0)
 
 <!--me.New-Project-Final-Final-WIP.HeadlessTweaks-->
 ### [HeadlessTweaks](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks) by [badhaloninja](https://github.com/badhaloninja), [Spex](https://github.com/PointerOffset), [New-Project-Final-Final-WIP](https://github.com/New-Project-Final-Final-WIP)

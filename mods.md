@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-21T21:20:15.962003+00:00'>21 August 2022, 09:15 UTC</time>
+Last updated at <time datetime='2022-08-21T22:36:31.832088+00:00'>21 August 2022, 10:31 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -329,35 +329,19 @@ Adds a label showing the maximum user count in a session on the contacts page an
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosContactSessionsUserCapacity/releases/tag/v1.0.0)
 
-<!--Banane9.FlexibleContactsSort-->
-### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
-
-Sorts contacts Better™ and to your liking.
-
-The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
-
-<!--Banane9.StopDisappearingLocomotionMenu-->
-### [StopDisappearingLocomotionMenu](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu) by [Banane9](https://github.com/Banane9)
-
-Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
-
-The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
-
-<!--Banane9.UserJoinLeaveNotifications-->
-### [UserJoinLeaveNotifications](https://github.com/Banane9/NeosUserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja/), [Banane9](https://github.com/Banane9)
-
-Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
-
-The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
-
-## General Ui Tweaks
-
 <!--dev.Kodu.CustomNotificationSounds-->
 ### [CustomNotificationSounds](https://github.com/Kodufan/CustomNotificationSounds) by [Kodufan](https://github.com/Kodufan)
 
 Change Neos' notification sounds!
 
 The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSounds/releases/tag/v1.0.0)
+
+<!--Banane9.FlexibleContactsSort-->
+### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
+
+Sorts contacts Better™ and to your liking.
+
+The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
 
 <!--net.LeCloutPanda.InspectorCustomizer-->
 ### [InspectorCustomizer](https://github.com/LeCloutPanda/Inspector-Customizer) by [LeCloutPanda](https://https://github.com/LeCloutPanda)
@@ -393,6 +377,20 @@ The latest version is [1.2.0](https://github.com/EIA485/NeosReduceAnimation/rele
 Modify the NeosPanels in Neos to squish in and out of existence
 
 The latest version is [1.0.1](https://github.com/RileyGuy/SquishPanels/releases/tag/1.0.1)
+
+<!--Banane9.StopDisappearingLocomotionMenu-->
+### [StopDisappearingLocomotionMenu](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu) by [Banane9](https://github.com/Banane9)
+
+Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
+
+<!--Banane9.UserJoinLeaveNotifications-->
+### [UserJoinLeaveNotifications](https://github.com/Banane9/NeosUserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja/), [Banane9](https://github.com/Banane9)
+
+Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
+
+The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
 
 ## Hardware Integrations
 
@@ -524,7 +522,10 @@ The latest version is [1.1.1](https://github.com/art0007i/ShowDriveSource/releas
 
 Fully configurable number key bindings for spawning arbitrary tools. You do not need to restart Neos to apply changes.
 
-The latest version is [2.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRemapper/releases/tag/2.0.0)
+The latest version is [2.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRemapper/releases/tag/2.0.0):
+
+- Internally rename mod from NeosDesktopToolShortcutRemapper to DesktopToolShortcutRemapper.
+- Add configuration system support. Config keys match Kazu's fork exactly, so you can seamlessly migrate.
 
 <!--net.kazu0617.desktoptoolshortcutremapper-->
 ### [DesktopToolShortcutRemapper (kazu's fork)](https://github.com/kazu0617/DesktopToolShortcutRemapper) by [kazu0617](https://github.com/kazu0617)
@@ -638,6 +639,13 @@ Brings HTC Vive single button App / Localspace toggle functionality to other con
 The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag/1.0.0)
 
 ## Libraries
+
+<!--net.Toxic_Cookie.GenericSettings-->
+### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
+
+Allows you to define, save, load and use custom settings
+
+The latest version is [1.0.0.2](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
 
 <!--me.art0007i.SpecialItemsLib-->
 ### [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) by [art0007i](https://github.com/art0007i/)
@@ -1009,15 +1017,6 @@ adds ability to change opus application type and frame size
 Lets you adjust your microphone volume in-game
 
 The latest version is [1.0.1](https://github.com/zkxs/VoiceVolumeOverride/releases/tag/1.0.1.0)
-
-## Mod Developers
-
-<!--net.Toxic_Cookie.GenericSettings-->
-### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
-
-Allows you to define, save, load and use custom settings
-
-The latest version is [1.0.0.2](https://github.com/Toxic-Cookie/GenericSettings/releases/tag/1.0.02)
 
 ## Optimization
 

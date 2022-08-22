@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-21T23:29:15.216738+00:00'>21 August 2022, 11:15 UTC</time>
+Last updated at <time datetime='2022-08-22T17:27:33.869873+00:00'>22 August 2022, 05:33 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1226,6 +1226,13 @@ Allows the individual parameters of the SSAO effect to be configured.
 The latest version is [1.0.0](https://github.com/DoubleStyx/SsaoTweaks/releases/tag/v1.0.0)
 
 ## Wizards
+
+<!--net.TheJebForge.DynVarGenerator-->
+### [DynVarGenerator](https://github.com/TheJebForge/DynVarGenerator) by [TheJebForge](https://github.com/TheJebForge)
+
+Allows you to quickly generate huge amounts of dynamic fields/variables/drivers for blendshapes, bones and pretty much anything you might want
+
+The latest version is [1.0.0](https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.0.0)
 
 <!--net.dfghiatus.dynamicbonechainwizardmod-->
 ### [DynamicBoneChainWizardMod](https://github.com/dfgHiatus/DynamicBoneChainWizardMod) by [dfgHiatus](https://github.com/dfgHiatus)

@@ -9,23 +9,23 @@ If you need a new category or think an existing category should be split let us 
 
 | Category               | Description |
 | ---------------------- | ----------- |
-| Asset Importing Tweaks |  |
-| Bug Workarounds        |  |
-| Context Menu Tweaks    |  |
-| Dash Tweaks            |  |
-| Developers             |  |
-| General UI Tweaks      |  |
-| Hardware Integrations  |  |
-| Inspectors             |  |
-| Keybinds & Gestures    |  |
+| Asset Importing Tweaks | Improving Asset Importing |
+| Bug Workarounds        | A mod cannot truly fix a bug, but we can work around it with an awful hack |
+| Context Menu Tweaks    | Messing around with the context menu |
+| Dash Tweaks            | Messing around with the dashboard |
+| Developers             | Lower-level functionality intended for "power users" |
+| General UI Tweaks      | Making the crusty UI slightly less crusty |
+| Hardware Integrations  | Making unsupported hardware supported. This is some real technomancy. |
+| Inspectors             | Tweaking inspectors |
+| Keybinds & Gestures    | New ways to control the game |
 | Libraries              | No standalone behavior. Intended to be used by other mods. |
-| LogiX                  |  |
-| Memes                  |  |
+| LogiX                  | Tweaking LogiX |
+| Memes                  | Why do people keep making these? |
 | Misc                   | Things that don't fit well into any category |
-| Optimization           |  |
+| Optimization           | Make Neos do less work for similar results |
 | Plugins                | Not mods. Neos plugins require `-LoadAssembly` to work, and normally break multiplayer compatibility. |
 | Technical Tweaks       | Lower-level functionality intended for "power users" |
-| Visual Tweaks          | Simple modifications to how rendering works |
+| Visual Tweaks          | Changes how rendering works |
 | Wizards                | A user interface that presents a sequence of dialog boxes that lead the user through a series of well-defined steps |
 
 <!-- Links -->

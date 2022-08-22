@@ -2,7 +2,7 @@
 layout: page
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-22T17:27:33.869873+00:00'>22 August 2022, 05:33 UTC</time>
+Last updated at <time datetime='2022-08-22T17:54:29.289816+00:00'>22 August 2022, 05:29 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -724,9 +724,9 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters
 
 Tweaks some logix things
 
-The latest version is [1.5.1](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.1):
+The latest version is [1.5.2](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.2):
 
-- Fixed an issue preventing input nodes of certain types from being created
+- Fixed an error breaking compatibility with ValueProxyExtensions under certain conditions
 
 <!--me.badhaloninja.NoLogixTraversalContext-->
 ### [NoLogixTraversalContext](https://github.com/badhaloninja/NoLogixTraversalContext) by [badhaloninja](https://github.com/badhaloninja)

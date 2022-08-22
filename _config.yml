@@ -11,3 +11,4 @@ header_pages:
   - submission-tutorial.md
 plugins:
   - jekyll-sitemap
+repository: neos-modding-group/neos-modding-group.github.io

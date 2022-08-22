@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mod-list
 title: "Mod List"
 ---
 Last updated at <time datetime='2022-08-22T17:54:29.289816+00:00'>22 August 2022, 05:29 UTC</time>
@@ -181,7 +181,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioSt
 <!--net.Hayden.ChangeUserspaceFont-->
 ### [ChangeUserSpaceFont](https://github.com/Hayden-Fluff/Change-Userspace-Font) by [Hayden-Fluff](https://github.com/Hayden-Fluff)
 
-A Neos mod to change the main font in the Local Userspace. 
+A Neos mod to change the main font in the Local Userspace.
 
 The latest version is [1.0.1](https://github.com/Hayden-Fluff/Change-Userspace-Font/releases/tag/1.0.1)
 
@@ -1173,7 +1173,7 @@ The latest version is [1.2.0](https://github.com/hantabaru1014/HeadCullingMask/r
 <!--net.Cyro.InterfacialAbsence-->
 ### [Interfacial Absence](https://github.com/RileyGuy/InterfacialAbsence) by [Cyro](https://github.com/RileyGuy)
 
-A mod that lets you avoid having to user LogiX Interface Proxies in Neos 
+A mod that lets you avoid having to user LogiX Interface Proxies in Neos
 
 The latest version is [1.0.0](https://github.com/RileyGuy/InterfacialAbsence/releases/tag/1.0.0)
 

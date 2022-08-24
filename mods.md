@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-24T16:44:58.377957+00:00'>24 August 2022, 04:58 UTC</time>
+Last updated at <time datetime='2022-08-24T16:47:57.817727+00:00'>24 August 2022, 04:57 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1168,6 +1168,13 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosRenameDirectlyLinke
 Shows the hidden category
 
 The latest version is [1.1.0](https://github.com/EIA485/NeosShowHiddenCategory/releases/tag/1.1.0.0)
+
+<!--net.TheJebForge.TypePicker-->
+### [TypePicker](https://github.com/TheJebForge/TypePicker) by [TheJebForge](https://github.com/TheJebForge)
+
+Allows you to simply drop a reference into component attacher and choose what kind of type you want
+
+The latest version is [1.0.0](https://github.com/TheJebForge/TypePicker/releases/tag/1.0.0)
 
 <!--net.LeCloutPanda.VideoToStream-->
 ### [Video To Stream](https://github.com/LeCloutPanda/Video-To-Stream) by [LeCloutPanda](https://https://github.com/LeCloutPanda)

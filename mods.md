@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-24T10:05:19.193359+00:00'>24 August 2022, 10:19 UTC</time>
+Last updated at <time datetime='2022-08-24T16:44:58.377957+00:00'>24 August 2022, 04:58 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -304,7 +304,8 @@ The latest version is [1.1.0](https://github.com/Banane9/NeosAvatarClothingHelpe
 
 Allows you to easily manage bone references of any skinned mesh renderer either using clipboard or by just showing where to find all the bones/slots and setting references from hierarchy
 
-The latest version is [1.0.0](https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.0)
+The latest version is [1.0.1](https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.1):
+Added option to use mesh bone names, null reference fix
 
 <!--Banane9.DynVarSpaceTree-->
 ### [DynVarSpaceTree](https://github.com/Banane9/NeosDynVarSpaceTree) by [Banane9](https://github.com/Banane9)

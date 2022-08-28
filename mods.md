@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-28T07:52:33.615985+00:00'>28 August 2022, 07:33 UTC</time>
+Last updated at <time datetime='2022-08-28T14:18:03.993436+00:00'>28 August 2022, 02:03 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -756,6 +756,13 @@ The latest version is [1.5.2](https://github.com/badhaloninja/LogixUtils/release
 Hides the logix tip's node traversal context item.
 
 The latest version is [1.0.0](https://github.com/badhaloninja/NoLogixTraversalContext/releases/tag/v1.0.0)
+
+<!--net.Cyro.Nodentify-->
+### [Nodentify](https://github.com/RileyGuy/Nodentify/) by [Cyro](https://github.com/RileyGuy)
+
+Annotate your nodes to identify them at a glance and open ref arrows' targets!
+
+The latest version is [1.0.4](https://github.com/RileyGuy/Nodentify/releases/tag/1.0.4)
 
 <!--net.eia485.ReferenceNodeHotline-->
 ### [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) by [eia485](https://github.com/EIA485)

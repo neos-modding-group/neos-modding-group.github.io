@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-28T14:18:03.993436+00:00'>28 August 2022, 02:03 UTC</time>
+Last updated at <time datetime='2022-08-28T14:29:16.173381+00:00'>28 August 2022, 02:16 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -115,13 +115,6 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/mixNmatch_lipsNmouth/
 
 ## Context Menu Tweaks
 
-<!--net.LeCloutPanda.DefaultLaserState-->
-### [DefaultLaserState](https://github.com/LeCloutPanda/DefaultLaserState/) by [LeCloutPanda](https://github.com/LeCloutPanda)
-
-Change the default state of the interaction laser
-
-The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/releases/tag/v1.0.1)
-
 <!--me.badhaloninja.DeselectOwnGizmos-->
 ### [DeselectOwnGizmos](https://github.com/badhaloninja/DeselectOwnGizmos) by [badhaloninja](https://github.com/badhaloninja)
 
@@ -131,13 +124,6 @@ The latest version is [1.1.0](https://github.com/badhaloninja/DeselectOwnGizmos/
 
 - Added new icon
  - Removed unnecessary traverse
-
-<!--dev.LeCloutPanda.Local-Menu-->
-### [Local-Menu](https://github.com/LeCloutPanda/Local-Menu/) by [LeCloutPanda](https://github.com/LeCloutPanda)
-
-Adds the options to make both Context Menu and Interaction laser local so only you can see them.
-
-The latest version is [1.0.1](https://github.com/LeCloutPanda/Local-Menu/releases/tag/v1.0.1)
 
 <!--dev.zkxs.neoslocomotionrename-->
 ### [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) by [runtime](https://github.com/zkxs)
@@ -350,13 +336,6 @@ The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSound
 Sorts contacts Better™ and to your liking.
 
 The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
-
-<!--net.LeCloutPanda.InspectorCustomizer-->
-### [InspectorCustomizer](https://github.com/LeCloutPanda/Inspector-Customizer) by [LeCloutPanda](https://https://github.com/LeCloutPanda)
-
-Allows you to customize some Neos panel items including Inspector, Logix browser and more.
-
-The latest version is [1.0.5](https://github.com/LeCloutPanda/Inspector-Customizer/releases/tag/v1.0.5)
 
 <!--net.DoubleStyx.NotificationsWhenBusy-->
 ### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
@@ -639,6 +618,13 @@ Changes the legacy world switcher to open depending on the primary hand setting
 
 The latest version is [1.0.0](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher/releases/tag/v1.0.0)
 
+<!--dev.LeCloutPanda.Rebind-->
+### [Rebind](https://github.com/LeCloutPanda/Rebind) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Rebind some controls to reduce damage to the thumbsticks on Oculos controllers
+
+The latest version is [1.0.2](https://github.com/LeCloutPanda/Rebind/releases/tag/v1.0.2)
+
 <!--dev.Kodu.ViveForAll-->
 ### [ViveForAll](https://github.com/Kodufan/ViveForAll) by [Kodufan](https://github.com/Kodufan)
 
@@ -868,6 +854,13 @@ The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/r
 Lets you change your default audio stream player
 
 The latest version is [1.0.0](https://github.com/art0007i/CustomStreamPlayers/releases/tag/1.0.0)
+
+<!--dev.LeCloutPanda.DefaultLaserState-->
+### [DefaultLaserState](https://github.com/LeCloutPanda/DefaultLaserState) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Have a default state for your Interaction Laser
+
+The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/releases/tag/v1.0.1)
 
 <!--Psychpsyo.DefaultVoiceMode-->
 ### [DefaultVoiceMode](https://github.com/Psychpsyo/DefaultVoiceMode) by [Psychpsyo](https://psychpsyo.com)
@@ -1183,12 +1176,12 @@ Allows you to simply drop a reference into component attacher and choose what ki
 
 The latest version is [1.0.0](https://github.com/TheJebForge/TypePicker/releases/tag/1.0.0)
 
-<!--net.LeCloutPanda.VideoToStream-->
-### [Video To Stream](https://github.com/LeCloutPanda/Video-To-Stream) by [LeCloutPanda](https://https://github.com/LeCloutPanda)
+<!--dev.LeCloutPanda.VideoToStream-->
+### [VideoToStream](https://github.com/LeCloutPanda/VideoToStream) by [LeCloutPanda](https://github.com/LeCloutPanda)
 
-Sets Video Players spawned by the player to automatically set Stream to true.
+Makes all video players spawned by the players be set to stream mode
 
-The latest version is [1.0.0](https://github.com/LeCloutPanda/Video-To-Stream/releases/tag/v1.0.0)
+The latest version is [1.0.0](https://github.com/LeCloutPanda/VideoToStream/releases/tag/v1.0.0)
 
 ## Visual Tweaks
 
@@ -1198,6 +1191,27 @@ The latest version is [1.0.0](https://github.com/LeCloutPanda/Video-To-Stream/re
 Allows finger photos to render private UI
 
 The latest version is [1.0.0](https://github.com/art0007i/CapturePrivateUI/releases/tag/1.0.0.0)
+
+<!--dev.LeCloutPanda.Customise-Inspector-->
+### [Customise-Inspector](https://github.com/LeCloutPanda/Customise/tree/main/CustomiseInspector) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Allows user to customise many aspects of the default Inspector
+
+The latest version is [1.1.3](https://github.com/LeCloutPanda/Customise/releases/tag/v1.1.3%2Fv1.1.2)
+
+<!--dev.LeCloutPanda.Customise-LogixBrowser-->
+### [Customise-LogixBrowser](https://github.com/LeCloutPanda/Customise/blob/main/CustomiseLogixBrowser) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Allows user to customise many aspects of the default Logix Browser
+
+The latest version is [1.1.3](https://github.com/LeCloutPanda/Customise/releases/tag/v1.1.3%2Fv1.1.2)
+
+<!--dev.LeCloutPanda.Customise-VideoPlayer-->
+### [Customise-VideoPlayer](https://github.com/LeCloutPanda/Customise/tree/main/CustomiseVideoPlayer) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Allows user to customise many aspects of the default Video player
+
+The latest version is [1.1.2](https://github.com/LeCloutPanda/Customise/releases/tag/v1.1.3%2Fv1.1.2)
 
 <!--net.hantabaru1014.HeadCullingMask-->
 ### [HeadCullingMask](https://github.com/hantabaru1014/HeadCullingMask) by [hantabaru1014](https://github.com/hantabaru1014)
@@ -1212,6 +1226,13 @@ The latest version is [1.2.0](https://github.com/hantabaru1014/HeadCullingMask/r
 A mod that lets you avoid having to user LogiX Interface Proxies in Neos 
 
 The latest version is [1.0.0](https://github.com/RileyGuy/InterfacialAbsence/releases/tag/1.0.0)
+
+<!--dev.LeCloutpanda.LocalMenu-->
+### [LocalMenu](https://github.com/LeCloutPanda/LocalMenu) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Set the visibility of your Interaction Lasers and Context menu for others while keeping them visible for you
+
+The latest version is [1.0.3](https://github.com/LeCloutPanda/LocalMenu/releases/tag/v1.0.3)
 
 <!--dev.zkxs.motionblurdisable-->
 ### [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) by [runtime](https://github.com/zkxs)
@@ -1239,6 +1260,13 @@ Added a customizable overlay
 Adds settings for Ambient Occlusion and Motion Blur
 
 The latest version is [1.2.4](https://github.com/RileyGuy/PhotonicFreedom/releases/tag/1.2.4)
+
+<!--dev.LeCloutPanda.Resolutions-->
+### [Resolutions](https://github.com/LeCloutPanda/Resolutions) by [LeCloutPanda](https://github.com/LeCloutPanda)
+
+Control the resolution of the Timer/Normal Finger photos
+
+The latest version is [1.0.2](https://github.com/LeCloutPanda/Resolutions/releases/tag/v1.0.2)
 
 <!--xyz.ljoonal.neos.screenmodetweaks-->
 ### [ScreenmodeTweaks](https://neos.ljoonal.xyz/mods/#screenmode-tweaks) by [ljoonal](https://www.ljoonal.xyz/)

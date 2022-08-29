@@ -3,7 +3,7 @@ layout: post
 title: Mod Categories
 ---
 
-This is the list of categories that can be used when defining a mod in the [manifest].
+This is the list of categories that can be used when defining a mod in the [manifest](manifest).
 
 If you need a new category or think an existing category should be split let us know with a GitHub issue.
 
@@ -27,6 +27,3 @@ If you need a new category or think an existing category should be split let us 
 | Technical Tweaks       | Lower-level functionality intended for "power users" |
 | Visual Tweaks          | Changes how rendering works |
 | Wizards                | A user interface that presents a sequence of dialog boxes that lead the user through a series of well-defined steps |
-
-<!-- Links -->
-[manifest]: https://github.com/neos-modding-group/neos-mod-manifest/blob/master/manifest.json

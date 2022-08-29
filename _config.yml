@@ -8,7 +8,7 @@ minima:
 title: Neos Modding Group
 header_pages:
   - mods.md
-  - submission-tutorial.md
+  - manifest.md
 plugins:
   - jekyll-sitemap
 repository: neos-modding-group/neos-modding-group.github.io

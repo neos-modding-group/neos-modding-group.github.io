@@ -10,7 +10,7 @@ You can find the source code and release builds of it [from Github][NeosModLoade
 
 ## Finding mods
 
-The [mods list][mods] is a community-managed listing of mods that are vetted to not be malicious.
+The [mod list] is a community-managed listing of mods that are vetted to not be malicious.
 
 The purpose of the list is to make it easier & safer for people to run mods.
 Since mods are another form of executables, and it's generally not recommended to not run random executables from the internet.
@@ -19,19 +19,16 @@ NeosModLoader of course allows you to run any mods, but be extra cautious about 
 
 ## For developers
 
-If you have more items for the list, please [open a PR][submission tutorial]. If you want to get update notifications join [our Discord][discord].
+If you have more items for the list, please [make a submission][submission tutorial]. If you want to get update notifications join [our Discord][discord].
 
-The [list][mods] is automatically generated from a machine-readable [manifest] with github actions. The [schema documentation][schema] explains what the fields in the manifest mean. Having a machine-readable manifest is an important step towards our planned mod manager and auto-updater software.
-
-The source is hosted at [this GitHub repository][github repository].
+The [mod list] is automatically generated from a machine-readable [mod manifest] with github actions.
 
 <!-- Links -->
 [discord]: https://discord.gg/vCDJK9xyvm
-[github repository]: https://github.com/neos-modding-group/neos-mod-manifest
-[manifest]: https://github.com/neos-modding-group/neos-mod-manifest/blob/master/manifest.json
-[mods]: mods
+[mod list]: mods
+[mod manifest]: manifest
 [NeosModLoader]: https://github.com/neos-modding-group/NeosModLoader
-[schema]: schema
-[submission tutorial]: submission-tutorial
 [NeosVR]: https://neos.com
 [plugin]: https://wiki.neos.com/Plugins
+[schema]: schema
+[submission tutorial]: submission-tutorial

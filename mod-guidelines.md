@@ -75,9 +75,9 @@ Mods **must not** track users, as defined in the *User Data Tracking* section of
 Mods **should** avoid performance hits to Neos where possible. While performance is not the primary goal of the audit, if we notice code that is extremely inefficient we may ask you to improve it.
 
 <!-- Links -->
+[flag]: manifest-flags
 [manifest repository]: https://github.com/neos-modding-group/neos-mod-manifest
 [mod and plugin policy]: https://wiki.neos.com/Mod_%26_Plugin_Policy
 [Neos guidelines]: https://docs.google.com/document/d/1G_-PaxSp8rGYeHUIXK-19b2VqOLlpOZ18e7DrOwNjG4/edit
 [schema]: schema
 [submission tutorial]: submission-tutorial
-[flag]: manifest-flags

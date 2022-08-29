@@ -58,3 +58,10 @@ Teaching git is out of scope of this document, but it really is worth learning. 
 12. Head back to the [manifest repo](https://github.com/neos-modding-group/neos-mod-manifest), where you should now see a button to open a PR. If not, you can manually [create a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 Repeat from step 5 for subsequent PRs.
+
+## Additional Help
+
+If you need additional help, you can ask in the [#mod-manifest channel in our Discord].
+
+<!-- Links -->
+[#mod-manifest channel in our Discord]: https://discord.gg/YUPK8UsBy4

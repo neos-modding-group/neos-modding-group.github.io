@@ -79,7 +79,7 @@ Note that some of these fields are optional, and some rarely-used fields are omi
 
 ## Additional Help
 
-If you need additional help, you can ask the [#mod-manifest channel in our Discord].
+If you need additional help, you can ask in the [#mod-manifest channel in our Discord].
 
 <!-- Links -->
 [#mod-manifest channel in our Discord]: https://discord.gg/YUPK8UsBy4

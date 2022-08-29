@@ -6,7 +6,7 @@ title: Neos Mod Loader
 [NeosModLoader] is a mod loading [plugin] for [NeosVR].
 It also contains some extra magic to still let you hang out with other people that might not have the plugin, as usually having different plugins means you can't connect to the same sessions.
 
-You can find the source code and release builds of it [from Github][NeosModLoader].
+You can find the source code and release builds of it [on Github][NeosModLoader].
 
 ## Finding mods
 
@@ -30,5 +30,4 @@ The [mod list] is automatically generated from a machine-readable [mod manifest]
 [NeosModLoader]: https://github.com/neos-modding-group/NeosModLoader
 [NeosVR]: https://neos.com
 [plugin]: https://wiki.neos.com/Plugins
-[schema]: schema
 [submission tutorial]: submission-tutorial

@@ -15,6 +15,9 @@ Anyone! The people auditing mods are volunteers, and all help is appreciated.
 - At least one (preferably more) approval from a reviewer is mandatory before merging
 - Mod authors cannot approve their own mods
 
+## Guidelines
+Submissions must follow all [guidelines].
+
 ## Binary Inspection
 
 The mod binary must be inspected in a decompiler for [malicious] code and other disallowed behavior.
@@ -79,6 +82,7 @@ Poorly-known third-party libraries from unknown authors need auditing.
 If you see something in a mod you're uncertain about, please don't hesitate to ask for a second opinion. Don't approve a submission unless you're 100% certain it's safe.
 
 <!-- Links -->
+[guidelines]: mod-guidelines
 [malicious]: mod-guidelines#not-malicious
 [path traversal]: https://owasp.org/www-community/attacks/Path_Traversal
 [pull requests]: https://github.com/neos-modding-group/neos-mod-manifest/pulls

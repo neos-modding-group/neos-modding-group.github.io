@@ -7,7 +7,7 @@ These guidelines explain what is expected when submitting a new mod version to t
 
 ## Submissions
 
-New submissions **must** be submitted as a pull request to the [manifest repository]. Important points:
+New submissions **must** be submitted as a pull request to the [manifest repository].
 
 If you need help with your submission, read the [submission tutorial].
 

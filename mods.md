@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-30T09:43:41.413247+00:00'>30 August 2022, 09:41 UTC</time>
+Last updated at <time datetime='2022-08-30T09:48:26.693179+00:00'>30 August 2022, 09:26 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -459,6 +459,13 @@ The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/
 Makes spawned inspectors set to nonpersistent by default
 
 The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspectors/releases/tag/1.0.0)
+
+<!--net.catshark.rearmature-->
+### [ReArmature](https://github.com/CatSharkShin/ReArmature) by [CatSharkShin](https://github.com/CatSharkShin)
+
+Adds a button to SkinnedMeshRenderers that sets up its bones to your avatars armature. Even if there are new bones.
+
+The latest version is [1.0](https://github.com/CatSharkShin/ReArmature/releases/tag/1.0)
 
 <!--me.badhaloninja.ReloadInspectorButton-->
 ### [ReloadInspectorButton](https://github.com/badhaloninja/ReloadInspectorButton) by [badhaloninja](https://github.com/badhaloninja)

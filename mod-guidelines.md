@@ -58,15 +58,14 @@ Mods **must not** download or execute remote code. This means the following are 
 
 ### Not Malicious
 
-Mods **must not** violate the [Neos guidelines] or the [mod and plugin policy].
+Mods **must not** violate the [Neos guidelines] or the [mod and plugin policy]. Some significant points from the guidelines:
 
 - Do not bypass protections and controls within Neos, for example SimpleAvatarProtection, permissions, and bans.
 - Do not enable asset theft
 - Do not enable harassment
+- Do not track users without their consent
 
-### Telemetry
-
-Mods **must not** track users, as defined in the *User Data Tracking* section of the [Neos guidelines].
+This is not an exhaustive list. The [Neos guidelines] are the definitive source on what is and is not allowed.
 
 ## Optional Stuff
 

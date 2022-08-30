@@ -83,6 +83,6 @@ If you see something in a mod you're uncertain about, please don't hesitate to a
 
 <!-- Links -->
 [guidelines]: mod-guidelines
-[malicious]: mod-guidelines#not-malicious
+[malicious]: mod-guidelines#neos-guidelines
 [path traversal]: https://owasp.org/www-community/attacks/Path_Traversal
 [pull requests]: https://github.com/neos-modding-group/neos-mod-manifest/pulls

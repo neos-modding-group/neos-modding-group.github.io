@@ -56,7 +56,7 @@ Mods **must not** download or execute remote code. This means the following are 
 - auto updaters
 - fetching Neos json/7zbson/etc from a non-neos server (neosdb urls are okay)
 
-### Not Malicious
+### Neos Guidelines
 
 Mods **must not** violate the [Neos guidelines] or the [mod and plugin policy]. Some significant points from the guidelines:
 

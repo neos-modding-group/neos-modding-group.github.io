@@ -27,7 +27,7 @@ Top-level: `object`
     - `website`: `string` **optional** A link to the mod's website. May be the same as `sourceLocation`.
     - `tags`: `string[]` **optional** A list of tags that may be used for search in the future.
     - `category`: `string` A [category](categories) that your mod fits into
-    - Flag list: `string[]` **optional** A list of [flags](manifest-flags) that apply to your mod
+    - `flags`: `string[]` **optional** A list of [flags](manifest-flags) that apply to your mod
     - Versions: `map`
       - Key: `string` [semver], should match NeosMod.Version
       - Value: `object` the mod version definition

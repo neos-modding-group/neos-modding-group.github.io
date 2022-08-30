@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-28T14:29:16.173381+00:00'>28 August 2022, 02:16 UTC</time>
+Last updated at <time datetime='2022-08-30T09:43:41.413247+00:00'>30 August 2022, 09:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -684,6 +684,13 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosBetterLogixWiresTha
 Makes cast nodes not delete themselves automatically. This fixes the cast bug.
 
 The latest version is [1.0.1](https://github.com/art0007i/CastNodeHotline/releases/tag/1.0.1.0)
+
+<!--net.TheJebForge.CustomLogiXTypes-->
+### [CustomLogiXTypes](https://github.com/TheJebForge/CustomLogiXTypes) by [TheJebForge](https://github.com/TheJebForge)
+
+Adds a convenient way to use advanced LogiX types, so you don't have to do it manually through an inspector
+
+The latest version is [1.0.0](https://github.com/TheJebForge/CustomLogiXTypes/releases/tag/1.0.0)
 
 <!--net.cyro.darklogixbrowser-->
 ### [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) by [Cyro](https://github.com/RileyGuy)

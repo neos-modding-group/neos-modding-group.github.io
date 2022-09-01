@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-01T23:05:31.576082+00:00'>01 September 2022, 11:31 UTC</time>
+Last updated at <time datetime='2022-09-01T23:14:08.196902+00:00'>01 September 2022, 11:08 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -466,7 +466,8 @@ The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspect
 
 Adds a button to SkinnedMeshRenderers that sets up its bones to your avatars armature. Even if there are new bones.
 
-The latest version is [1.0](https://github.com/CatSharkShin/ReArmature/releases/tag/1.0)
+The latest version is [1.1](https://github.com/CatSharkShin/ReArmature/releases/tag/1.1):
+It now duplicates bonegroups instead of just reparenting them to the new armature. Also now force strips empty bones before attaching.
 
 <!--me.badhaloninja.ReloadInspectorButton-->
 ### [ReloadInspectorButton](https://github.com/badhaloninja/ReloadInspectorButton) by [badhaloninja](https://github.com/badhaloninja)

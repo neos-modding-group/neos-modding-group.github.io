@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-08-30T11:52:31.040373+00:00'>30 August 2022, 11:31 UTC</time>
+Last updated at <time datetime='2022-09-01T23:04:01.820450+00:00'>01 September 2022, 11:01 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -60,7 +60,7 @@ The latest version is [1.0.2](https://github.com/rassi0429/NeosPasteTweak/releas
 
 Changes all pasted youtube links to invidious links
 
-The latest version is [1.1.0](https://github.com/art0007i/PasteInvidious/releases/tag/1.1.0.0)
+The latest version is [1.1.1](https://github.com/art0007i/PasteInvidious/releases/tag/1.1.1.0)
 
 ## Bug Workarounds
 
@@ -544,12 +544,19 @@ Adds URL-QR Code reader functionality to the finger photo gesture
 
 The latest version is [1.0.0](https://github.com/dfgHiatus/FingerQRCode/releases/tag/v1.0.0)
 
+<!--me.art0007i.FixGrabWorld-->
+### [FixGrabWorld](https://github.com/art0007i/FixGrabWorld) by [art0007i](https://github.com/art0007i)
+
+Fixes the grab world locomotion moving you forwards each time you use it
+
+The latest version is [1.0.0](https://github.com/art0007i/FixGrabWorld/releases/tag/1.0.0)
+
 <!--me.art0007i.inspectorscroll-->
 ### [InspectorScroll](https://github.com/art0007i/InspectorScroll) by [art0007i](https://github.com/art0007i)
 
 Allows you to scroll UIX panels (including inspectors) using the thumbstick / touchpad
 
-The latest version is [1.0.1](https://github.com/art0007i/InspectorScroll/releases/tag/1.0.1.0)
+The latest version is [1.0.2](https://github.com/art0007i/InspectorScroll/releases/tag/1.0.2.0)
 
 <!--net.eia485.killdesktoptools-->
 ### [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) by [eia485](https://github.com/EIA485)
@@ -1189,6 +1196,13 @@ The latest version is [1.1.0](https://github.com/EIA485/NeosShowHiddenCategory/r
 Allows you to simply drop a reference into component attacher and choose what kind of type you want
 
 The latest version is [1.0.0](https://github.com/TheJebForge/TypePicker/releases/tag/1.0.0)
+
+<!--me.art0007i.ValueProxyExtensions-->
+### [ValueProxyExtensions](https://github.com/art0007i/ValueProxyExtensions) by [art0007i](https://github.com/art0007i)
+
+Adds a few extra features to reference and value proxies.
+
+The latest version is [1.1.0](https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.1.0)
 
 <!--dev.LeCloutPanda.VideoToStream-->
 ### [VideoToStream](https://github.com/LeCloutPanda/VideoToStream) by [LeCloutPanda](https://github.com/LeCloutPanda)

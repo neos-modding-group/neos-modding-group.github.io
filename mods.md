@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-01T23:14:08.196902+00:00'>01 September 2022, 11:08 UTC</time>
+Last updated at <time datetime='2022-09-02T01:46:09.236985+00:00'>02 September 2022, 01:09 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -432,6 +432,13 @@ The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/relea
 Adds a button to the inspector to expand all visible slots on an inspector
 
 The latest version is [1.0.0](https://github.com/badhaloninja/InspectorExpandAll/releases/tag/v1.0.0)
+
+<!--me.catshark.KeepGlobalTransformToggle-->
+### [KeepGlobalTransformToggle](https://github.com/CatSharkShin/KeepGlobalTransformToggle) by [CatSharkShin](https://github.com/CatSharkShin)
+
+Adds a toggle to inspectors for the keepGlobalTransform used when moving objects in the inspector
+
+The latest version is [1.1](https://github.com/CatSharkShin/KeepGlobalTransformToggle/releases/tag/1.1)
 
 <!--net.eia485.localslotnames-->
 ### [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) by [eia485](https://github.com/EIA485)

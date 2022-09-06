@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-03T20:34:11.729477+00:00'>03 September 2022, 08:11 UTC</time>
+Last updated at <time datetime='2022-09-06T17:42:09.798395+00:00'>06 September 2022, 05:09 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -658,13 +658,6 @@ The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag
 
 ## Libraries
 
-<!--Unosquare.EmbedIO-->
-### [EmbedIO](https://github.com/unosquare/embedio/) by [unosquare](https://github.com/unosquare)
-
-A tiny, cross-platform, module based, MIT-licensed web server. Supporting NET Framework, Net Core, and Mono.
-
-The latest version is [3.4.3](https://github.com/unosquare/embedio/releases/tag/3.4.3)
-
 <!--net.Toxic_Cookie.GenericSettings-->
 ### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)
 
@@ -678,13 +671,6 @@ The latest version is [1.0.0.2](https://github.com/Toxic-Cookie/GenericSettings/
 A library which allows other mods to easily add custom special items to be shown in the inventory.
 
 The latest version is [1.1.0](https://github.com/art0007i/SpecialItemsLib/releases/tag/1.1.0)
-
-<!--Unosquare.Swan.Lite-->
-### [Swan.Lite](https://github.com/unosquare/swan/) by [unosquare](https://github.com/unosquare)
-
-Repeating code and reinventing the wheel is generally considered bad practice. At Unosquare we are committed to beautiful code and great software. Swan is a collection of classes and extension methods that we and other good developers have developed and evolved over the years. We found ourselves copying and pasting the same code for every project every time we started it. We decide to kill that cycle once and for all. This is the result of that idea. Our philosophy is that SWAN should have no external dependencies, it should be cross-platform, and it should be useful.
-
-The latest version is [3.0.0](https://github.com/unosquare/swan/releases/tag/3.0.0)
 
 <!--Psychpsyo.Tooltippery-->
 ### [Tooltippery](https://github.com/Psychpsyo/Tooltippery) by [Psychpsyo](https://psychpsyo.com)

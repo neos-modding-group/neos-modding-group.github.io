@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-08T10:11:45.026617+00:00'>08 September 2022, 10:45 UTC</time>
+Last updated at <time datetime='2022-09-08T10:14:02.149232+00:00'>08 September 2022, 10:02 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1291,6 +1291,13 @@ Added a customizable overlay
 Adds settings for Ambient Occlusion and Motion Blur
 
 The latest version is [1.2.4](https://github.com/RileyGuy/PhotonicFreedom/releases/tag/1.2.4)
+
+<!--net.Cyro.ReFract-->
+### [ReFract](https://github.com/RileyGuy/ReFract) by [Cyro](https://github.com/RileyGuy/)
+
+Exposes many post processing effects for neos cameras!
+
+The latest version is [1.1.1](https://github.com/RileyGuy/ReFract/releases/tag/1.1.1)
 
 <!--dev.LeCloutPanda.Resolutions-->
 ### [Resolutions](https://github.com/LeCloutPanda/Resolutions) by [LeCloutPanda](https://github.com/LeCloutPanda)

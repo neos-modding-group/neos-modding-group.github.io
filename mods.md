@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-06T17:42:09.798395+00:00'>06 September 2022, 05:09 UTC</time>
+Last updated at <time datetime='2022-09-08T01:05:05.344928+00:00'>08 September 2022, 01:05 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -153,9 +153,9 @@ The latest version is [1.0.0](https://github.com/rassi0429/SaveToWhere/releases/
 
 replaces 2D overlay dash in Screen mode with the regular 3D one
 
-The latest version is [3.4.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.4.0.0):
+The latest version is [3.5.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.5.0.0):
 
-- compatibility hotfix for compatibility with ExitAndDiscardHomesKeybind
+- added a checks for if screen mode is active into the binding methods
 
 <!--net.eia485.allowmultipleaudiostreams-->
 ### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)

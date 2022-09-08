@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-08T01:05:05.344928+00:00'>08 September 2022, 01:05 UTC</time>
+Last updated at <time datetime='2022-09-08T09:59:04.732460+00:00'>08 September 2022, 09:04 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -105,6 +105,13 @@ The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 Fix video players on Linux Native and force libVLC to prevent crashes in Proton
 
 The latest version is [3.3.1](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/3.3.1)
+
+<!--net.eia485.SlotLessWorkerInterfaces-->
+### [SlotLessWorkerInterfaces](https://github.com/EIA485/NeosSlotLessWorkerInterfaces) by [eia485](https://github.com/EIA485)
+
+Allows you to create logix interfaces for workers that dont have a slot
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosSlotLessWorkerInterfaces/releases/tag/1.0.0)
 
 <!--net.dfghiatus.mixnmatch_lipsnmouth-->
 ### [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) by [dfgHiatus](https://github.com/dfgHiatus)

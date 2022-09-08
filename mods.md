@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-08T10:14:02.149232+00:00'>08 September 2022, 10:02 UTC</time>
+Last updated at <time datetime='2022-09-08T10:20:44.298679+00:00'>08 September 2022, 10:44 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -773,6 +773,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/NoLogixTraversalCo
 Annotate your nodes to identify them at a glance and open ref arrows' targets!
 
 The latest version is [1.0.4](https://github.com/RileyGuy/Nodentify/releases/tag/1.0.4)
+
+<!--net.Cyro.Proxify-->
+### [Proxify](https://github.com/RileyGuy/Proxify/) by [Cyro](https://github.com/RileyGuy)
+
+Lets you drop LogiX registers into things that can receive reference proxies
+
+The latest version is [1.0.0](https://github.com/RileyGuy/Proxify/releases/tag/1.0.0)
 
 <!--net.eia485.ReferenceNodeHotline-->
 ### [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) by [eia485](https://github.com/EIA485)

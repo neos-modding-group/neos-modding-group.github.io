@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-09T20:37:50.572417+00:00'>09 September 2022, 08:50 UTC</time>
+Last updated at <time datetime='2022-09-10T11:20:03.481498+00:00'>10 September 2022, 11:03 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -281,8 +281,8 @@ Added support for host access requests
 
 Adds user join and leave notifications to the notifications panel
 
-The latest version is [1.2.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.2.0):
-Solved issue of ReversePatch not working as intended with harmony versions past v2.1.0.0 breaking compatibility with desktop notifications
+The latest version is [1.3.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.3.0):
+Added config items for notification sounds
 
 ## Developers
 

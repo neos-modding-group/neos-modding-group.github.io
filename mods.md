@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-10T11:48:39.890921+00:00'>10 September 2022, 11:39 UTC</time>
+Last updated at <time datetime='2022-09-12T18:44:14.586473+00:00'>12 September 2022, 06:14 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -241,10 +241,8 @@ The latest version is [1.0.0](https://github.com/rassi0429/MessageCopy/releases/
 
 Adds a dash screen to edit mod configs
 
-The latest version is [1.2.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.2.0):
-Fixes setting config items to null
-Fix generating a page for mods without supported config items
-Added new config items
+The latest version is [1.2.1](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.2.1):
+Fix a typo in the new config item descriptions
 
 <!--dev.zkxs.neoscontactssort-->
 ### [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) by [runtime](https://github.com/zkxs)

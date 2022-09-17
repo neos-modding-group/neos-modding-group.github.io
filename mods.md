@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-14T01:51:12.993581+00:00'>14 September 2022, 01:12 UTC</time>
+Last updated at <time datetime='2022-09-17T16:55:13.598742+00:00'>17 September 2022, 04:13 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -748,6 +748,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosFixToString/releases
 Allows creating LogiX registers with localized values directly.
 
 The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters/releases/tag/v1.2.0)
+
+<!--me.art0007i.LogixPulseVisualizer-->
+### [LogixPulseVisualizer](https://github.com/art0007i/LogixPulseVisualizer) by [art0007i](https://github.com/art0007i)
+
+Makes all impulse wires glow when an impulse travels through them.
+
+The latest version is [1.0.0](https://github.com/art0007i/LogixPulseVisualizer/releases/tag/1.0.0)
 
 <!--me.badhaloninja.logixutils-->
 ### [LogixUtils](https://github.com/badhaloninja/LogixUtils) by [badhaloninja](https://github.com/badhaloninja)

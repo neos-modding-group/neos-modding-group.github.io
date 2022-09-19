@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-19T20:22:12.236236+00:00'>19 September 2022, 08:12 UTC</time>
+Last updated at <time datetime='2022-09-19T21:55:39.723751+00:00'>19 September 2022, 09:39 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -884,6 +884,13 @@ The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/r
 - add hide from listing config
 - remove enabled config (it didn't actually do anything of value in version 1.0.0)
 
+<!--APnda.CreateTools-->
+### [CreateTools](https://github.com/Ap6661/CreateTools) by [APnda](https://github.com/Ap6661)
+
+Allows you to create tools and brushes through the Create New menu.
+
+The latest version is [1.0.0](https://github.com/Ap6661/CreateTools/releases/tag/v1.0.0)
+
 <!--me.art0007i.CustomStreamPlayers-->
 ### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)
 
@@ -1269,6 +1276,13 @@ The latest version is [1.2.0](https://github.com/hantabaru1014/HeadCullingMask/r
 A mod that lets you avoid having to user LogiX Interface Proxies in Neos 
 
 The latest version is [1.0.0](https://github.com/RileyGuy/InterfacialAbsence/releases/tag/1.0.0)
+
+<!--APnda.LaserRecolorJank-->
+### [LaserRecolorJank](https://github.com/Ap6661/LaserRecolorJank) by [APnda](https://github.com/Ap6661)
+
+Allows you to change your laser color and cursor. (You can even use dynamic variables)
+
+The latest version is [1.0.0](https://github.com/Ap6661/LaserRecolorJank/releases/tag/1.0.0)
 
 <!--dev.LeCloutpanda.LocalMenu-->
 ### [LocalMenu](https://github.com/LeCloutPanda/LocalMenu) by [LeCloutPanda](https://github.com/LeCloutPanda)

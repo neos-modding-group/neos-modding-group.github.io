@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-20T17:49:45.207466+00:00'>20 September 2022, 05:45 UTC</time>
+Last updated at <time datetime='2022-09-27T16:25:36.636001+00:00'>27 September 2022, 04:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -459,6 +459,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosLocalSlotNames/relea
 Adds reference proxy sources to bag editors and list editors
 
 The latest version is [1.1.0](https://github.com/EIA485/NeosMoreReferenceProxies/releases/tag/1.1.0.0)
+
+<!--me.art0007i.MyInspectors-->
+### [MyInspectors](https://github.com/art0007i/MyInspectors) by [art0007i](https://github.com/art0007i)
+
+Makes you generate the inspector content instead of the host
+
+The latest version is [1.0.0](https://github.com/art0007i/MyInspectors/releases/tag/1.0.0)
 
 <!--io.github.frozenreflex.neosparticletools-->
 ### [NeosParticleTools](https://github.com/Frozenreflex/NeosParticleTools) by [Fro Zen](https://github.com/Frozenreflex)

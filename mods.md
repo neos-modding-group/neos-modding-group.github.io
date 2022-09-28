@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-28T21:13:46.680244+00:00'>28 September 2022, 09:46 UTC</time>
+Last updated at <time datetime='2022-09-28T22:14:51.795082+00:00'>28 September 2022, 10:51 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -274,6 +274,13 @@ Removes the 5-second cool-down on hyperlinks
 The latest version is [1.1.0](https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.1.0):
 Added support for host access requests
 
+<!--Banane9.UserJoinLeaveNotifications-->
+### [UserJoinLeaveNotifications](https://github.com/Banane9/NeosUserJoinLeaveNotifications) by [Banane9](https://github.com/Banane9), [badhaloninja](https://github.com/badhaloninja/)
+
+Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
+
+The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
+
 <!--me.badhaloninja.UserJoinLeaveNotifications-->
 ### [UserJoinLeaveNotifications](https://github.com/badhaloninja/UserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja)
 
@@ -377,13 +384,6 @@ The latest version is [1.0.1](https://github.com/RileyGuy/SquishPanels/releases/
 Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
-
-<!--Banane9.UserJoinLeaveNotifications-->
-### [UserJoinLeaveNotifications](https://github.com/Banane9/NeosUserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja/), [Banane9](https://github.com/Banane9)
-
-Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
-
-The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
 
 ## Hardware Integrations
 

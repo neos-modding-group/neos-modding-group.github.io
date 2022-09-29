@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-09-29T09:24:35.941760+00:00'>29 September 2022, 09:35 UTC</time>
+Last updated at <time datetime='2022-09-29T09:25:36.908026+00:00'>29 September 2022, 09:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -430,6 +430,16 @@ The latest version is [1.0.0](https://github.com/badhaloninja/ComponentAttacherF
 Lets you change your default inspector panel
 
 The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/releases/tag/1.1.0)
+
+<!--net.eia485.InspectorDelegateCaller-->
+### [InspectorDelegateCaller](https://github.com/EIA485/NeosInspectorDelegateCaller) by [eia485](https://github.com/EIA485)
+
+adds some buttons to inspector ui for workers that have callable delgates
+
+The latest version is [1.1.0](https://github.com/EIA485/NeosInspectorDelegateCaller/releases/tag/1.1.0):
+
+- added some config options for what types of delegates to generate ui for 
+- added support for more types of delegates
 
 <!--me.badhaloninja.InspectorExpandAll-->
 ### [InspectorExpandAll](https://github.com/badhaloninja/InspectorExpandAll) by [badhaloninja](https://github.com/badhaloninja)

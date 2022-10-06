@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-10-03T05:31:45.555403+00:00'>03 October 2022, 05:45 UTC</time>
+Last updated at <time datetime='2022-10-06T01:39:27.289328+00:00'>06 October 2022, 01:27 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -771,7 +771,7 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosLocalLogixRegisters
 
 Makes all impulse wires glow when an impulse travels through them.
 
-The latest version is [1.0.1](https://github.com/art0007i/LogixPulseVisualizer/releases/tag/1.0.1)
+The latest version is [1.0.2](https://github.com/art0007i/LogixPulseVisualizer/releases/tag/1.0.2)
 
 <!--me.badhaloninja.logixutils-->
 ### [LogixUtils](https://github.com/badhaloninja/LogixUtils) by [badhaloninja](https://github.com/badhaloninja)

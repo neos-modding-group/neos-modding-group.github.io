@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-10-06T01:39:27.289328+00:00'>06 October 2022, 01:27 UTC</time>
+Last updated at <time datetime='2022-10-06T09:25:51.616350+00:00'>06 October 2022, 09:51 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -39,7 +39,8 @@ The latest version is [2.0.0](https://github.com/art0007i/CustomVideoPlayers/rel
 
 Import textures using Anisotropic filtering by default
 
-The latest version is [1.1.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.1.0)
+The latest version is [1.2.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.2.0):
+Fixed procedural textures not allowing you to grab a reference to them.
 
 <!--tk.kawaiiamber.gifimporter-->
 ### [GifImporter](https://github.com/kawaiiamber/GifImporter) by [amber](https://github.com/kawaiiamber)

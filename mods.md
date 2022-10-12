@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-10-06T09:25:51.616350+00:00'>06 October 2022, 09:51 UTC</time>
+Last updated at <time datetime='2022-10-12T09:22:44.838650+00:00'>12 October 2022, 09:44 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -533,7 +533,7 @@ The latest version is [1.0.0](https://github.com/art0007i/ShowComponentSlot/rele
 
 Shows delegates in inspectors
 
-The latest version is [1.1.0](https://github.com/art0007i/ShowDelegates/releases/tag/1.1.0.0)
+The latest version is [1.1.1](https://github.com/art0007i/ShowDelegates/releases/tag/1.1.1)
 
 <!--me.art0007i.showdrivesource-->
 ### [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) by [art0007i](https://github.com/art0007i)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-10-13T02:11:40.389807+00:00'>13 October 2022, 02:40 UTC</time>
+Last updated at <time datetime='2022-11-03T10:03:59.855341+00:00'>03 November 2022, 10:59 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -266,6 +266,13 @@ The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases
 Replaces the default Neos Settings page with an enhanced settings page that adds in many QoL changes
 
 The latest version is [1.1.0](https://github.com/XDelta/SettingsRedux/releases/tag/1.1.0)
+
+<!--net.eia485.ShowUserspaceSpawnButton-->
+### [ShowUserspaceSpawnButton](https://github.com/EIA485/NeosShowUserspaceSpawnButton) by [eia485](https://github.com/EIA485)
+
+Shows the userspace spawn button on any item regardless of if its a facet
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosShowUserspaceSpawnButton/releases/tag/1.0.0)
 
 <!--net.dfghiatus.speedyurls-->
 ### [SpeedyURLs](https://github.com/dfgHiatus/SpeedyURLs) by [dfgHiatus](https://github.com/dfgHiatus)

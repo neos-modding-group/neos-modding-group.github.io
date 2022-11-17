@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-11-03T10:03:59.855341+00:00'>03 November 2022, 10:59 UTC</time>
+Last updated at <time datetime='2022-11-17T16:50:47.423865+00:00'>17 November 2022, 04:47 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -106,6 +106,13 @@ The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 Fix video players on Linux Native and force libVLC to prevent crashes in Proton
 
 The latest version is [3.3.1](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/3.3.1)
+
+<!--net.hantabaru1014.ReleaseSRanipalOnQuit-->
+### [ReleaseSRanipalOnQuit](https://github.com/hantabaru1014/ReleaseSRanipalOnQuit) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Fix SRanipal not releasing properly on quit
+
+The latest version is [1.0.0](https://github.com/hantabaru1014/ReleaseSRanipalOnQuit/releases/tag/v1.0.0)
 
 <!--net.eia485.SlotLessWorkerInterfaces-->
 ### [SlotLessWorkerInterfaces](https://github.com/EIA485/NeosSlotLessWorkerInterfaces) by [eia485](https://github.com/EIA485)
@@ -357,6 +364,13 @@ The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSound
 Sorts contacts Better™ and to your liking.
 
 The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
+
+<!--net.hantabaru1014.NeosBetterIMESupport-->
+### [NeosBetterIMESupport](https://github.com/hantabaru1014/NeosBetterIMESupport) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Fix issues in IMEs with complex input methods like Japanese
+
+The latest version is [1.0.1](https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.1)
 
 <!--net.DoubleStyx.NotificationsWhenBusy-->
 ### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
@@ -1083,6 +1097,13 @@ The latest version is [0.3.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 Makes popup requests for geting assets from urls
 
 The latest version is [0.3.1](https://github.com/EIA485/NeosPrivacyShield/releases/tag/0.3.1)
+
+<!--net.hantabaru1014.SaveItemTweaks-->
+### [SaveItemTweaks](https://github.com/hantabaru1014/SaveItemTweaks) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Tweaks for saving/spawning items when your UserScale is not 1
+
+The latest version is [1.0.1](https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.1)
 
 <!--Psychpsyo.ShutTheFuckUp-->
 ### [ShutTheFuckUp](https://github.com/Psychpsyo/ShutTheFuckUp) by [Psychpsyo](https://psychpsyo.com)

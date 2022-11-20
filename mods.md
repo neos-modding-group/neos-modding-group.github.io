@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-11-19T08:56:31.692035+00:00'>19 November 2022, 08:31 UTC</time>
+Last updated at <time datetime='2022-11-20T17:18:20.378369+00:00'>20 November 2022, 05:20 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -444,7 +444,7 @@ The latest version is [1.1.0](https://github.com/art0007i/ColorDrop/releases/tag
 
 Adds the ability to save favorite components
 
-The latest version is [1.0.0](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.0)
+The latest version is [1.0.1](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.1)
 
 <!--tk.deltawolf.CustomColorPicker-->
 ### [CustomColorPicker](https://github.com/XDelta/CustomColorPicker) by [Delta](https://github.com/XDelta)

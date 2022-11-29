@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-11-20T17:18:20.378369+00:00'>20 November 2022, 05:20 UTC</time>
+Last updated at <time datetime='2022-11-29T18:59:33.751221+00:00'>29 November 2022, 06:33 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -294,7 +294,7 @@ Added support for host access requests
 
 Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
 
-The latest version is [2.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.0.0)
+The latest version is [2.1.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.1.0)
 
 <!--me.badhaloninja.UserJoinLeaveNotifications-->
 ### [UserJoinLeaveNotifications](https://github.com/badhaloninja/UserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja)
@@ -343,6 +343,13 @@ This mod implements an HTTP web server and a Websockets server into the Neos cli
 The latest version is [1.1.0](https://github.com/Zetaphor/NeosWebServers/releases/tag/1.1)
 
 ## General UI Tweaks
+
+<!--Banane9.ClearContactSearch-->
+### [ClearContactSearch](https://github.com/Banane9/NeosClearContactSearch) by [Banane9](https://github.com/Banane9)
+
+Adds a clear button to the search bar on the contacts panel in the dash.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosClearContactSearch/releases/tag/v1.0.0)
 
 <!--Banane9.ContactSessionsUserCapacity-->
 ### [ContactSessionsUserCapacity](https://github.com/Banane9/NeosContactSessionsUserCapacity) by [Banane9](https://github.com/Banane9)

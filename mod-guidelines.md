@@ -21,7 +21,7 @@ You **must** include a correct SHA256 hash of your artifacts.
 
 ### Do Not Remove Versions
 
-You **must** not remove old versions of your mod from the manifest. Instead, use the `deprecated` [flag], which will hide it from the mod list and autoupdaters. The manifest is designed to store a history of mods: not just current versions. This allows us to flag deprecated mods with additional metadata, for example marking them as having security vulnerabilities.
+You **must** not remove old versions of your mod from the manifest. If you no longer plan to maintain the mod, use the `deprecated` [flag] on the mod entry, which will hide it from the [mod list] and autoupdaters. The manifest is designed to store a history of mods: not just current versions. This allows us to flag mods with additional metadata, for example marking them as having security vulnerabilities.
 
 ### Indicate Platform Incompatibilities
 
@@ -77,6 +77,7 @@ Mods **should** avoid performance hits to Neos where possible. While performance
 [flag]: manifest-flags
 [manifest repository]: https://github.com/neos-modding-group/neos-mod-manifest
 [mod and plugin policy]: https://wiki.neos.com/Mod_%26_Plugin_Policy
+[mod list]: https://www.neosmodloader.com/mods 
 [Neos guidelines]: https://docs.google.com/document/d/1G_-PaxSp8rGYeHUIXK-19b2VqOLlpOZ18e7DrOwNjG4/edit
 [schema]: schema
 [submission tutorial]: submission-tutorial

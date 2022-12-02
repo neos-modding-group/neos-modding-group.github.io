@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-01T04:10:12.085080+00:00'>01 December 2022, 04:12 UTC</time>
+Last updated at <time datetime='2022-12-02T04:04:16.759847+00:00'>02 December 2022, 04:16 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1040,7 +1040,8 @@ The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVo
 
 Gizmo buttons will automatically face you.
 
-The latest version is [1.0.0](https://github.com/XDelta/NeosBetterGizmos/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/XDelta/NeosBetterGizmos/releases/tag/1.1.0):
+Added configs to show RefID and set gizmo persistence
 
 <!--dev.zkxs.neosplatformspoof-->
 ### [NeosPlatformSpoof](https://github.com/zkxs/NeosPlatformSpoof) by [runtime](https://github.com/zkxs)

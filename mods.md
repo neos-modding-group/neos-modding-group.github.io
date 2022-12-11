@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-02T04:04:16.759847+00:00'>02 December 2022, 04:16 UTC</time>
+Last updated at <time datetime='2022-12-11T00:48:35.937850+00:00'>11 December 2022, 12:35 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1215,6 +1215,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/CreateNewAdditions
 Ability to control behavior of origin sniping with the dev tool tip
 
 The latest version is [1.0.0](https://github.com/badhaloninja/DevOriginSelectTweaks/releases/tag/v1.0.0)
+
+<!--me.badhaloninja.EnumDropdown-->
+### [EnumDropdown](https://github.com/badhaloninja/EnumDropdown) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds a dropdown for enum fields and enum input logix nodes
+
+The latest version is [1.0.0](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.0)
 
 <!--dev.zkxs.exportneostojson-->
 ### [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-11T00:48:35.937850+00:00'>11 December 2022, 12:35 UTC</time>
+Last updated at <time datetime='2022-12-18T00:27:46.631834+00:00'>18 December 2022, 12:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -444,7 +444,7 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/NeosVarjoEyeTracking/
 
 Makes it so you can grab and drop colors
 
-The latest version is [1.1.0](https://github.com/art0007i/ColorDrop/releases/tag/1.1.0.0)
+The latest version is [1.2.0](https://github.com/art0007i/ColorDrop/releases/tag/1.2.0)
 
 <!--me.badhaloninja.ComponentAttacherFavorites-->
 ### [ComponentAttacherFavorites](https://github.com/badhaloninja/ComponentAttacherFavorites/) by [badhaloninja](https://github.com/badhaloninja)

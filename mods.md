@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-19T13:13:48.029855+00:00'>19 December 2022, 01:48 UTC</time>
+Last updated at <time datetime='2022-12-19T20:50:01.023126+00:00'>19 December 2022, 08:01 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -72,13 +72,6 @@ Allows you to stop that annoying snapping when trying to set up an avatar in cer
 
 The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/CompliantAvatarCreator/releases/tag/v1.0.0.0)
 
-<!--io.github.kyuubiyoru.disablelibvlc-->
-### [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) by [KyuubiYoru](https://github.com/KyuubiYoru)
-
-Disable libVLC to prevent crashes in Windows
-
-The latest version is [1.0.0](https://github.com/KyuubiYoru/DisableLibVLC/releases/tag/1.0.0)
-
 <!--me.badhaloninja.FixAltEnter-->
 ### [FixAltEnter](https://github.com/badhaloninja/FixAltEnter) by [badhaloninja](https://github.com/badhaloninja/)
 
@@ -103,9 +96,9 @@ The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 <!--io.github.frozenreflex.neosvideoplayerfix-->
 ### [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) by [Fro Zen](https://github.com/Frozenreflex)
 
-Fix video players on Linux Native and force libVLC to prevent crashes in Proton
+Disable video playback engines to prevent crashes and fix video players on Linux Native
 
-The latest version is [3.3.1](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/3.3.1)
+The latest version is [4.0.0](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/4.0.0)
 
 <!--net.hantabaru1014.ReleaseSRanipalOnQuit-->
 ### [ReleaseSRanipalOnQuit](https://github.com/hantabaru1014/ReleaseSRanipalOnQuit) by [hantabaru1014](https://github.com/hantabaru1014)

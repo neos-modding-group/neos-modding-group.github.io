@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-19T20:50:01.023126+00:00'>19 December 2022, 08:01 UTC</time>
+Last updated at <time datetime='2022-12-19T22:47:34.005164+00:00'>19 December 2022, 10:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -171,6 +171,13 @@ The latest version is [3.5.0](https://github.com/rampa3/3DDashOnScreen/releases/
 Allows you to spawn multiple audio streams
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioStreams/releases/tag/1.0.0.0)
+
+<!--dev.baru.neos.BetterInventoryBrowser-->
+### [BetterInventoryBrowser](https://github.com/hantabaru1014/BetterInventoryBrowser) by [hantabaru1014](https://github.com/hantabaru1014)
+
+UI tweaks for InventoryBrowser
+
+The latest version is [0.3.0](https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.3.0)
 
 <!--net.Hayden.ChangeUserspaceFont-->
 ### [ChangeUserSpaceFont](https://github.com/Hayden-Fluff/Change-Userspace-Font) by [Hayden-Fluff](https://github.com/Hayden-Fluff)

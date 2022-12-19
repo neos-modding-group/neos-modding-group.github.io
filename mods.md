@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-18T00:27:46.631834+00:00'>18 December 2022, 12:46 UTC</time>
+Last updated at <time datetime='2022-12-19T13:13:48.029855+00:00'>19 December 2022, 01:48 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -534,6 +534,13 @@ Adds a button to SkinnedMeshRenderers that sets up its bones to your avatars arm
 
 The latest version is [1.1](https://github.com/CatSharkShin/ReArmature/releases/tag/1.1):
 It now duplicates bonegroups instead of just reparenting them to the new armature. Also now force strips empty bones before attaching.
+
+<!--me.badhaloninja.RefEditorUtils-->
+### [RefEditorUtils](https://github.com/badhaloninja/RefEditorUtils) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds extra buttons to some RefEditor types
+
+The latest version is [1.0.0](https://github.com/badhaloninja/RefEditorUtils/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.ReloadInspectorButton-->
 ### [ReloadInspectorButton](https://github.com/badhaloninja/ReloadInspectorButton) by [badhaloninja](https://github.com/badhaloninja)
@@ -1221,7 +1228,9 @@ The latest version is [1.0.0](https://github.com/badhaloninja/DevOriginSelectTwe
 
 Adds a dropdown for enum fields and enum input logix nodes
 
-The latest version is [1.0.0](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.0)
+The latest version is [1.0.1](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.1):
+
+- Fix enum input logix node dropping slot into parent on pack
 
 <!--dev.zkxs.exportneostojson-->
 ### [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-19T22:47:34.005164+00:00'>19 December 2022, 10:34 UTC</time>
+Last updated at <time datetime='2022-12-20T16:09:20.042489+00:00'>20 December 2022, 04:20 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -602,6 +602,13 @@ The latest version is [2.0.0](https://github.com/zkxs/NeosDesktopToolShortcutRem
 Fully configurable number key bindings for spawning arbitrary tools
 
 The latest version is [2.0.0](https://github.com/kazu0617/DesktopToolShortcutRemapper/releases/tag/v2.0.0-kazu)
+
+<!--me.art0007i.DisableLegacyInventory-->
+### [DisableLegacyInventory](https://github.com/art0007i/DisableLegacyInventory) by [art0007i](https://github.com/art0007i)
+
+Disables the grip+dash menu legacy inventory gesture.
+
+The latest version is [1.0.0](https://github.com/art0007i/DisableLegacyInventory/releases/tag/1.0.0)
 
 <!--net.rampa3.ExitAndDiscardHomesKeybind-->
 ### [ExitAndDiscardHomesKeybind](https://github.com/rampa3/ExitAndDiscardHomesKeybind) by [rampa3](https://github.com/rampa3)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-20T16:09:20.042489+00:00'>20 December 2022, 04:20 UTC</time>
+Last updated at <time datetime='2022-12-21T17:28:14.139337+00:00'>21 December 2022, 05:14 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -236,6 +236,14 @@ The latest version is [1.3.0.0](https://github.com/EIA485/NeosGetItemLink/releas
 Lets you double-click the loading indicator to remove it if the loading bug occurs
 
 The latest version is [1.0.0](https://github.com/RileyGuy/LoadAlready/releases/tag/1.0.0)
+
+<!--me.art0007i.LocalStorage-->
+### [LocalStorage](https://github.com/art0007i/LocalStorage/) by [art0007i](https://github.com/art0007i)
+
+Allows you to store items locally on your hard drive. This mod adds a new section to the inventory that can be accessed by pressing the cloud button, called Local Storage.
+
+The latest version is [1.1.0](https://github.com/art0007i/LocalStorage/releases/tag/1.1.0):
+fix linux path separator
 
 <!--dev.kokoa.messagecopy-->
 ### [MessageCopy](https://github.com/rassi0429/MessageCopy) by [kka429](https://github.com/rassi0429)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-21T17:28:14.139337+00:00'>21 December 2022, 05:14 UTC</time>
+Last updated at <time datetime='2022-12-25T20:38:46.717137+00:00'>25 December 2022, 08:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -593,6 +593,13 @@ Allows viewing what a field is driven by
 The latest version is [1.1.1](https://github.com/art0007i/ShowDriveSource/releases/tag/1.1.1.0)
 
 ## Keybinds & Gestures
+
+<!--net.TheJebForge.DesktopHandSwitch-->
+### [DesktopHandSwitch](https://github.com/TheJebForge/DesktopHandSwitch) by [TheJebForge](https://github.com/TheJebForge)
+
+Allows you to switch primary hand via a keypress
+
+The latest version is [1.0.0](https://github.com/TheJebForge/DesktopHandSwitch/releases/tag/1.0.0)
 
 <!--dev.zkxs.neosdesktoptoolshortcutremapper-->
 ### [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) by [runtime](https://github.com/zkxs)

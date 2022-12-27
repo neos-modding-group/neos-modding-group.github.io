@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-25T20:38:46.717137+00:00'>25 December 2022, 08:46 UTC</time>
+Last updated at <time datetime='2022-12-27T22:05:06.337224+00:00'>27 December 2022, 10:06 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -302,7 +302,7 @@ Added support for host access requests
 
 Adds notifications to the notifications panel when users join or leave your focused session or any session you're in. Clicking on the notification opens the user's profile page and can focus the relevant session as well.
 
-The latest version is [2.1.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v2.1.0)
+The latest version is [3.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifications/releases/tag/v3.0.0)
 
 <!--me.badhaloninja.UserJoinLeaveNotifications-->
 ### [UserJoinLeaveNotifications](https://github.com/badhaloninja/UserJoinLeaveNotifications) by [badhaloninja](https://github.com/badhaloninja)
@@ -329,6 +329,34 @@ Allows you to easily manage bone references of any skinned mesh renderer either 
 The latest version is [1.0.1](https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.1):
 Added option to use mesh bone names, null reference fix
 
+<!--Banane9.BoundedUIX-->
+### [BoundedUIX](https://github.com/Banane9/NeosBoundedUIX) by [Banane9](https://github.com/Banane9)
+
+Makes UIX elements selectable and editable with the usual Slot gizmos, as well as fixing UIX elements breaking when a parent is inserted.
+
+The latest version is [2.2.2](https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.2.2)
+
+<!--Banane9.ComponentAttacherFavorites-->
+### [ComponentAttacherFavorites](https://github.com/Banane9/NeosComponentAttacherFavorites/) by [Banane9](https://github.com/Banane9)
+
+Adds the ability to save favorite components and categories.
+
+The latest version is [2.0.1](https://github.com/Banane9/NeosComponentAttacherFavorites/releases/tag/v2.0.1)
+
+<!--Banane9.ComponentAttacherSearch-->
+### [ComponentAttacherSearch](https://github.com/Banane9/NeosComponentAttacherSearch) by [Banane9](https://github.com/Banane9)
+
+Adds a search bar to component attachers. If you want to use this in conjunction with ComponentAttacherFavorites, make sure you use my version of it that also allows favoriting categories; or rename one of the DLLs, so that this mod loads first.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosComponentAttacherSearch/releases/tag/v1.0.0)
+
+<!--Banane9.CorrectGizmoScaling-->
+### [CorrectGizmoScaling](https://github.com/Banane9/NeosCorrectGizmoScaling) by [Banane9](https://github.com/Banane9)
+
+Tiny mod that corrects the scaling of the Inspector spawned by the MaterialTip's Edit Material context menu button.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosCorrectGizmoScaling/releases/tag/v1.0.0)
+
 <!--Banane9.DynVarSpaceTree-->
 ### [DynVarSpaceTree](https://github.com/Banane9/NeosDynVarSpaceTree) by [Banane9](https://github.com/Banane9)
 
@@ -342,6 +370,13 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/rel
 Adds buttons to the DynamicBlendShapeDriver component to automatically add entries for all BlendShapes on the linked SkinnedMeshRenderer.
 
 The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.3.0)
+
+<!--Banane9.PrecisionBlendShapeBaking-->
+### [PrecisionBlendShapeBaking](https://github.com/Banane9/NeosPrecisionBlendShapeBaking) by [Banane9](https://github.com/Banane9)
+
+Allows baking individual blend shapes using the GlueTip.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosPrecisionBlendShapeBaking/releases/tag/v1.0.0)
 
 <!--net.Zetaphor.Webservers-->
 ### [Webservers](https://github.com/Zetaphor/NeosWebServers) by [Zetaphor](https://github.com/Zetaphor)
@@ -448,7 +483,7 @@ The latest version is [1.0.1](https://github.com/dfgHiatus/NeosVarjoEyeTracking/
 ## Inspectors
 
 <!--me.art0007i.colordrop-->
-### [ColorDrop](https://github.com/art0007i/ColorDrop) by [art0007i](https://github.com/art0007i)
+### [ColorDrop](https://github.com/art0007i/ColorDrop) by [art0007i](https://github.com/art0007i), [Banane9](https://github.com/Banane9)
 
 Makes it so you can grab and drop colors
 
@@ -1002,11 +1037,11 @@ Enables physical grabbing in screen mode
 The latest version is [1.0.0](https://github.com/EIA485/NeosDesktopPhisicalGrab/releases/tag/1.0.0.0)
 
 <!--Banane9.EditorTabbing-->
-### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9)
+### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9), [hantabaru1014](https://github.com/hantabaru1014)
 
 Allows moving between UIX text inputs in the inspector or anywhere else with tab, with a fallback when Steam Overlay could be triggered with shift+tab.
 
-The latest version is [1.1.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v1.1.0)
+The latest version is [2.0.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v2.0.0)
 
 <!--net.eia485.exposepatchedmethods-->
 ### [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) by [eia485](https://github.com/EIA485), [kazu0617](https://github.com/kazu0617)

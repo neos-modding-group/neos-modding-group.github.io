@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-28T03:49:56.378308+00:00'>28 December 2022, 03:56 UTC</time>
+Last updated at <time datetime='2022-12-29T07:21:55.567930+00:00'>29 December 2022, 07:55 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -548,6 +548,15 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosLocalSlotNames/relea
 Adds reference proxy sources to bag editors and list editors
 
 The latest version is [1.1.0](https://github.com/EIA485/NeosMoreReferenceProxies/releases/tag/1.1.0.0)
+
+<!--me.badhaloninja.MultiParameterGenericComponentAttacher-->
+### [MultiParameterGenericComponentAttacher](https://github.com/badhaloninja/MultiParameterGenericComponentAttacher) by [badhaloninja](https://github.com/badhaloninja)
+
+Adds support for multi parameter generic components in the component attacher
+Separate type parameters with `|`
+For example `Slot|IWorldElement` for a ReferenceCast component to cast a Slot to an IWorldElement
+
+The latest version is [1.0.0](https://github.com/badhaloninja/MultiParameterGenericComponentAttacher/releases/tag/v1.0.0)
 
 <!--me.art0007i.MyInspectors-->
 ### [MyInspectors](https://github.com/art0007i/MyInspectors) by [art0007i](https://github.com/art0007i)

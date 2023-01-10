@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2022-12-29T14:25:19.447160+00:00'>29 December 2022, 02:19 UTC</time>
+Last updated at <time datetime='2023-01-10T22:45:25.476098+00:00'>10 January 2023, 10:25 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -85,6 +85,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/FixAltEnter/releas
 Adds a button to RectTransforms that fixes broken uix
 
 The latest version is [1.1.0](https://github.com/art0007i/FixUIXButton/releases/tag/1.1.0.0)
+
+<!--jworkz.sjackal.JworkzAnimJImportFixMod-->
+### [JworkzAnimJImportFixMod](https://github.com/stiefeljackal/NeosAnimJImportFix) by [StiefelJackal](https://github.com/stiefeljackal)
+
+Fixes the AnimJ importing, parsing, and setup issues
+
+The latest version is [1.0.0](https://github.com/stiefeljackal/NeosAnimJImportFix/releases/tag/v1.0.0)
 
 <!--xyz.ljoonal.neos.linuxfixes-->
 ### [LinuxFixes](https://neos.ljoonal.xyz/mods/#linux-fixes) by [ljoonal](https://www.ljoonal.xyz/)

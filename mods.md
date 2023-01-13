@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-10T22:45:25.476098+00:00'>10 January 2023, 10:25 UTC</time>
+Last updated at <time datetime='2023-01-13T15:36:36.726562+00:00'>13 January 2023, 03:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1257,7 +1257,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosKillLogSpam/releases
 
 Removes stack traces from places where they should have never been
 
-The latest version is [1.0.0](https://github.com/art0007i/StackTraceFixer/releases/tag/1.0.0.0)
+The latest version is [1.0.1](https://github.com/art0007i/StackTraceFixer/releases/tag/1.0.1)
 
 ## Technical Tweaks
 

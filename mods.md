@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-14T13:37:25.717208+00:00'>14 January 2023, 01:25 UTC</time>
+Last updated at <time datetime='2023-01-15T21:20:46.317838+00:00'>15 January 2023, 09:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1171,6 +1171,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosNoSteam/releases/tag
 Can individually hide each part of the ViolentAprilFoolsExplosion.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosPacifistAprilFoolsExplosion/releases/tag/v1.0.0)
+
+<!--me.art0007i.PresenceToggle-->
+### [PresenceToggle](https://github.com/art0007i/PresenceToggle) by [art0007i](https://github.com/art0007i)
+
+Allows you to toggle discord and steam rich presence
+
+The latest version is [1.0.0](https://github.com/art0007i/PresenceToggle/releases/tag/1.0.0)
 
 <!--Psychpsyo.PrivacyPlus-->
 ### [PrivacyPlus](https://github.com/Psychpsyo/PrivacyPlus) by [Psychpsyo](https://psychpsyo.com)

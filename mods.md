@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-15T21:20:46.317838+00:00'>15 January 2023, 09:46 UTC</time>
+Last updated at <time datetime='2023-01-15T21:29:53.015522+00:00'>15 January 2023, 09:53 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -236,6 +236,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosFriendLinkSessionLis
 Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 
 The latest version is [1.3.0.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.3.0.0)
+
+<!--me.art0007i.LargerObjectMessagePreviews-->
+### [LargerObjectMessagePreviews](https://github.com/art0007i/LargerObjectMessagePreviews) by [art0007i](https://github.com/art0007i)
+
+Increases the size of object message thumbnails.
+
+The latest version is [1.0.0](https://github.com/art0007i/LargerObjectMessagePreviews/releases/tag/1.0.0)
 
 <!--net.cyro.loadalready-->
 ### [LoadAlready](https://github.com/RileyGuy/LoadAlready) by [Cyro](https://github.com/RileyGuy)

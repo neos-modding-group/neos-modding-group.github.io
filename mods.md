@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-15T21:29:53.015522+00:00'>15 January 2023, 09:53 UTC</time>
+Last updated at <time datetime='2023-01-16T04:51:15.810238+00:00'>16 January 2023, 04:15 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -105,7 +105,7 @@ The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 
 Disable video playback engines to prevent crashes and fix video players on Linux Native
 
-The latest version is [4.0.0](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/4.0.0)
+The latest version is [4.1.0](https://github.com/Frozenreflex/NeosVideoPlayerFix/releases/tag/4.1.0)
 
 <!--net.hantabaru1014.ReleaseSRanipalOnQuit-->
 ### [ReleaseSRanipalOnQuit](https://github.com/hantabaru1014/ReleaseSRanipalOnQuit) by [hantabaru1014](https://github.com/hantabaru1014)

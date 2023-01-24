@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-24T00:54:56.607606+00:00'>24 January 2023, 12:56 UTC</time>
+Last updated at <time datetime='2023-01-24T01:57:05.326481+00:00'>24 January 2023, 01:05 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -288,6 +288,15 @@ Sorts contacts Better™
 
 The latest version is [1.2.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.2.0):
 sort friends above search results
+
+<!--net.rampa3.screendashfixer-->
+### [ScreenDashFixer](https://github.com/rampa3/ScreenDashFixer) by [rampa3](https://github.com/rampa3)
+
+spinoff of 3D Dash On Screen, minus 3D dash and UI editing – fixes userspace, camera UI, restores desktop tab controls keybind, and re-enables floating notifications
+
+The latest version is [1.1.0](https://github.com/rampa3/ScreenDashFixer/releases/tag/1.1.0.0):
+
+- synced in fix of the desktop control panel keybind interfering with VR keyboard from latest 3D Dash On Screen code
 
 <!--net.kazu0617.sessiontweaks-->
 ### [SessionTweaks](https://github.com/kazu0617/SessionTweaks) by [kazu0617](https://github.com/kazu0617)

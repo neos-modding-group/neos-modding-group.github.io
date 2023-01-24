@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-24T01:57:05.326481+00:00'>24 January 2023, 01:05 UTC</time>
+Last updated at <time datetime='2023-01-24T23:05:05.360885+00:00'>24 January 2023, 11:05 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -127,6 +127,13 @@ The latest version is [1.0.0](https://github.com/hantabaru1014/ReleaseSRanipalOn
 Allows you to create logix interfaces for workers that dont have a slot
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosSlotLessWorkerInterfaces/releases/tag/1.0.0)
+
+<!--net.DoubleStyx.iTrackerFix-->
+### [iTrackerFix](https://github.com/DoubleStyx/iTrackerFix/) by [DoubleStyx](https://github.com/DoubleStyx/)
+
+Fixes an issue where eye tracking will break if your viewpoint is directly in front of or inside a collider
+
+The latest version is [1.0.0](https://github.com/DoubleStyx/iTrackerFix/releases/tag/1.0.0)
 
 <!--net.dfghiatus.mixnmatch_lipsnmouth-->
 ### [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) by [dfgHiatus](https://github.com/dfgHiatus)
@@ -1540,7 +1547,7 @@ Disables SSAO for all of your cameras, including your view
 
 The latest version is [1.0.2](https://github.com/zkxs/SsaoDisable/releases/tag/1.0.2.0)
 
-<!--DoubleStyx.SsaoTweaks-->
+<!--net.DoubleStyx.SsaoTweaks-->
 ### [SsaoTweaks](https://github.com/DoubleStyx/SsaoTweaks) by [DoubleStyx](https://github.com/DoubleStyx)
 
 Allows the individual parameters of the SSAO effect to be configured.

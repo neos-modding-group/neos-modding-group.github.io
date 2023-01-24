@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-16T04:51:15.810238+00:00'>16 January 2023, 04:15 UTC</time>
+Last updated at <time datetime='2023-01-24T00:54:56.607606+00:00'>24 January 2023, 12:56 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -85,6 +85,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/FixAltEnter/releas
 Adds a button to RectTransforms that fixes broken uix
 
 The latest version is [1.1.0](https://github.com/art0007i/FixUIXButton/releases/tag/1.1.0.0)
+
+<!--owo.Nytra.HeadlessToolTipKickCrashFix-->
+### [HeadlessToolTipKickCrashFix](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix) by [Nytra](https://github.com/Nytra)
+
+Prevents tooltip permission kicks from causing a world crash on headless.
+
+The latest version is [1.0.1](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix/releases/tag/v1.0.1)
 
 <!--jworkz.sjackal.JworkzAnimJImportFixMod-->
 ### [JworkzAnimJImportFixMod](https://github.com/stiefeljackal/NeosAnimJImportFix) by [StiefelJackal](https://github.com/stiefeljackal)

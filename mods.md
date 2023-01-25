@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-24T23:05:05.360885+00:00'>24 January 2023, 11:05 UTC</time>
+Last updated at <time datetime='2023-01-25T10:56:59.904424+00:00'>25 January 2023, 10:59 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -495,13 +495,6 @@ Can prevent the locomotion and scale items from disappearing from the context me
 The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
 
 ## Hardware Integrations
-
-<!--net.dfghiatus.neos-wcface-integration-->
-### [Neos-WCFace-Integration](https://github.com/dfgHiatus/Neos-WCFace-Integration) by [dfgHiatus](https://github.com/dfgHiatus)
-
-Integrates WCFace's screen-mode eye tracking
-
-The latest version is [1.0.0](https://github.com/dfgHiatus/NeosWCFaceIntegration/releases/tag/v1.0.0)
 
 <!--net.dfg.pimaxeyetracking-->
 ### [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) by [dfgHiatus](https://github.com/dfgHiatus)

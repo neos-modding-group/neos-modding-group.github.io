@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-25T10:56:59.904424+00:00'>25 January 2023, 10:59 UTC</time>
+Last updated at <time datetime='2023-01-25T10:59:23.848076+00:00'>25 January 2023, 10:23 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -346,8 +346,8 @@ The latest version is [3.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifi
 
 Adds user join and leave notifications to the notifications panel
 
-The latest version is [1.3.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.3.0):
-Added config items for notification sounds
+The latest version is [1.4.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.4.0):
+Add a config to enable friend links on the notifications - EIA485
 
 ## Developers
 

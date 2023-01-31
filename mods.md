@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-01-31T05:24:18.147425+00:00'>31 January 2023, 05:18 UTC</time>
+Last updated at <time datetime='2023-01-31T08:29:26.536009+00:00'>31 January 2023, 08:26 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -788,12 +788,13 @@ Requested by Salireths
 The latest version is [1.1.0](https://github.com/badhaloninja/OculusSwapMenuAndSecondary/releases/tag/v1.1.0):
 Rebind jump to ButtonXA
 
-<!--tk.deltawolf.NeosPTTKeybinds-->
+<!--net.deltawolf.NeosPTTKeybinds-->
 ### [PTTKeybinds](https://github.com/XDelta/NeosPTTKeybinds) by [Delta](https://github.com/XDelta)
 
-Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust which are disabled
+Allows disabling and rebinding default Push-to-Talk keybinds like mouse5, V, or M. Adds keybinds to set your current voicemode
 
-The latest version is [1.1.0](https://github.com/XDelta/NeosPTTKeybinds/releases/tag/1.1.0)
+The latest version is [1.2.1](https://github.com/XDelta/NeosPTTKeybinds/releases/tag/1.2.1):
+Added Mute keybind, works with dash closed, keybinds now don't trigger while typing in any field
 
 <!--me.badhaloninja.PimaxSwordAsViveWand-->
 ### [PimaxSwordAsViveWand](https://github.com/badhaloninja/PimaxSwordAsViveWand) by [badhaloninja](https://github.com/badhaloninja)

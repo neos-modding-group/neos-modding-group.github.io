@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-02T17:07:20.965695+00:00'>02 February 2023, 05:20 UTC</time>
+Last updated at <time datetime='2023-02-02T17:22:12.902267+00:00'>02 February 2023, 05:12 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -539,6 +539,13 @@ The latest version is [1.0.0](https://github.com/XDelta/CustomColorPicker/releas
 Lets you change your default inspector panel
 
 The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/releases/tag/1.1.0)
+
+<!--net.earthmark.GenericTypeType-->
+### [GenericTypeType](https://github.com/Earthmark/Neos-TypeType) by [Earthmark](https://github.com/Earthmark)
+
+Adds additional type resolver steps to the generic type resolver in the component attacher, allowing nested generics using the C# syntax with some pre-defined namespace usings.
+
+The latest version is [0.1.1](https://github.com/Earthmark/Neos-TypeType/releases/tag/0.1.1)
 
 <!--net.eia485.InspectorDelegateCaller-->
 ### [InspectorDelegateCaller](https://github.com/EIA485/NeosInspectorDelegateCaller) by [eia485](https://github.com/EIA485)

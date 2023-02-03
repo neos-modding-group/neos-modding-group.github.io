@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-02T17:22:12.902267+00:00'>02 February 2023, 05:12 UTC</time>
+Last updated at <time datetime='2023-02-03T19:34:06.057029+00:00'>03 February 2023, 07:06 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -312,7 +312,7 @@ Adds buttons for session orb / copy session uri to your contact's tab
 
 The latest version is [2.0.1](https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.1)
 
-<!--tk.deltawolf.SettingsRedux-->
+<!--net.deltawolf.SettingsRedux-->
 ### [SettingsRedux](https://github.com/XDelta/SettingsRedux) by [Delta](https://github.com/XDelta)
 
 Replaces the default Neos Settings page with an enhanced settings page that adds in many QoL changes
@@ -526,7 +526,7 @@ Adds the ability to save favorite components
 
 The latest version is [1.0.1](https://github.com/badhaloninja/ComponentAttacherFavorites/releases/tag/v1.0.1)
 
-<!--tk.deltawolf.CustomColorPicker-->
+<!--net.deltawolf.CustomColorPicker-->
 ### [CustomColorPicker](https://github.com/XDelta/CustomColorPicker) by [Delta](https://github.com/XDelta)
 
 Allows setting a custom color picker.
@@ -609,7 +609,7 @@ Adds better tools to edit particle fades
 
 The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/releases/tag/1.0.0)
 
-<!--tk.deltawolf.NeosNonPersistentInspectors-->
+<!--net.deltawolf.NeosNonPersistentInspectors-->
 ### [NonPersistentInspectors](https://github.com/XDelta/NeosNonPersistentInspectors) by [Delta](https://github.com/XDelta)
 
 Makes spawned inspectors set to nonpersistent by default
@@ -1153,7 +1153,7 @@ Automatically makes any video you import have a local volume slider
 
 The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
 
-<!--tk.deltawolf.NeosBetterGizmos-->
+<!--net.deltawolf.NeosBetterGizmos-->
 ### [NeosBetterGizmos](https://github.com/XDelta/NeosBetterGizmos) by [Delta](https://github.com/XDelta)
 
 Gizmo buttons will automatically face you.
@@ -1572,7 +1572,7 @@ Automatically sets up Dynamic Bone Chains on avatars and validly named slots
 
 The latest version is [1.0.1](https://github.com/dfgHiatus/DynamicBoneChainWizardMod/releases/tag/v1.0.1)
 
-<!--tk.deltawolf.LogixCleanupWizard-->
+<!--net.deltawolf.LogixCleanupWizard-->
 ### [LogixCleanupWizard](https://github.com/XDelta/NeosLogixCleanupWizard) by [Delta](https://github.com/XDelta)
 
 Provides a wizard for cleaning up leftover logiX components.

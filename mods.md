@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-03T19:34:06.057029+00:00'>03 February 2023, 07:06 UTC</time>
+Last updated at <time datetime='2023-02-08T23:31:40.994293+00:00'>08 February 2023, 11:40 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -531,7 +531,8 @@ The latest version is [1.0.1](https://github.com/badhaloninja/ComponentAttacherF
 
 Allows setting a custom color picker.
 
-The latest version is [1.0.0](https://github.com/XDelta/CustomColorPicker/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/XDelta/CustomColorPicker/releases/tag/1.1.0):
+Fixed duplicate NeosColorDialog component sometimes existing on a custom dialog
 
 <!--me.art0007i.CustomInspectors-->
 ### [CustomInspectors](https://github.com/art0007i/CustomInspectors) by [art0007i](https://github.com/art0007i)

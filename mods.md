@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-08T23:31:40.994293+00:00'>08 February 2023, 11:40 UTC</time>
+Last updated at <time datetime='2023-02-11T01:30:48.078978+00:00'>11 February 2023, 01:48 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1153,6 +1153,13 @@ The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalStreamVolume/
 Automatically makes any video you import have a local volume slider
 
 The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
+
+<!--Ukilop.MoreTags-->
+### [MoreTags!](https://github.com/ukilop/MoreTags) by [ukilop](https://github.com/ukilop)
+
+Adds Tags to certain Neos Generated objects.
+
+The latest version is [1.0.0](https://github.com/ukilop/MoreTags/releases/V1.0.0)
 
 <!--net.deltawolf.NeosBetterGizmos-->
 ### [NeosBetterGizmos](https://github.com/XDelta/NeosBetterGizmos) by [Delta](https://github.com/XDelta)

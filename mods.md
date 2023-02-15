@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-11T01:30:48.078978+00:00'>11 February 2023, 01:48 UTC</time>
+Last updated at <time datetime='2023-02-15T16:06:16.132625+00:00'>15 February 2023, 04:16 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -933,9 +933,13 @@ The latest version is [1.0.2](https://github.com/art0007i/LogixPulseVisualizer/r
 
 Tweaks some logix things
 
-The latest version is [1.5.2](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.5.2):
+The latest version is [1.6.0](https://github.com/badhaloninja/LogixUtils/releases/tag/v1.6.0):
 
-- Fixed an error breaking compatibility with ValueProxyExtensions under certain conditions
+- Added new UI Align Tweaks config options
+   - `snapToAngleOnAlign` - Enables snapping to angles, if disabled reverts flipping forward and backwards - Enabled by default
+   - `alignSnapAngle` - Angle to snap to when `snapToAngleOnAlign` is enabled - 90º by default
+   - `alignScaleModifierKey` - Modifier key that if held while aligning will scale the object - Spacebar by default, can be set to none
+   - `modifiedScaleToUserScale` - When enabled scale to user scale when aligning with modifier instead of global one scale
 
 <!--me.badhaloninja.NoLogixTraversalContext-->
 ### [NoLogixTraversalContext](https://github.com/badhaloninja/NoLogixTraversalContext) by [badhaloninja](https://github.com/badhaloninja)
@@ -1354,9 +1358,10 @@ The latest version is [1.0.0](https://github.com/badhaloninja/DevOriginSelectTwe
 
 Adds a dropdown for enum fields and enum input logix nodes
 
-The latest version is [1.0.1](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.1):
+The latest version is [1.1.0](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.1.0):
 
-- Fix enum input logix node dropping slot into parent on pack
+- Fix interacting with certain flag enums that are defined using non int values
+ - Adjust flag selection ui
 
 <!--dev.zkxs.exportneostojson-->
 ### [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) by [runtime](https://github.com/zkxs)

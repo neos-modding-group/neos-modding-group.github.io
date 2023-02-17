@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-15T16:06:16.132625+00:00'>15 February 2023, 04:16 UTC</time>
+Last updated at <time datetime='2023-02-17T22:44:10.938524+00:00'>17 February 2023, 10:10 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -59,9 +59,10 @@ The latest version is [1.0.2](https://github.com/rassi0429/NeosPasteTweak/releas
 <!--me.art0007i.pasteinvidious-->
 ### [PasteInvidious](https://github.com/art0007i/PasteInvidious) by [art0007i](https://github.com/art0007i)
 
-Changes all pasted youtube links to invidious links
+Changes all pasted youtube links to piped.video links
 
-The latest version is [1.1.1](https://github.com/art0007i/PasteInvidious/releases/tag/1.1.1.0)
+The latest version is [2.0.1](https://github.com/art0007i/PasteInvidious/releases/tag/2.0.1):
+Fixed annoying parsing bug.
 
 ## Bug Workarounds
 

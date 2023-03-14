@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-14T13:50:41.839127+00:00'>14 March 2023, 01:41 UTC</time>
+Last updated at <time datetime='2023-03-14T13:57:09.692704+00:00'>14 March 2023, 01:09 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -795,8 +795,8 @@ Rebind jump to ButtonXA
 
 Allows disabling and rebinding default Push-to-Talk keybinds like mouse5, V, or M. Adds keybinds to set your current voicemode
 
-The latest version is [1.2.1](https://github.com/XDelta/NeosPTTKeybinds/releases/tag/1.2.1):
-Added Mute keybind, works with dash closed, keybinds now don't trigger while typing in any field
+The latest version is [1.2.2](https://github.com/XDelta/NeosPTTKeybinds/releases/tag/1.2.2):
+Fix for Mute toggle breaking with Mute keybind. Uses IsMuted instead of setting the Voicemode to Mute.
 
 <!--me.badhaloninja.PimaxSwordAsViveWand-->
 ### [PimaxSwordAsViveWand](https://github.com/badhaloninja/PimaxSwordAsViveWand) by [badhaloninja](https://github.com/badhaloninja)

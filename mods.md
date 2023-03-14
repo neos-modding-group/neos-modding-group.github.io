@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-14T17:22:42.186021+00:00'>14 March 2023, 05:42 UTC</time>
+Last updated at <time datetime='2023-03-14T19:54:11.083042+00:00'>14 March 2023, 07:11 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -100,6 +100,13 @@ The latest version is [1.0.0](https://github.com/stiefeljackal/NeosAnimJImportFi
 Linux fixes for item rotation not working properly, centers mouse on context menu open and un-reverses the scroll wheel direction
 
 The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-12)
+
+<!--io.github.frozenreflex.neoslinuxexportfix-->
+### [NeosLinuxExportFix](https://github.com/Frozenreflex/NeosLinuxExportFix) by [Fro Zen](https://github.com/Frozenreflex)
+
+Fix not being able to export files on Linux Native
+
+The latest version is [1.0.0](https://github.com/Frozenreflex/NeosLinuxExportFix/releases/tag/1.0.0)
 
 <!--io.github.frozenreflex.neosvideoplayerfix-->
 ### [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) by [Fro Zen](https://github.com/Frozenreflex)

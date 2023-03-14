@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-02-27T00:17:57.995974+00:00'>27 February 2023, 12:57 UTC</time>
+Last updated at <time datetime='2023-03-14T13:42:50.836805+00:00'>14 March 2023, 01:50 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -41,13 +41,6 @@ Import textures using Anisotropic filtering by default
 
 The latest version is [1.2.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.2.0):
 Fixed procedural textures not allowing you to grab a reference to them.
-
-<!--xyz.astralchan.gifimporter-->
-### [GifImporter](https://github.com/astralchan/GifImporter) by [astralchan](https://github.com/astralchan)
-
-Allows you to import gif images
-
-The latest version is [1.1.3](https://github.com/astralchan/GifImporter/releases/tag/1.1.3)
 
 <!--dev.kokoa.neospastetweak-->
 ### [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) by [kka429](https://github.com/rassi0429)

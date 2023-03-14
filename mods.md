@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-14T13:57:09.692704+00:00'>14 March 2023, 01:09 UTC</time>
+Last updated at <time datetime='2023-03-14T14:05:19.675766+00:00'>14 March 2023, 02:19 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1576,8 +1576,8 @@ The latest version is [1.0.0](https://github.com/DoubleStyx/SsaoTweaks/releases/
 
 Allows you to quickly generate huge amounts of dynamic fields/variables/drivers for blendshapes, bones and pretty much anything you might want
 
-The latest version is [1.1.0](https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.1.0):
-Added more options, some fixes
+The latest version is [1.2.3](https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.2.3):
+Added write back option for ValueCopies
 
 <!--net.dfghiatus.dynamicbonechainwizardmod-->
 ### [DynamicBoneChainWizardMod](https://github.com/dfgHiatus/DynamicBoneChainWizardMod) by [dfgHiatus](https://github.com/dfgHiatus)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-14T13:42:50.836805+00:00'>14 March 2023, 01:50 UTC</time>
+Last updated at <time datetime='2023-03-14T13:50:41.839127+00:00'>14 March 2023, 01:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1243,6 +1243,13 @@ The latest version is [0.3.1](https://github.com/EIA485/NeosPrivacyShield/releas
 Tweaks for saving/spawning items when your UserScale is not 1
 
 The latest version is [1.0.1](https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.1)
+
+<!--net.deltawolf.ScalableWorldOrbs-->
+### [ScalableWorldOrbs](https://github.com/XDelta/ScalableWorldOrbs) by [Delta](https://github.com/XDelta)
+
+Makes WorldOrbs you spawn scalable by default
+
+The latest version is [1.0.0](https://github.com/XDelta/ScalableWorldOrbs/releases/tag/1.0.0)
 
 <!--Psychpsyo.ShutTheFuckUp-->
 ### [ShutTheFuckUp](https://github.com/Psychpsyo/ShutTheFuckUp) by [Psychpsyo](https://psychpsyo.com)

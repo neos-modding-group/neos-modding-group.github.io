@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-14T19:54:11.083042+00:00'>14 March 2023, 07:11 UTC</time>
+Last updated at <time datetime='2023-03-20T15:26:44.035964+00:00'>20 March 2023, 03:44 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -41,6 +41,13 @@ Import textures using Anisotropic filtering by default
 
 The latest version is [1.2.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.2.0):
 Fixed procedural textures not allowing you to grab a reference to them.
+
+<!--net.TheJebForge.MeshAutoReimport-->
+### [MeshAutoReimport](https://github.com/TheJebForge/MeshAutoReimport) by [TheJebForge](https://github.com/TheJebForge)
+
+Adds a new option to mesh import to reimport the mesh when file changes
+
+The latest version is [1.0.0](https://github.com/TheJebForge/MeshAutoReimport/releases/tag/1.0.0)
 
 <!--dev.kokoa.neospastetweak-->
 ### [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) by [kka429](https://github.com/rassi0429)
@@ -878,7 +885,8 @@ The latest version is [1.0.1](https://github.com/art0007i/CastNodeHotline/releas
 
 Adds a convenient way to use advanced LogiX types, so you don't have to do it manually through an inspector
 
-The latest version is [1.0.0](https://github.com/TheJebForge/CustomLogiXTypes/releases/tag/1.0.0)
+The latest version is [1.0.1](https://github.com/TheJebForge/CustomLogiXTypes/releases/tag/1.0.1):
+Fixed invalid types breaking logix browser
 
 <!--net.cyro.darklogixbrowser-->
 ### [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) by [Cyro](https://github.com/RileyGuy)

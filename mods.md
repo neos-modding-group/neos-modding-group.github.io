@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-20T21:31:36.652918+00:00'>20 March 2023, 09:36 UTC</time>
+Last updated at <time datetime='2023-03-26T05:50:11.974953+00:00'>26 March 2023, 05:11 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1361,6 +1361,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAnyShaderAnywhere/re
 Adds more primitives to the CreateNewDialog
 
 The latest version is [1.0.0](https://github.com/badhaloninja/CreateNewAdditions/releases/tag/v1.0.0)
+
+<!--net.deltawolf.CreateNewUIX-->
+### [CreateNewUIX](https://github.com/XDelta/CreateNewUIX) by [Delta](https://github.com/XDelta)
+
+Adds new preset objects in the Create New menu for UIX
+
+The latest version is [1.0.0](https://github.com/XDelta/CreateNewUIX/releases/tag/1.0.0)
 
 <!--me.badhaloninja.DevOriginSelectTweaks-->
 ### [DevOriginSelectTweaks](https://github.com/badhaloninja/DevOriginSelectTweaks) by [badhaloninja](https://github.com/badhaloninja)

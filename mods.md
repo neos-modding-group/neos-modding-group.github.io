@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-26T05:50:11.974953+00:00'>26 March 2023, 05:11 UTC</time>
+Last updated at <time datetime='2023-03-28T14:30:26.735080+00:00'>28 March 2023, 02:26 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -384,14 +384,21 @@ The latest version is [2.2.2](https://github.com/Banane9/NeosBoundedUIX/releases
 <!--Banane9.ComponentAttacherFavorites-->
 ### [ComponentAttacherFavorites](https://github.com/Banane9/NeosComponentAttacherFavorites/) by [Banane9](https://github.com/Banane9)
 
-Adds the ability to save favorite components and categories.
+Adds a special category of favorite components and categories to the Component Attacher.
 
 The latest version is [2.0.1](https://github.com/Banane9/NeosComponentAttacherFavorites/releases/tag/v2.0.1)
+
+<!--Banane9.ComponentAttacherRecents-->
+### [ComponentAttacherRecents](https://github.com/Banane9/NeosComponentAttacherRecents/) by [Banane9](https://github.com/Banane9)
+
+Adds a special category of your recently used components to the Component Attacher.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosComponentAttacherRecents/releases/tag/v1.0.0)
 
 <!--Banane9.ComponentAttacherSearch-->
 ### [ComponentAttacherSearch](https://github.com/Banane9/NeosComponentAttacherSearch) by [Banane9](https://github.com/Banane9)
 
-Adds a search bar to component attachers. If you want to use this in conjunction with ComponentAttacherFavorites, make sure you use my version of it that also allows favoriting categories; or rename one of the DLLs, so that this mod loads first.
+Adds a search bar to Component Attachers. If you want to use this in conjunction with ComponentAttacherFavorites, make sure you use my version of it that also allows favoriting categories; or rename one of the DLLs, so that this mod loads first.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosComponentAttacherSearch/releases/tag/v1.0.0)
 

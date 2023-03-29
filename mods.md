@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-28T14:30:26.735080+00:00'>28 March 2023, 02:26 UTC</time>
+Last updated at <time datetime='2023-03-29T17:01:36.280889+00:00'>29 March 2023, 05:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -993,6 +993,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline
 Enables the top secret cheese mode
 
 The latest version is [1.2.0](https://github.com/EIA485/NeosCheese4All/releases/tag/1.2.0.0)
+
+<!--Psychpsyo.ContactsMinus-->
+### [Contacts-](https://github.com/Psychpsyo/NeosContactsMinus) by [Psychpsyo](https://psychpsyo.com)
+
+Adds the ability to set your world to Contacts-.
+
+The latest version is [1.0.0](https://github.com/Psychpsyo/NeosContactsMinus/releases/tag/1.0.0)
 
 <!--net.eia485.dezomp4all-->
 ### [DeZomp4All](https://github.com/EIA485/NeosDeZomp4All) by [eia485](https://github.com/EIA485)

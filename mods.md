@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-01T13:09:18.286340+00:00'>01 April 2023, 01:18 UTC</time>
+Last updated at <time datetime='2023-04-01T13:41:53.938492+00:00'>01 April 2023, 01:53 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1217,6 +1217,13 @@ Restores Vive tracker names to their old LHR-whatever behavior
 
 The latest version is [1.0.0](https://github.com/zkxs/NeosTrackerIdStabilizer/releases/tag/1.0.0.0)
 
+<!--Banane9.NoAprilFools-->
+### [NoAprilFools](https://github.com/Banane9/NeosNoAprilFools) by [Banane9](https://github.com/Banane9)
+
+Disables the April Fools easter eggs for people who don't like fun.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosNoAprilFools/releases/tag/v1.0.0)
+
 <!--Banane9.NoEscape-->
 ### [NoEscape](https://github.com/Banane9/NeosNoEscape) by [Banane9](https://github.com/Banane9)
 
@@ -1293,6 +1300,13 @@ The latest version is [1.0.0](https://github.com/XDelta/ScalableWorldOrbs/releas
 Mutes custom context menus.
 
 The latest version is [1.0.0](https://github.com/Psychpsyo/ShutTheFuckUp/releases/tag/Release1)
+
+<!--Banane9.Simulstart-->
+### [Simulstart](https://github.com/Banane9/NeosSimulstart) by [Banane9](https://github.com/Banane9)
+
+Makes it possible to launch other processes together with Neos. Processes can be launched with (a request for) administrator privileges and can automatically be closed with the game as well.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosSimulstart/releases/tag/v1.0.0)
 
 <!--Psychpsyo.TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP-->
 ### [The Neos Mod That Makes It So That Your Fingers Are No Longer Trusted Touch Sources So You Can Rest Easy At Night Knowing No One Will Shove Buttons Into Your Hand Without Your Permission](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP) by [Psychpsyo](https://psychpsyo.com)

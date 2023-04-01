@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-03-29T17:01:36.280889+00:00'>29 March 2023, 05:36 UTC</time>
+Last updated at <time datetime='2023-04-01T00:23:04.470802+00:00'>01 April 2023, 12:04 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -555,6 +555,13 @@ Fixed duplicate NeosColorDialog component sometimes existing on a custom dialog
 Lets you change your default inspector panel
 
 The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/releases/tag/1.1.0)
+
+<!--co.uk.alexw-578.CustomLogixBrowser-->
+### [CustomLogixBrowser](https://github.com/AlexW-578/CustomLogixBrowser) by [AlexW-578](https://github.com/AlexW-578)
+
+Allows setting a custom logix browser.
+
+The latest version is [1.0.0](https://github.com/AlexW-578/CustomLogixBrowser/releases/tag/v1.0.0)
 
 <!--net.earthmark.GenericTypeType-->
 ### [GenericTypeType](https://github.com/Earthmark/Neos-TypeType) by [Earthmark](https://github.com/Earthmark)

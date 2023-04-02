@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-01T13:41:53.938492+00:00'>01 April 2023, 01:53 UTC</time>
+Last updated at <time datetime='2023-04-02T02:00:50.662794+00:00'>02 April 2023, 02:50 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1313,7 +1313,7 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosSimulstart/releases
 
 See Name.
 
-The latest version is [1.0.0](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP/releases/tag/v1.1.0)
 
 <!--dev.zkxs.neosvoicequality-->
 ### [VoiceQuality](https://github.com/zkxs/NeosVoiceQuality) by [runtime](https://github.com/zkxs)

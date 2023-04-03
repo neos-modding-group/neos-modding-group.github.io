@@ -24,7 +24,7 @@ Top-level: `object`
       - Key: `string` the mod author's name
       - Value: `object`
         - `url`: `string`
-        - `iconUrl`: `string` **optional** A publicly accessible URL that resolves to an image file in a common format such as JPG/PNG and has a suitably small filesize to function as an icon. Should probably not exceed 256x256 pixels.
+        - `iconUrl`: `string` **optional** A publicly accessible URL that resolves to an image file in a common format such as JPG/PNG and has a suitably small filesize to function as an icon. Should probably not be much larger than 256x256 pixels.
     - `sourceLocation`: `string` **optional** A link to the mod's source code.
     - `website`: `string` **optional** A link to the mod's website. May be the same as `sourceLocation`.
     - `tags`: `string[]` **optional** A list of tags that may be used for search in the future.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Neos Mod Releases</title>
+	<subtitle>New releases of verified Neos mods</subtitle>
+	<author>
+		<name>Neos Modding Group</name>
+		<uri>https://www.neosmodloader.com/</uri>
+	</author>
+	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en" />
+	<category term="Games/NeosVR/Mods" label="NeosVR Mods" />
+	<id>https://www.neosmodloader.com/</id>
+	<updated>2023-04-02T22:28:44.160776+00:00</updated>
+	<generator>atom_feeder.py</generator>
+</feed>

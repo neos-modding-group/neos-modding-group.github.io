@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-03T13:52:12.801571+00:00'>03 April 2023, 01:12 UTC</time>
+Last updated at <time datetime='2023-04-03T14:45:59.992234+00:00'>03 April 2023, 02:59 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -422,6 +422,13 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/rel
 Adds buttons to the DynamicBlendShapeDriver component to automatically add entries for all BlendShapes on the linked SkinnedMeshRenderer.
 
 The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.3.0)
+
+<!--jp.hinasense.OpenLinkedVariableSpace-->
+### [OpenLinkedVariableSpace](https://github.com/HinanoAira/OpenLinkedVariableSpace) by [HinanoAira](https://github.com/HinanoAira)
+
+Add a button to the DynamicVariable component to open a linked DynamicVariableSpace
+
+The latest version is [1.0.1](https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.1)
 
 <!--Banane9.PrecisionBlendShapeBaking-->
 ### [PrecisionBlendShapeBaking](https://github.com/Banane9/NeosPrecisionBlendShapeBaking) by [Banane9](https://github.com/Banane9)

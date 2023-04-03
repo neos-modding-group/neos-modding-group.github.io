@@ -18,11 +18,13 @@ Top-level: `object`
   - Key: `string` mod GUID, any unique string but typically something like "io.github.myuser.mymod"
   - Value: `object` the mod definition
     - `name`: `string` the mod's name
-    - `description`: `string` short description of the mod's functionality
+    - `color`: `string` **optional** A hex color without leading "#"
+    - `description`: `string` A short description of the mod's functionality
     - `authors`: `map`
-      - Key: `string` author name
+      - Key: `string` the mod author's name
       - Value: `object`
-        - Url: `string`
+        - `url`: `string`
+        - `iconUrl`: `string` **optional** A publicly accessible URL that resolves to an image file in a common format such as JPG/PNG and has a suitably small filesize to function as an icon. Should probably not exceed 256x256 pixels.
     - `sourceLocation`: `string` **optional** A link to the mod's source code.
     - `website`: `string` **optional** A link to the mod's website. May be the same as `sourceLocation`.
     - `tags`: `string[]` **optional** A list of tags that may be used for search in the future.

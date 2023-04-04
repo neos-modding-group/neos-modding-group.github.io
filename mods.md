@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-04T21:08:53.792980+00:00'>04 April 2023, 09:53 UTC</time>
+Last updated at <time datetime='2023-04-04T21:34:18.444823+00:00'>04 April 2023, 09:18 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -428,7 +428,7 @@ The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDr
 
 Add a button to the DynamicVariable component to open a linked DynamicVariableSpace
 
-The latest version is [1.0.1](https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.1)
+The latest version is [1.0.2](https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.2)
 
 <!--Banane9.PrecisionBlendShapeBaking-->
 ### [PrecisionBlendShapeBaking](https://github.com/Banane9/NeosPrecisionBlendShapeBaking) by [Banane9](https://github.com/Banane9)

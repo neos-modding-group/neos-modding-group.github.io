@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-04T17:19:27.586037+00:00'>04 April 2023, 05:27 UTC</time>
+Last updated at <time datetime='2023-04-04T17:28:18.556971+00:00'>04 April 2023, 05:18 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1396,6 +1396,14 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAllowCompSpawn/relea
 Lets you use any StaticShader in any Material
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosAnyShaderAnywhere/releases/tag/1.0.0.0)
+
+<!--net.lexevo.CloudChange-->
+### [Cloud Change](https://github.com/Lexevolution/Cloud-Change) by [Lexevo](https://github.com/Lexevolution)
+
+Allows you to change what endpoints are used for most, if not all cloud actions in Neos.
+
+The latest version is [1.0.0](https://github.com/Lexevolution/Cloud-Change/releases/tag/v1.0.0):
+Initial Release.
 
 <!--me.badhaloninja.CreateNewAdditions-->
 ### [CreateNewAdditions](https://github.com/badhaloninja/CreateNewAdditions) by [badhaloninja](https://github.com/badhaloninja)

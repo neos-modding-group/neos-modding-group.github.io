@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-04T17:28:18.556971+00:00'>04 April 2023, 05:18 UTC</time>
+Last updated at <time datetime='2023-04-04T18:17:46.725346+00:00'>04 April 2023, 06:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1417,7 +1417,7 @@ The latest version is [1.0.0](https://github.com/badhaloninja/CreateNewAdditions
 
 Adds new preset objects in the Create New menu for UIX
 
-The latest version is [1.0.0](https://github.com/XDelta/CreateNewUIX/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0)
 
 <!--me.badhaloninja.DevOriginSelectTweaks-->
 ### [DevOriginSelectTweaks](https://github.com/badhaloninja/DevOriginSelectTweaks) by [badhaloninja](https://github.com/badhaloninja)

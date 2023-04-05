@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-03T14:45:59.992234+00:00'>03 April 2023, 02:59 UTC</time>
+Last updated at <time datetime='2023-04-04T21:34:18.444823+00:00'>04 April 2023, 09:18 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -428,7 +428,7 @@ The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDr
 
 Add a button to the DynamicVariable component to open a linked DynamicVariableSpace
 
-The latest version is [1.0.1](https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.1)
+The latest version is [1.0.2](https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.2)
 
 <!--Banane9.PrecisionBlendShapeBaking-->
 ### [PrecisionBlendShapeBaking](https://github.com/Banane9/NeosPrecisionBlendShapeBaking) by [Banane9](https://github.com/Banane9)
@@ -1397,6 +1397,14 @@ Lets you use any StaticShader in any Material
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosAnyShaderAnywhere/releases/tag/1.0.0.0)
 
+<!--net.lexevo.CloudChange-->
+### [Cloud Change](https://github.com/Lexevolution/Cloud-Change) by [Lexevo](https://github.com/Lexevolution)
+
+Allows you to change what endpoints are used for most, if not all cloud actions in Neos.
+
+The latest version is [1.0.0](https://github.com/Lexevolution/Cloud-Change/releases/tag/v1.0.0):
+Initial Release.
+
 <!--me.badhaloninja.CreateNewAdditions-->
 ### [CreateNewAdditions](https://github.com/badhaloninja/CreateNewAdditions) by [badhaloninja](https://github.com/badhaloninja)
 
@@ -1409,7 +1417,7 @@ The latest version is [1.0.0](https://github.com/badhaloninja/CreateNewAdditions
 
 Adds new preset objects in the Create New menu for UIX
 
-The latest version is [1.0.0](https://github.com/XDelta/CreateNewUIX/releases/tag/1.0.0)
+The latest version is [1.1.0](https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0)
 
 <!--me.badhaloninja.DevOriginSelectTweaks-->
 ### [DevOriginSelectTweaks](https://github.com/badhaloninja/DevOriginSelectTweaks) by [badhaloninja](https://github.com/badhaloninja)

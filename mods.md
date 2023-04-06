@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-04T21:34:18.444823+00:00'>04 April 2023, 09:18 UTC</time>
+Last updated at <time datetime='2023-04-06T03:50:46.056182+00:00'>06 April 2023, 03:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -575,7 +575,7 @@ The latest version is [1.0.0](https://github.com/AlexW-578/CustomLogixBrowser/re
 
 Adds additional type resolver steps to the generic type resolver in the component attacher, allowing nested generics using the C# syntax with some pre-defined namespace usings.
 
-The latest version is [0.1.1](https://github.com/Earthmark/Neos-TypeType/releases/tag/0.1.1)
+The latest version is [0.1.2](https://github.com/Earthmark/Neos-TypeType/releases/tag/0.1.2)
 
 <!--net.eia485.InspectorDelegateCaller-->
 ### [InspectorDelegateCaller](https://github.com/EIA485/NeosInspectorDelegateCaller) by [eia485](https://github.com/EIA485)

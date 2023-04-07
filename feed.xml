@@ -2,10 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Neos Mod Releases</title>
 	<subtitle>New releases of verified Neos mods</subtitle>
+	<icon>/assets/favicon.png</icon>
 	<author>
 		<name>Neos Modding Group</name>
 		<uri>https://www.neosmodloader.com/</uri>
 	</author>
+	<fh:complete/>
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>

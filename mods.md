@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-11T03:11:32.290680+00:00'>11 April 2023, 03:32 UTC</time>
+Last updated at <time datetime='2023-04-11T03:40:32.649937+00:00'>11 April 2023, 03:32 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1307,6 +1307,13 @@ The latest version is [1.0.1](https://github.com/hantabaru1014/SaveItemTweaks/re
 Makes WorldOrbs you spawn scalable by default
 
 The latest version is [1.0.0](https://github.com/XDelta/ScalableWorldOrbs/releases/tag/1.0.0)
+
+<!--me.maksim789456.SessionUrlJoin-->
+### [SessionUrlJoin](https://github.com/maksim789456/SessionUrlJoin) by [runtime](https://github.com/maksim789456)
+
+Allow join in session by paste session url from clipboard
+
+The latest version is [1.0.0](https://github.com/maksim789456/SessionUrlJoin/releases/tag/1.0.0)
 
 <!--Psychpsyo.ShutTheFuckUp-->
 ### [ShutTheFuckUp](https://github.com/Psychpsyo/ShutTheFuckUp) by [Psychpsyo](https://psychpsyo.com)

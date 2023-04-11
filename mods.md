@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-11T03:40:32.649937+00:00'>11 April 2023, 03:32 UTC</time>
+Last updated at <time datetime='2023-04-11T15:21:27.522124+00:00'>11 April 2023, 03:27 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -645,6 +645,13 @@ The latest version is [1.0.0](https://github.com/Frozenreflex/NeosParticleTools/
 Makes spawned inspectors set to nonpersistent by default
 
 The latest version is [1.0.0](https://github.com/XDelta/NeosNonPersistentInspectors/releases/tag/1.0.0)
+
+<!--me.art0007i.ParentalIssues-->
+### [ParentalIssues](https://github.com/art0007i/ParentalIssues) by [art0007i](https://github.com/art0007i)
+
+Changes the default parent and child object names to be funnier.
+
+The latest version is [1.1.0](https://github.com/art0007i/ParentalIssues/releases/tag/1.1.0)
 
 <!--net.catshark.rearmature-->
 ### [ReArmature](https://github.com/CatSharkShin/ReArmature) by [CatSharkShin](https://github.com/CatSharkShin)

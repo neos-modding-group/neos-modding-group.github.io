@@ -2,16 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Neos Mod Releases</title>
 	<subtitle>New releases of verified Neos mods</subtitle>
+	<icon>/assets/favicon.png</icon>
 	<author>
 		<name>Neos Modding Group</name>
 		<uri>https://www.neosmodloader.com/</uri>
 	</author>
+	<fh:complete/>
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
 	<updated>2023-04-11T15:21:27.732575+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
+		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
 		<title>Released Version 1.1.0 for 'CreateNewUIX'</title>
 		<content>Adds new preset objects in the Create New menu for UIX</content>
 		<author>
@@ -27,6 +30,7 @@
 		<updated>2023-04-04T18:19:54.768463+00:00</updated>
 	</entry>
 	<entry>
+		<id>https://github.com/HinanoAira/OpenLinkedVariableSpace/releases/tag/v1.0.2</id>
 		<title>Released Version 1.0.2 for 'OpenLinkedVariableSpace'</title>
 		<content>Add a button to the DynamicVariable component to open a linked DynamicVariableSpace</content>
 		<author>
@@ -42,6 +46,7 @@
 		<updated>2023-04-04T21:34:18.796965+00:00</updated>
 	</entry>
 	<entry>
+		<id>https://github.com/Earthmark/Neos-TypeType/releases/tag/0.1.2</id>
 		<title>Released Version 0.1.2 for 'GenericTypeType'</title>
 		<content>Adds additional type resolver steps to the generic type resolver in the component attacher, allowing nested generics using the C# syntax with some pre-defined namespace usings.</content>
 		<author>

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-12T01:44:51.625127+00:00'>12 April 2023, 01:51 UTC</time>
+Last updated at <time datetime='2023-04-18T14:30:54.411306+00:00'>18 April 2023, 02:54 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -907,6 +907,13 @@ The latest version is [1.2.0](https://github.com/Banane9/NeosBetterLogixWiresTha
 Makes cast nodes not delete themselves automatically. This fixes the cast bug.
 
 The latest version is [1.0.1](https://github.com/art0007i/CastNodeHotline/releases/tag/1.0.1.0)
+
+<!--owo.Nytra.ColorMyLogiX-->
+### [ColorMyLogiX](https://github.com/Nytra/NeosColorMyLogiX) by [Nytra](https://github.com/Nytra)
+
+Apply colors to your LogiX nodes. Highly customizable.
+
+The latest version is [1.1.0](https://github.com/Nytra/NeosColorMyLogiX/releases/tag/v1.1.0)
 
 <!--net.TheJebForge.CustomLogiXTypes-->
 ### [CustomLogiXTypes](https://github.com/TheJebForge/CustomLogiXTypes) by [TheJebForge](https://github.com/TheJebForge)

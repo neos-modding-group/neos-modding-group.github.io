@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:fh="http://purl.org/syndication/history/1.0">
 	<title>Neos Mod Releases</title>
 	<subtitle>New releases of verified Neos mods</subtitle>
 	<icon>/assets/favicon.png</icon>
@@ -62,6 +62,7 @@
 		<updated>2023-04-06T03:50:46.178174+00:00</updated>
 	</entry>
 	<entry>
+    <id>https://github.com/art0007i/FourLeafClover/releases/tag/1.0.0</id>
 		<title>Released Version 1.0.0 for '🍀'</title>
 		<content>Makes you luckier 🍀</content>
 		<author>
@@ -77,6 +78,7 @@
 		<updated>2023-04-11T03:11:32.416142+00:00</updated>
 	</entry>
 	<entry>
+    <id>https://github.com/maksim789456/SessionUrlJoin/releases/tag/1.0.0</id>
 		<title>Released Version 1.0.0 for 'SessionUrlJoin'</title>
 		<content>Allow join in session by paste session url from clipboard</content>
 		<author>
@@ -92,6 +94,7 @@
 		<updated>2023-04-11T03:40:32.846169+00:00</updated>
 	</entry>
 	<entry>
+    <id>https://github.com/art0007i/ParentalIssues/releases/tag/1.1.0</id>
 		<title>Released Version 1.1.0 for 'ParentalIssues'</title>
 		<content>Changes the default parent and child object names to be funnier.</content>
 		<author>

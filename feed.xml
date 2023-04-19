@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-04-19T10:33:26.546957+00:00</updated>
+	<updated>2023-04-19T10:41:05.416195+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -156,5 +156,21 @@
 		<link rel="alternate" href="https://github.com/maksim789456/SessionUrlJoin/releases/tag/1.1.1"/>
 		<published>2023-04-19T10:33:26.546957+00:00</published>
 		<updated>2023-04-19T10:33:26.546957+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.4.1</id>
+		<title>Released Version 0.4.1 for 'BetterInventoryBrowser'</title>
+		<content>UI tweaks for InventoryBrowser</content>
+		<author>
+			<name>hantabaru1014</name>
+			<uri>https://github.com/hantabaru1014</uri>
+		</author>
+		<contributor>
+			<name>ljoonal</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Dash Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.4.1"/>
+		<published>2023-04-19T10:41:05.416195+00:00</published>
+		<updated>2023-04-19T10:41:05.416195+00:00</updated>
 	</entry>
 </feed>

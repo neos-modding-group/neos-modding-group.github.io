@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-19T10:33:26.298394+00:00'>19 April 2023, 10:26 UTC</time>
+Last updated at <time datetime='2023-04-19T10:41:05.300893+00:00'>19 April 2023, 10:05 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -213,7 +213,7 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioSt
 
 UI tweaks for InventoryBrowser
 
-The latest version is [0.3.0](https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.3.0)
+The latest version is [0.4.1](https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.4.1)
 
 <!--net.Hayden.ChangeUserspaceFont-->
 ### [ChangeUserSpaceFont](https://github.com/Hayden-Fluff/Change-Userspace-Font) by [Hayden-Fluff](https://github.com/Hayden-Fluff)

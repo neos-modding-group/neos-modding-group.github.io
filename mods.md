@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-18T14:30:54.411306+00:00'>18 April 2023, 02:54 UTC</time>
+Last updated at <time datetime='2023-04-19T08:45:48.220802+00:00'>19 April 2023, 08:48 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -41,6 +41,13 @@ Import textures using Anisotropic filtering by default
 
 The latest version is [1.2.0](https://github.com/Toxic-Cookie/DefaultToAnisotropic/releases/tag/1.2.0):
 Fixed procedural textures not allowing you to grab a reference to them.
+
+<!--xyz.astralchan.gifimporter-->
+### [GifImporter](https://git.astralchan.xyz/astral/GifImporter) by [astral](https://git.astralchan.xyz/astral)
+
+Allows you to import gif images
+
+The latest version is [1.1.4](https://git.astralchan.xyz/astral/GifImporter/releases/tag/1.1.4)
 
 <!--net.TheJebForge.MeshAutoReimport-->
 ### [MeshAutoReimport](https://github.com/TheJebForge/MeshAutoReimport) by [TheJebForge](https://github.com/TheJebForge)

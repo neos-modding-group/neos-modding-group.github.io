@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-19T10:47:43.747481+00:00'>19 April 2023, 10:43 UTC</time>
+Last updated at <time datetime='2023-04-20T14:30:36.387706+00:00'>20 April 2023, 02:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -575,7 +575,7 @@ The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/relea
 
 Allows setting a custom logix browser.
 
-The latest version is [1.0.0](https://github.com/AlexW-578/CustomLogixBrowser/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/AlexW-578/CustomLogixBrowser/releases/tag/v1.1.0)
 
 <!--net.earthmark.GenericTypeType-->
 ### [GenericTypeType](https://github.com/Earthmark/Neos-TypeType) by [Earthmark](https://github.com/Earthmark)

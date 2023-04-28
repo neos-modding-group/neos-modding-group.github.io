@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-20T14:30:36.387706+00:00'>20 April 2023, 02:36 UTC</time>
+Last updated at <time datetime='2023-04-28T02:56:47.572593+00:00'>28 April 2023, 02:47 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -576,6 +576,13 @@ The latest version is [1.1.0](https://github.com/art0007i/CustomInspectors/relea
 Allows setting a custom logix browser.
 
 The latest version is [1.1.0](https://github.com/AlexW-578/CustomLogixBrowser/releases/tag/v1.1.0)
+
+<!--me.badhaloninja.DontMoveInspectors-->
+### [DontMoveInspectors](https://github.com/badhaloninja/DontMoveInspectors) by [badhaloninja](https://github.com/badhaloninja)
+
+Makes Inspectors not move back when opening a new inspector from them
+
+The latest version is [1.0.0](https://github.com/badhaloninja/DontMoveInspectors/releases/tag/v1.0.0)
 
 <!--net.earthmark.GenericTypeType-->
 ### [GenericTypeType](https://github.com/Earthmark/Neos-TypeType) by [Earthmark](https://github.com/Earthmark)
@@ -1676,6 +1683,13 @@ Allows the individual parameters of the SSAO effect to be configured.
 The latest version is [1.0.0](https://github.com/DoubleStyx/SsaoTweaks/releases/tag/v1.0.0)
 
 ## Wizards
+
+<!--me.badhaloninja.AvatarCreatorUtils-->
+### [AvatarCreatorUtils](https://github.com/badhaloninja/AvatarCreatorUtils) by [badhaloninja](https://github.com/badhaloninja)
+
+Options to add info to avatars during creation and clean up proxies
+
+The latest version is [1.0.0](https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v1.0.0)
 
 <!--net.TheJebForge.DynVarGenerator-->
 ### [DynVarGenerator](https://github.com/TheJebForge/DynVarGenerator) by [TheJebForge](https://github.com/TheJebForge)

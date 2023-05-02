@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-04-28T02:56:47.572593+00:00'>28 April 2023, 02:47 UTC</time>
+Last updated at <time datetime='2023-05-02T06:00:00.547998+00:00'>02 May 2023, 06:00 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1611,7 +1611,7 @@ The latest version is [1.0.0](https://github.com/RileyGuy/InterfacialAbsence/rel
 
 Allows you to change your laser color and cursor. (You can even use dynamic variables)
 
-The latest version is [1.0.0](https://github.com/Ap6661/LaserRecolorJank/releases/tag/1.0.0)
+The latest version is [1.0.1](https://github.com/Ap6661/LaserRecolorJank/releases/tag/1.0.1)
 
 <!--dev.LeCloutpanda.LocalMenu-->
 ### [LocalMenu](https://github.com/LeCloutPanda/LocalMenu) by [LeCloutPanda](https://github.com/LeCloutPanda)

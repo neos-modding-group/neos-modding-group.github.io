@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-02T06:00:00.547998+00:00'>02 May 2023, 06:00 UTC</time>
+Last updated at <time datetime='2023-05-10T15:38:43.858944+00:00'>10 May 2023, 03:43 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1443,8 +1443,8 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosAnyShaderAnywhere/re
 
 Allows you to change what endpoints are used for most, if not all cloud actions in Neos.
 
-The latest version is [1.0.0](https://github.com/Lexevolution/Cloud-Change/releases/tag/v1.0.0):
-Initial Release.
+The latest version is [1.0.1](https://github.com/Lexevolution/Cloud-Change/releases/tag/v1.0.1):
+Updated default config URLs to reflect recent updates.
 
 <!--me.badhaloninja.CreateNewAdditions-->
 ### [CreateNewAdditions](https://github.com/badhaloninja/CreateNewAdditions) by [badhaloninja](https://github.com/badhaloninja)

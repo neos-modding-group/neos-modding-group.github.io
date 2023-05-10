@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-10T15:38:43.858944+00:00'>10 May 2023, 03:43 UTC</time>
+Last updated at <time datetime='2023-05-10T15:56:43.283965+00:00'>10 May 2023, 03:43 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1354,7 +1354,7 @@ The latest version is [1.0.0](https://github.com/Psychpsyo/ShutTheFuckUp/release
 
 Makes it possible to launch other processes together with Neos. Processes can be launched with (a request for) administrator privileges and can automatically be closed with the game as well.
 
-The latest version is [1.0.0](https://github.com/Banane9/NeosSimulstart/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/Banane9/NeosSimulstart/releases/tag/v1.1.0)
 
 <!--Psychpsyo.TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP-->
 ### [The Neos Mod That Makes It So That Your Fingers Are No Longer Trusted Touch Sources So You Can Rest Easy At Night Knowing No One Will Shove Buttons Into Your Hand Without Your Permission](https://github.com/Psychpsyo/TNMTMISTYFANLTTSSYCREANKNOWSBIYHWYP) by [Psychpsyo](https://psychpsyo.com)

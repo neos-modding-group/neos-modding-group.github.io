@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-10T15:56:43.283965+00:00'>10 May 2023, 03:43 UTC</time>
+Last updated at <time datetime='2023-05-12T17:14:42.297093+00:00'>12 May 2023, 05:42 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -48,6 +48,13 @@ Fixed procedural textures not allowing you to grab a reference to them.
 Allows you to import gif images
 
 The latest version is [1.1.4](https://git.astralchan.xyz/astral/GifImporter/releases/tag/1.1.4)
+
+<!--com.github.mpmxyz.massimportpacker-->
+### [Mass Import Packer](https://github.com/mpmxyz/NeosMassImportPacker) by [mpmxyz](https://github.com/mpmxyz)
+
+Allows you to reparent batch imports of images
+
+The latest version is [1.0.0](https://github.com/mpmxyz/NeosMassImportPacker/releases/tag/v1.0.0)
 
 <!--net.TheJebForge.MeshAutoReimport-->
 ### [MeshAutoReimport](https://github.com/TheJebForge/MeshAutoReimport) by [TheJebForge](https://github.com/TheJebForge)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-12T17:14:42.297093+00:00'>12 May 2023, 05:42 UTC</time>
+Last updated at <time datetime='2023-05-15T11:55:29.022532+00:00'>15 May 2023, 11:29 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1414,6 +1414,13 @@ The latest version is [1.4.0](https://github.com/KyuubiYoru/IkCulling/releases/t
 Kills the log spam normally caused by changing world configuration
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosKillLogSpam/releases/tag/1.0.0.0)
+
+<!--net.raemien.NeosTextureSettings-->
+### [NeosTextureSettings](https://github.com/Raemien/NeosTextureSettings) by [Raemien](https://github.com/Raemien)
+
+Control the quality settings of loaded textures. Useful for reducing texture memory on mobile/low-end devices.
+
+The latest version is [1.0.0](https://github.com/Raemien/NeosTextureSettings/releases/tag/v1.0.0)
 
 <!--me.art0007i.StackTraceFixer-->
 ### [StackTraceFixer](https://github.com/art0007i/StackTraceFixer) by [art0007i](https://github.com/art0007i)

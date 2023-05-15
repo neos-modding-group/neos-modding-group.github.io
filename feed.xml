@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-05-12T17:14:42.434289+00:00</updated>
+	<updated>2023-05-15T11:55:29.185022+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -316,5 +316,21 @@
 		<link rel="alternate" href="https://github.com/mpmxyz/NeosMassImportPacker/releases/tag/v1.0.0"/>
 		<published>2023-05-12T17:14:42.434289+00:00</published>
 		<updated>2023-05-12T17:14:42.434289+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Raemien/NeosTextureSettings/releases/tag/v1.0.0</id>
+		<title>Released Version 1.0.0 for 'NeosTextureSettings'</title>
+		<content>Control the quality settings of loaded textures. Useful for reducing texture memory on mobile/low-end devices.</content>
+		<author>
+			<name>Raemien</name>
+			<uri>https://github.com/Raemien</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Optimization" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Raemien/NeosTextureSettings/releases/tag/v1.0.0"/>
+		<published>2023-05-15T11:55:29.185022+00:00</published>
+		<updated>2023-05-15T11:55:29.185022+00:00</updated>
 	</entry>
 </feed>

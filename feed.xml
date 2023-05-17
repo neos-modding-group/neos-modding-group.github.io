@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-05-15T11:55:29.185022+00:00</updated>
+	<updated>2023-05-17T17:17:19.402606+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -332,5 +332,37 @@
 		<link rel="alternate" href="https://github.com/Raemien/NeosTextureSettings/releases/tag/v1.0.0"/>
 		<published>2023-05-15T11:55:29.185022+00:00</published>
 		<updated>2023-05-15T11:55:29.185022+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/rassi0429/MessageCopy/releases/tag/v2.0.0</id>
+		<title>Released Version 2.0.0 for 'MessageCopy'</title>
+		<content>Lets you copy msgs from dms</content>
+		<author>
+			<name>kka429</name>
+			<uri>https://github.com/rassi0429</uri>
+		</author>
+		<contributor>
+			<name>zkxs</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Dash Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/rassi0429/MessageCopy/releases/tag/v2.0.0"/>
+		<published>2023-05-17T17:17:19.402606+00:00</published>
+		<updated>2023-05-17T17:17:19.402606+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.1.0</id>
+		<title>Released Version 1.1.0 for 'NeosPasteTweak'</title>
+		<content>Allows you to paste text and URL</content>
+		<author>
+			<name>kka429</name>
+			<uri>https://github.com/rassi0429</uri>
+		</author>
+		<contributor>
+			<name>zkxs</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Asset Importing Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.1.0"/>
+		<published>2023-05-17T17:17:19.402606+00:00</published>
+		<updated>2023-05-17T17:17:19.402606+00:00</updated>
 	</entry>
 </feed>

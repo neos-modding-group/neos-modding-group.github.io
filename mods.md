@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-17T15:08:45.588263+00:00'>17 May 2023, 03:45 UTC</time>
+Last updated at <time datetime='2023-05-17T17:17:19.230940+00:00'>17 May 2023, 05:19 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -68,7 +68,7 @@ The latest version is [1.0.0](https://github.com/TheJebForge/MeshAutoReimport/re
 
 Allows you to paste text and URL
 
-The latest version is [1.0.2](https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.0.2)
+The latest version is [1.1.0](https://github.com/rassi0429/NeosPasteTweak/releases/tag/v1.1.0)
 
 <!--me.art0007i.pasteinvidious-->
 ### [PasteInvidious](https://github.com/art0007i/PasteInvidious) by [art0007i](https://github.com/art0007i)
@@ -300,7 +300,7 @@ fix linux path separator
 
 Lets you copy msgs from dms
 
-The latest version is [1.0.0](https://github.com/rassi0429/MessageCopy/releases/tag/v1.0.0)
+The latest version is [2.0.0](https://github.com/rassi0429/MessageCopy/releases/tag/v2.0.0)
 
 <!--me.badhaloninja.neosmodsettings-->
 ### [ModSettings](https://github.com/badhaloninja/NeosModSettings) by [badhaloninja](https://github.com/badhaloninja)

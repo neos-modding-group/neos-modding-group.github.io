@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-15T11:55:29.022532+00:00'>15 May 2023, 11:29 UTC</time>
+Last updated at <time datetime='2023-05-17T15:08:45.588263+00:00'>17 May 2023, 03:45 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -104,7 +104,7 @@ The latest version is [1.1.0](https://github.com/art0007i/FixUIXButton/releases/
 <!--owo.Nytra.HeadlessToolTipKickCrashFix-->
 ### [HeadlessToolTipKickCrashFix](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix) by [Nytra](https://github.com/Nytra)
 
-Prevents tooltip permission kicks from causing a world crash on headless.
+A mod for Neos Headless Client that prevents tooltip permission kicks from causing a world crash.
 
 The latest version is [1.0.1](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix/releases/tag/v1.0.1)
 

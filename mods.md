@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-17T17:17:19.230940+00:00'>17 May 2023, 05:19 UTC</time>
+Last updated at <time datetime='2023-05-17T17:23:11.774799+00:00'>17 May 2023, 05:11 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -271,7 +271,8 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosFriendLinkSessionLis
 
 Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 
-The latest version is [1.3.0.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.3.0.0)
+The latest version is [1.4.1.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.1.0):
+slightly optimized code
 
 <!--me.art0007i.LargerObjectMessagePreviews-->
 ### [LargerObjectMessagePreviews](https://github.com/art0007i/LargerObjectMessagePreviews) by [art0007i](https://github.com/art0007i)

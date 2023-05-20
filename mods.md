@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-17T17:23:11.774799+00:00'>17 May 2023, 05:11 UTC</time>
+Last updated at <time datetime='2023-05-20T12:07:20.569847+00:00'>20 May 2023, 12:20 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1033,6 +1033,13 @@ The latest version is [1.0.0](https://github.com/RileyGuy/Proxify/releases/tag/1
 Stops reference nodes from killing themselves
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline/releases/tag/1.0.0.0)
+
+<!--APnda.UnsafeLogix-->
+### [UnsafeLogix](https://github.com/Ap6661/UnsafeLogix) by [APnda](https://github.com/Ap6661)
+
+Allows for loops in LogiX node connections
+
+The latest version is [1.0.0](https://github.com/Ap6661/UnsafeLogix/releases/tag/v1.0.0)
 
 ## Memes
 

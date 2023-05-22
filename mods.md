@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-20T12:07:20.569847+00:00'>20 May 2023, 12:20 UTC</time>
+Last updated at <time datetime='2023-05-22T01:29:39.842965+00:00'>22 May 2023, 01:39 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -189,6 +189,13 @@ The latest version is [1.0.0](https://github.com/zkxs/NeosLocomotionRename/relea
 Removes the "Reset Scale" context menu function
 
 The latest version is [1.0.0](https://github.com/zkxs/NeosNoResetScale/releases/tag/1.0.0)
+
+<!--me.art0007i.QuickFolderOpener-->
+### [QuickFolderOpener](https://github.com/art0007i/QuickFolderOpener) by [art0007i](https://github.com/art0007i)
+
+Adds a context menu option to open public folders without saving them.
+
+The latest version is [1.0.1](https://github.com/art0007i/QuickFolderOpener/releases/tag/1.0.1)
 
 <!--dev.kokoa.savetowhere-->
 ### [SaveToWhere](https://github.com/rassi0429/SaveToWhere) by [kka429](https://github.com/rassi0429)

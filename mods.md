@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-23T04:24:50.332888+00:00'>23 May 2023, 04:50 UTC</time>
+Last updated at <time datetime='2023-05-23T10:42:34.642502+00:00'>23 May 2023, 10:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -48,6 +48,13 @@ Fixed procedural textures not allowing you to grab a reference to them.
 Allows you to import gif images
 
 The latest version is [1.1.4](https://git.astralchan.xyz/astral/GifImporter/releases/tag/1.1.4)
+
+<!--me.art0007i.ImportCompactor-->
+### [ImportCompactor](https://github.com/art0007i/ImportCompactor) by [art0007i](https://github.com/art0007i)
+
+Reduces the distance between imported items to a configurable value.
+
+The latest version is [1.0.0](https://github.com/art0007i/ImportCompactor/releases/tag/1.0.0)
 
 <!--com.github.mpmxyz.massimportpacker-->
 ### [Mass Import Packer](https://github.com/mpmxyz/NeosMassImportPacker) by [mpmxyz](https://github.com/mpmxyz)
@@ -1710,6 +1717,13 @@ The latest version is [1.0.2](https://github.com/LeCloutPanda/Resolutions/releas
 Forces vsync to be disabled
 
 The latest version is [0.1.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-12)
+
+<!--me.art0007i.ShadowDistanceChanger-->
+### [ShadowDistanceChanger](https://github.com/art0007i/ShadowDistanceChanger) by [art0007i](https://github.com/art0007i)
+
+Allows changing the shadow distance
+
+The latest version is [1.0.0](https://github.com/art0007i/ShadowDistanceChanger/releases/tag/1.0.0)
 
 <!--dev.zkxs.ssaodisable-->
 ### [SsaoDisable](https://github.com/zkxs/SsaoDisable) by [runtime](https://github.com/zkxs)

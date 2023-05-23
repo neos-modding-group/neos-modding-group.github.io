@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-23T10:42:34.642502+00:00'>23 May 2023, 10:34 UTC</time>
+Last updated at <time datetime='2023-05-23T21:32:34.212687+00:00'>23 May 2023, 09:34 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -287,6 +287,13 @@ Adds buttons to your inventory to copy an items cloud url and/or item link to yo
 
 The latest version is [1.4.1.0](https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.1.0):
 slightly optimized code
+
+<!--me.art0007i.InventoryUploadDate-->
+### [InventoryUploadDate](https://github.com/art0007i/InventoryUploadDate) by [art0007i](https://github.com/art0007i)
+
+Allows viewing the upload date of items in the inventory.
+
+The latest version is [1.0.0](https://github.com/art0007i/InventoryUploadDate/releases/tag/1.0.0)
 
 <!--me.art0007i.LargerObjectMessagePreviews-->
 ### [LargerObjectMessagePreviews](https://github.com/art0007i/LargerObjectMessagePreviews) by [art0007i](https://github.com/art0007i)

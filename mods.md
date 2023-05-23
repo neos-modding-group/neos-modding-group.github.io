@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-22T01:29:39.842965+00:00'>22 May 2023, 01:39 UTC</time>
+Last updated at <time datetime='2023-05-23T00:16:56.073004+00:00'>23 May 2023, 12:56 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1221,6 +1221,13 @@ The latest version is [1.2.0](https://github.com/New-Project-Final-Final-WIP/Hea
 - Fixed Check for if a user can join a world
 - Allow contacts of headless who aren't moderator or above when world is set to contacts or higher
 - UPDATED TO DISCORD.NET 3.7.2
+
+<!--me.art0007i.HeightSettingUnlimiter-->
+### [HeightSettingUnlimiter](https://github.com/art0007i/HeightSettingUnlimiter) by [art0007i](https://github.com/art0007i)
+
+Increases the 2.2 meter height limit for anyone taller than that.
+
+The latest version is [1.0.0](https://github.com/art0007i/HeightSettingUnlimiter/releases/tag/1.0.0)
 
 <!--Banane9.LagFreeContactsLoading-->
 ### [LagFreeContactsLoading](https://github.com/Banane9/NeosLagFreeContactsLoading) by [Banane9](https://github.com/Banane9)

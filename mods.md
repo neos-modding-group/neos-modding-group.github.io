@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-23T00:16:56.073004+00:00'>23 May 2023, 12:56 UTC</time>
+Last updated at <time datetime='2023-05-23T04:24:50.332888+00:00'>23 May 2023, 04:50 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -325,6 +325,13 @@ Sorts contacts Better™
 
 The latest version is [1.2.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.2.0):
 sort friends above search results
+
+<!--net.TheJebForge.ReallyBan-->
+### [Really Ban?](https://github.com/TheJebForge/ReallyBan) by [TheJebForge](https://github.com/TheJebForge)
+
+Modifies ban from session buttons to require double click to actually ban
+
+The latest version is [1.0.0](https://github.com/TheJebForge/ReallyBan/releases/tag/1.0.0)
 
 <!--net.rampa3.screendashfixer-->
 ### [ScreenDashFixer](https://github.com/rampa3/ScreenDashFixer) by [rampa3](https://github.com/rampa3)

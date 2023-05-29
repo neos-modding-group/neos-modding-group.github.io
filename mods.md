@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-29T10:18:59.918135+00:00'>29 May 2023, 10:59 UTC</time>
+Last updated at <time datetime='2023-05-29T22:36:02.572232+00:00'>29 May 2023, 10:02 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -465,6 +465,13 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/rel
 Adds buttons to the DynamicBlendShapeDriver component to automatically add entries for all BlendShapes on the linked SkinnedMeshRenderer.
 
 The latest version is [1.3.0](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup/releases/tag/v1.3.0)
+
+<!--me.art0007i.JustBoundedUIX-->
+### [JustBoundedUIX](https://github.com/art0007i/JustBoundedUIX) by [art0007i](https://github.com/art0007i)
+
+Adds gizmo bounding boxes to UIX elements, as well as fixing UIX elements breaking when a parent is inserted.
+
+The latest version is [1.0.1](https://github.com/art0007i/JustBoundedUIX/releases/tag/1.0.1)
 
 <!--jp.hinasense.OpenLinkedVariableSpace-->
 ### [OpenLinkedVariableSpace](https://github.com/HinanoAira/OpenLinkedVariableSpace) by [HinanoAira](https://github.com/HinanoAira)

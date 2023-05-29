@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-05-23T21:32:34.335821+00:00</updated>
+	<updated>2023-05-29T10:19:00.045510+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -492,5 +492,21 @@
 		<link rel="alternate" href="https://github.com/art0007i/InventoryUploadDate/releases/tag/1.0.0"/>
 		<published>2023-05-23T21:32:34.335821+00:00</published>
 		<updated>2023-05-23T21:32:34.335821+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0</id>
+		<title>Released Version 1.0.0 for 'TrackerModelSwapper'</title>
+		<content>Allows you to replace the vive tracker model used to visualize trackers.</content>
+		<author>
+			<name>art0007i</name>
+			<uri>https://github.com/art0007i</uri>
+		</author>
+		<contributor>
+			<name>EIA485</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Visual Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0"/>
+		<published>2023-05-29T10:19:00.045510+00:00</published>
+		<updated>2023-05-29T10:19:00.045510+00:00</updated>
 	</entry>
 </feed>

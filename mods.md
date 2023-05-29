@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-23T21:32:34.212687+00:00'>23 May 2023, 09:34 UTC</time>
+Last updated at <time datetime='2023-05-29T10:18:59.918135+00:00'>29 May 2023, 10:59 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1745,6 +1745,13 @@ The latest version is [1.0.2](https://github.com/zkxs/SsaoDisable/releases/tag/1
 Allows the individual parameters of the SSAO effect to be configured.
 
 The latest version is [1.0.0](https://github.com/DoubleStyx/SsaoTweaks/releases/tag/v1.0.0)
+
+<!--me.art0007i.TrackerModelSwapper-->
+### [TrackerModelSwapper](https://github.com/art0007i/TrackerModelSwapper) by [art0007i](https://github.com/art0007i)
+
+Allows you to replace the vive tracker model used to visualize trackers.
+
+The latest version is [1.0.0](https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0)
 
 ## Wizards
 

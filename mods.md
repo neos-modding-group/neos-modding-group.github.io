@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-01T11:57:54.790235+00:00'>01 June 2023, 11:54 UTC</time>
+Last updated at <time datetime='2023-06-01T12:27:32.184723+00:00'>01 June 2023, 12:32 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1780,6 +1780,16 @@ The latest version is [1.0.0](https://github.com/art0007i/TrackerModelSwapper/re
 Options to add info to avatars during creation and clean up proxies
 
 The latest version is [1.0.0](https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v1.0.0)
+
+<!--owo.Nytra.ComponentSearchWizard-->
+### [ComponentSearchWizard](https://github.com/Nytra/NeosComponentSearchWizard) by [Nytra](https://github.com/Nytra)
+
+Provides a wizard for searching for components by type and/or by name, displaying them in a list, and then provides buttons to batch enable, disable or destroy them.
+
+The latest version is [1.1.1](https://github.com/Nytra/NeosComponentSearchWizard/releases/tag/v1.1.1):
+
+- Added Undo batching.
+- Allowed multiple wizards to be spawned at once in the same world.
 
 <!--net.TheJebForge.DynVarGenerator-->
 ### [DynVarGenerator](https://github.com/TheJebForge/DynVarGenerator) by [TheJebForge](https://github.com/TheJebForge)

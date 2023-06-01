@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-05-30T09:38:30.752478+00:00'>30 May 2023, 09:30 UTC</time>
+Last updated at <time datetime='2023-06-01T11:57:54.790235+00:00'>01 June 2023, 11:54 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -926,6 +926,13 @@ Brings HTC Vive single button App / Localspace toggle functionality to other con
 The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag/1.0.0)
 
 ## Libraries
+
+<!--me.art0007i.CustomUILib-->
+### [CustomUILib](https://github.com/art0007i/CustomUILib) by [art0007i](https://github.com/art0007i)
+
+Allows modders to easily add custom inspector ui to components which don't have any by default.
+
+The latest version is [1.0.1](https://github.com/art0007i/CustomUILib/releases/tag/1.0.1)
 
 <!--net.Toxic_Cookie.GenericSettings-->
 ### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)

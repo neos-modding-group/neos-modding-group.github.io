@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-02T14:14:02.200732+00:00'>02 June 2023, 02:02 UTC</time>
+Last updated at <time datetime='2023-06-02T14:22:41.354585+00:00'>02 June 2023, 02:41 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1200,6 +1200,13 @@ The latest version is [1.1.0](https://github.com/zkxs/NeosCloudHomeAccessLevel/r
 Allows you to create tools and brushes through the Create New menu.
 
 The latest version is [1.0.0](https://github.com/Ap6661/CreateTools/releases/tag/v1.0.0)
+
+<!--me.art0007i.CreateWorldConfig-->
+### [CreateWorldConfig](https://github.com/art0007i/CreateWorldConfig) by [art0007i](https://github.com/art0007i)
+
+Adds the world configuration and world permission dialog to the `create new > editors` menu.
+
+The latest version is [1.0.0](https://github.com/art0007i/CreateWorldConfig/releases/tag/1.0.0)
 
 <!--me.art0007i.CustomStreamPlayers-->
 ### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)

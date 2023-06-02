@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-02T08:34:02.063313+00:00'>02 June 2023, 08:02 UTC</time>
+Last updated at <time datetime='2023-06-02T14:14:02.200732+00:00'>02 June 2023, 02:02 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -932,7 +932,8 @@ The latest version is [1.0.0](https://github.com/Kodufan/ViveForAll/releases/tag
 
 Allows modders to easily add custom inspector ui to components which don't have any by default.
 
-The latest version is [1.0.1](https://github.com/art0007i/CustomUILib/releases/tag/1.0.1)
+The latest version is [1.1.0](https://github.com/art0007i/CustomUILib/releases/tag/1.1.0):
+Fixed multiple mods adding ui to the same component.
 
 <!--net.Toxic_Cookie.GenericSettings-->
 ### [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) by [Toxic_Cookie](https://github.com/Toxic-Cookie)

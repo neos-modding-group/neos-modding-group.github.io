@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-02T14:22:41.354585+00:00'>02 June 2023, 02:41 UTC</time>
+Last updated at <time datetime='2023-06-02T14:29:43.720522+00:00'>02 June 2023, 02:43 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -55,6 +55,13 @@ The latest version is [1.1.4](https://git.astralchan.xyz/astral/GifImporter/rele
 Reduces the distance between imported items to a configurable value.
 
 The latest version is [1.0.0](https://github.com/art0007i/ImportCompactor/releases/tag/1.0.0)
+
+<!--co.uk.AlexW-578.ImportDefaultsChange-->
+### [ImportDefaultsChange](https://github.com/AlexW-578/ImportDefaultsChange) by [AlexW-578](https://github.com/AlexW-578)
+
+Allows the user to change the default 3D Model import settings
+
+The latest version is [1.0.0](https://github.com/AlexW-578/ImportDefaultsChange/releases/tag/v1.0.0)
 
 <!--com.github.mpmxyz.massimportpacker-->
 ### [Mass Import Packer](https://github.com/mpmxyz/NeosMassImportPacker) by [mpmxyz](https://github.com/mpmxyz)
@@ -1088,6 +1095,13 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline
 Allows for loops in LogiX node connections
 
 The latest version is [1.0.0](https://github.com/Ap6661/UnsafeLogix/releases/tag/v1.0.0)
+
+<!--co.uk.alexw-578.VRLogixRotateFix-->
+### [VRLogixRotateFix](https://github.com/AlexW-578/VRLogixRotateFix) by [AlexW-578](https://github.com/AlexW-578)
+
+Rotates spawned LogiX nodes to use the same rotation as the user when in VR.
+
+The latest version is [1.0.1](https://github.com/AlexW-578/VRLogixRotateFix/releases/tag/v1.0.1)
 
 ## Memes
 

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-06T13:08:08.832075+00:00'>06 June 2023, 01:08 UTC</time>
+Last updated at <time datetime='2023-06-06T13:32:19.441977+00:00'>06 June 2023, 01:19 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -114,6 +114,13 @@ The latest version is [1.0.0](https://github.com/badhaloninja/FixAltEnter/releas
 Adds a button to RectTransforms that fixes broken uix
 
 The latest version is [1.1.0](https://github.com/art0007i/FixUIXButton/releases/tag/1.1.0.0)
+
+<!--owo.Nytra.HeadlessCurbYourUndoManager-->
+### [HeadlessCurbYourUndoManager](https://github.com/Nytra/NeosHeadlessCurbYourUndoManager) by [Nytra](https://github.com/Nytra)
+
+A mod for Neos Headless Client that detects and deletes the extra UndoManager rarely spawned in the world root by the first joining user.
+
+The latest version is [1.0.4](https://github.com/Nytra/NeosHeadlessCurbYourUndoManager/releases/tag/v1.0.4)
 
 <!--owo.Nytra.HeadlessToolTipKickCrashFix-->
 ### [HeadlessToolTipKickCrashFix](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix) by [Nytra](https://github.com/Nytra)

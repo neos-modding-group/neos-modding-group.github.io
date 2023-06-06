@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-06-02T14:29:43.994152+00:00</updated>
+	<updated>2023-06-06T13:08:09.013661+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -636,5 +636,85 @@
 		<link rel="alternate" href="https://github.com/AlexW-578/VRLogixRotateFix/releases/tag/v1.0.1"/>
 		<published>2023-06-02T14:29:43.994152+00:00</published>
 		<updated>2023-06-02T14:29:43.994152+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Banane9/NeosStopNarcissistParents/releases/tag/v1.0.0</id>
+		<title>Released Version 1.0.0 for 'StopNarcissistParents'</title>
+		<content>Prevents parents from inserting themselves and making your inspector all about themselves and their children.</content>
+		<author>
+			<name>Banane9</name>
+			<uri>https://github.com/Banane9</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Developers" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Banane9/NeosStopNarcissistParents/releases/tag/v1.0.0"/>
+		<published>2023-06-06T13:08:09.013661+00:00</published>
+		<updated>2023-06-06T13:08:09.013661+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Banane9/NeosAlternatingSessionUserList/releases/tag/v1.0.0</id>
+		<title>Released Version 1.0.0 for 'AlternatingSessionUserList'</title>
+		<content>Adds alternating colors to the rows in the Session tab's Users and Permissions lists. The colors can be customized in the mod settings.</content>
+		<author>
+			<name>Banane9</name>
+			<uri>https://github.com/Banane9</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/General UI Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Banane9/NeosAlternatingSessionUserList/releases/tag/v1.0.0"/>
+		<published>2023-06-06T13:08:09.013661+00:00</published>
+		<updated>2023-06-06T13:08:09.013661+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v2.0.0</id>
+		<title>Released Version 2.0.0 for 'DynVarSpaceTree'</title>
+		<content>Adds buttons to the DynamicVariableSpace component in the inspector that allow copying all linked variable definitions or the whole hierarchy of linked dynamic variable components.</content>
+		<author>
+			<name>Banane9</name>
+			<uri>https://github.com/Banane9</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Developers" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v2.0.0"/>
+		<published>2023-06-06T13:08:09.013661+00:00</published>
+		<updated>2023-06-06T13:08:09.013661+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.4.0</id>
+		<title>Released Version 2.4.0 for 'BoundedUIX'</title>
+		<content>Makes UIX elements selectable and editable with the usual Slot gizmos, as well as providing special handling when adding parents and children in the inspector.</content>
+		<author>
+			<name>Banane9</name>
+			<uri>https://github.com/Banane9</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Developers" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.4.0"/>
+		<published>2023-06-06T13:08:09.013661+00:00</published>
+		<updated>2023-06-06T13:08:09.013661+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Banane9/NeosComponentAttacherRecents/releases/tag/v1.2.0</id>
+		<title>Released Version 1.2.0 for 'ComponentAttacherRecents'</title>
+		<content>Adds a special category of your recently used components to the Component Attacher.</content>
+		<author>
+			<name>Banane9</name>
+			<uri>https://github.com/Banane9</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Developers" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Banane9/NeosComponentAttacherRecents/releases/tag/v1.2.0"/>
+		<published>2023-06-06T13:08:09.013661+00:00</published>
+		<updated>2023-06-06T13:08:09.013661+00:00</updated>
 	</entry>
 </feed>

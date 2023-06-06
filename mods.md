@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-02T14:29:43.720522+00:00'>02 June 2023, 02:43 UTC</time>
+Last updated at <time datetime='2023-06-06T13:08:08.832075+00:00'>06 June 2023, 01:08 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -427,9 +427,9 @@ Added option to use mesh bone names, null reference fix
 <!--Banane9.BoundedUIX-->
 ### [BoundedUIX](https://github.com/Banane9/NeosBoundedUIX) by [Banane9](https://github.com/Banane9)
 
-Makes UIX elements selectable and editable with the usual Slot gizmos, as well as fixing UIX elements breaking when a parent is inserted.
+Makes UIX elements selectable and editable with the usual Slot gizmos, as well as providing special handling when adding parents and children in the inspector.
 
-The latest version is [2.2.2](https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.2.2)
+The latest version is [2.4.0](https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.4.0)
 
 <!--Banane9.ComponentAttacherFavorites-->
 ### [ComponentAttacherFavorites](https://github.com/Banane9/NeosComponentAttacherFavorites/) by [Banane9](https://github.com/Banane9)
@@ -443,7 +443,7 @@ The latest version is [2.1.0](https://github.com/Banane9/NeosComponentAttacherFa
 
 Adds a special category of your recently used components to the Component Attacher.
 
-The latest version is [1.1.0](https://github.com/Banane9/NeosComponentAttacherRecents/releases/tag/v1.1.0)
+The latest version is [1.2.0](https://github.com/Banane9/NeosComponentAttacherRecents/releases/tag/v1.2.0)
 
 <!--Banane9.ComponentAttacherSearch-->
 ### [ComponentAttacherSearch](https://github.com/Banane9/NeosComponentAttacherSearch) by [Banane9](https://github.com/Banane9)
@@ -464,7 +464,7 @@ The latest version is [1.0.0](https://github.com/Banane9/NeosCorrectGizmoScaling
 
 Adds buttons to the DynamicVariableSpace component in the inspector that allow copying all linked variable definitions or the whole hierarchy of linked dynamic variable components.
 
-The latest version is [1.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v1.0.0)
+The latest version is [2.0.0](https://github.com/Banane9/NeosDynVarSpaceTree/releases/tag/v2.0.0)
 
 <!--Banane9.DynamicBlendShapeDriverSetup-->
 ### [DynamicBlendShapeDriverSetup](https://github.com/Banane9/NeosDynamicBlendShapeDriverSetup) by [Banane9](https://github.com/Banane9)
@@ -494,6 +494,13 @@ Allows baking individual blend shapes using the GlueTip.
 
 The latest version is [1.0.0](https://github.com/Banane9/NeosPrecisionBlendShapeBaking/releases/tag/v1.0.0)
 
+<!--Banane9.StopNarcissistParents-->
+### [StopNarcissistParents](https://github.com/Banane9/NeosStopNarcissistParents) by [Banane9](https://github.com/Banane9)
+
+Prevents parents from inserting themselves and making your inspector all about themselves and their children.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosStopNarcissistParents/releases/tag/v1.0.0)
+
 <!--net.Zetaphor.Webservers-->
 ### [Webservers](https://github.com/Zetaphor/NeosWebServers) by [Zetaphor](https://github.com/Zetaphor)
 
@@ -502,6 +509,13 @@ This mod implements an HTTP web server and a Websockets server into the Neos cli
 The latest version is [1.1.0](https://github.com/Zetaphor/NeosWebServers/releases/tag/1.1)
 
 ## General UI Tweaks
+
+<!--Banane9.AlternatingSessionUserList-->
+### [AlternatingSessionUserList](https://github.com/Banane9/NeosAlternatingSessionUserList) by [Banane9](https://github.com/Banane9)
+
+Adds alternating colors to the rows in the Session tab's Users and Permissions lists. The colors can be customized in the mod settings.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosAlternatingSessionUserList/releases/tag/v1.0.0)
 
 <!--Banane9.ClearContactSearch-->
 ### [ClearContactSearch](https://github.com/Banane9/NeosClearContactSearch) by [Banane9](https://github.com/Banane9)

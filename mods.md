@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-06T13:32:19.441977+00:00'>06 June 2023, 01:19 UTC</time>
+Last updated at <time datetime='2023-06-08T19:57:33.873962+00:00'>08 June 2023, 07:33 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1532,7 +1532,7 @@ The latest version is [1.0.0](https://github.com/Raemien/NeosTextureSettings/rel
 
 Removes stack traces from places where they should have never been
 
-The latest version is [1.0.1](https://github.com/art0007i/StackTraceFixer/releases/tag/1.0.1)
+The latest version is [1.0.2](https://github.com/art0007i/StackTraceFixer/releases/tag/1.0.2)
 
 ## Technical Tweaks
 

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-09T06:43:27.405758+00:00'>09 June 2023, 06:27 UTC</time>
+Last updated at <time datetime='2023-06-09T07:08:46.719138+00:00'>09 June 2023, 07:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -618,6 +618,13 @@ Integrates the Varjo Areo's Eye tracking into NeosVR
 The latest version is [1.0.1](https://github.com/dfgHiatus/NeosVarjoEyeTracking/releases/tag/v1.0.1)
 
 ## Inspectors
+
+<!--net.eia485.AcceptEquivalentDelegates-->
+### [AcceptEquivalentDelegates](https://github.com/EIA485/NeosAcceptEquivalentDelegates/) by [eia485](https://github.com/EIA485)
+
+Allows the DelegateEditor to cast delegates of different types but identical signatures
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosAcceptEquivalentDelegates/releases/tag/1.0.0)
 
 <!--me.art0007i.colordrop-->
 ### [ColorDrop](https://github.com/art0007i/ColorDrop) by [art0007i](https://github.com/art0007i), [Banane9](https://github.com/Banane9)

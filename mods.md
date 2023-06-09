@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-09T06:25:50.269926+00:00'>09 June 2023, 06:50 UTC</time>
+Last updated at <time datetime='2023-06-09T06:43:27.405758+00:00'>09 June 2023, 06:27 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1696,6 +1696,13 @@ The latest version is [1.0.0](https://github.com/LeCloutPanda/VideoToStream/rele
 Allows finger photos to render private UI
 
 The latest version is [1.0.0](https://github.com/art0007i/CapturePrivateUI/releases/tag/1.0.0.0)
+
+<!--owo.Nytra.ColorMyPanels-->
+### [ColorMyPanels](https://github.com/Nytra/NeosColorMyPanels) by [Nytra](https://github.com/Nytra)
+
+A mod that colors your Neos Panels (Inspector, LogiX Browser, Avatar Creator, etc...) with random colors or a static color.
+
+The latest version is [1.0.0](https://github.com/Nytra/NeosColorMyPanels/releases/tag/v1.0.0)
 
 <!--dev.LeCloutPanda.Customise-Inspector-->
 ### [Customise-Inspector](https://github.com/LeCloutPanda/Customise/tree/main/CustomiseInspector) by [LeCloutPanda](https://github.com/LeCloutPanda)

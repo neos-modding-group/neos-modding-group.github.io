@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-08T19:57:33.873962+00:00'>08 June 2023, 07:33 UTC</time>
+Last updated at <time datetime='2023-06-09T04:59:13.606853+00:00'>09 June 2023, 04:13 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1241,7 +1241,7 @@ The latest version is [1.0.0](https://github.com/Ap6661/CreateTools/releases/tag
 
 Adds the world configuration and world permission dialog to the `create new > editors` menu.
 
-The latest version is [1.0.0](https://github.com/art0007i/CreateWorldConfig/releases/tag/1.0.0)
+The latest version is [1.0.1](https://github.com/art0007i/CreateWorldConfig/releases/tag/1.0.1)
 
 <!--me.art0007i.CustomStreamPlayers-->
 ### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)

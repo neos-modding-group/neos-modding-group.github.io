@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-09T04:59:13.606853+00:00'>09 June 2023, 04:13 UTC</time>
+Last updated at <time datetime='2023-06-09T06:25:50.269926+00:00'>09 June 2023, 06:50 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -93,6 +93,13 @@ The latest version is [2.0.1](https://github.com/art0007i/PasteInvidious/release
 Fixed annoying parsing bug.
 
 ## Bug Workarounds
+
+<!--net.eia485.ChildrenAlsoMatter-->
+### [ChildrenAlsoMatter](https://github.com/EIA485/NeosChildrenAlsoMatter) by [eia485](https://github.com/EIA485)
+
+Fixes an issue with DelegateEditor not working for certain types
+
+The latest version is [1.0.1](https://github.com/EIA485/NeosChildrenAlsoMatter/releases/tag/1.0.1)
 
 <!--net.Sox.CompliantAvatarCreator-->
 ### [CompliantAvatarCreator](https://github.com/Sox-NeosVR/CompliantAvatarCreator) by [Sox](https://github.com/Sox-NeosVR)

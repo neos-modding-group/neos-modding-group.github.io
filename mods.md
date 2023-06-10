@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-10T20:20:16.758425+00:00'>10 June 2023, 08:16 UTC</time>
+Last updated at <time datetime='2023-06-10T20:28:06.533261+00:00'>10 June 2023, 08:06 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -128,6 +128,13 @@ The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalStreamVolume/
 Automatically makes any video you import have a local volume slider
 
 The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
+
+<!--Banane9.TheShowMustGoOn-->
+### [TheShowMustGoOn](https://github.com/Banane9/NeosTheShowMustGoOn) by [Banane9](https://github.com/Banane9)
+
+Lets you keep sending audio streams to unfocused worlds.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosTheShowMustGoOn/releases/tag/v1.0.0)
 
 <!--dev.zkxs.voicevolumeoverride-->
 ### [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) by [runtime](https://github.com/zkxs)

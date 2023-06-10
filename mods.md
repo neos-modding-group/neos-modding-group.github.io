@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-10T20:18:15.409551+00:00'>10 June 2023, 08:15 UTC</time>
+Last updated at <time datetime='2023-06-10T20:20:16.758425+00:00'>10 June 2023, 08:16 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -91,6 +91,50 @@ Changes all pasted youtube links to piped.video links
 
 The latest version is [2.0.1](https://github.com/art0007i/PasteInvidious/releases/tag/2.0.1):
 Fixed annoying parsing bug.
+
+## Audio
+
+<!--net.eia485.allowmultipleaudiostreams-->
+### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)
+
+Allows you to spawn multiple audio streams
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioStreams/releases/tag/1.0.0.0)
+
+<!--io.github.frozenreflex.neosaudiocustomizer-->
+### [AudioCustomizer](https://github.com/Frozenreflex/NeosAudioCustomizer) by [Fro Zen](https://github.com/Frozenreflex)
+
+Allows adjusting the max amount of audio voices
+
+The latest version is [1.0.1](https://github.com/Frozenreflex/NeosAudioCustomizer/releases/tag/1.0.1)
+
+<!--me.art0007i.CustomStreamPlayers-->
+### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)
+
+Lets you change your default audio stream player
+
+The latest version is [1.0.0](https://github.com/art0007i/CustomStreamPlayers/releases/tag/1.0.0)
+
+<!--net.sox.localstreamvolume-->
+### [LocalStreamVolume](https://github.com/Sox-NeosVR/LocalStreamVolume) by [Sox](https://github.com/Sox-NeosVR)
+
+ Makes any audio stream you create have a local volume slider
+
+The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalStreamVolume/releases/tag/1.0.0.1)
+
+<!--net.sox.localvideoplayervolume-->
+### [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) by [Sox](https://github.com/Sox-NeosVR)
+
+Automatically makes any video you import have a local volume slider
+
+The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
+
+<!--dev.zkxs.voicevolumeoverride-->
+### [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) by [runtime](https://github.com/zkxs)
+
+Lets you adjust your microphone volume in-game
+
+The latest version is [1.0.1](https://github.com/zkxs/VoiceVolumeOverride/releases/tag/1.0.1.0)
 
 ## Bug Workarounds
 
@@ -242,13 +286,6 @@ replaces 2D overlay dash in Screen mode with the regular 3D one
 The latest version is [3.5.0](https://github.com/rampa3/3DDashOnScreen/releases/tag/3.5.0.0):
 
 - added a checks for if screen mode is active into the binding methods
-
-<!--net.eia485.allowmultipleaudiostreams-->
-### [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) by [eia485](https://github.com/EIA485)
-
-Allows you to spawn multiple audio streams
-
-The latest version is [1.0.0](https://github.com/EIA485/NeosAllowMultipleAudioStreams/releases/tag/1.0.0.0)
 
 <!--dev.baru.neos.BetterInventoryBrowser-->
 ### [BetterInventoryBrowser](https://github.com/hantabaru1014/BetterInventoryBrowser) by [hantabaru1014](https://github.com/hantabaru1014)
@@ -1226,13 +1263,6 @@ The latest version is [1.0.0](https://github.com/art0007i/FourLeafClover/release
 
 ## Misc
 
-<!--io.github.frozenreflex.neosaudiocustomizer-->
-### [AudioCustomizer](https://github.com/Frozenreflex/NeosAudioCustomizer) by [Fro Zen](https://github.com/Frozenreflex)
-
-Allows adjusting the max amount of audio voices
-
-The latest version is [1.0.1](https://github.com/Frozenreflex/NeosAudioCustomizer/releases/tag/1.0.1)
-
 <!--dev.zkxs.neoscloudhomeaccesslevel-->
 ### [CloudHomeAccessLevel](https://github.com/zkxs/NeosCloudHomeAccessLevel) by [runtime](https://github.com/zkxs)
 
@@ -1256,13 +1286,6 @@ The latest version is [1.0.0](https://github.com/Ap6661/CreateTools/releases/tag
 Adds the world configuration and world permission dialog to the `create new > editors` menu.
 
 The latest version is [1.0.1](https://github.com/art0007i/CreateWorldConfig/releases/tag/1.0.1)
-
-<!--me.art0007i.CustomStreamPlayers-->
-### [CustomStreamPlayers](https://github.com/art0007i/CustomStreamPlayers) by [art0007i](https://github.com/art0007i)
-
-Lets you change your default audio stream player
-
-The latest version is [1.0.0](https://github.com/art0007i/CustomStreamPlayers/releases/tag/1.0.0)
 
 <!--dev.LeCloutPanda.DefaultLaserState-->
 ### [DefaultLaserState](https://github.com/LeCloutPanda/DefaultLaserState) by [LeCloutPanda](https://github.com/LeCloutPanda)
@@ -1340,20 +1363,6 @@ Creates a symbolic link in the Neos folder named Latest.log to the latest log fi
 
 The latest version is [0.2.0](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-24):
 Removed the need for Harmony
-
-<!--net.sox.localstreamvolume-->
-### [LocalStreamVolume](https://github.com/Sox-NeosVR/LocalStreamVolume) by [Sox](https://github.com/Sox-NeosVR)
-
- Makes any audio stream you create have a local volume slider
-
-The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalStreamVolume/releases/tag/1.0.0.1)
-
-<!--net.sox.localvideoplayervolume-->
-### [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) by [Sox](https://github.com/Sox-NeosVR)
-
-Automatically makes any video you import have a local volume slider
-
-The latest version is [1.0.0.1](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume/releases/tag/v1.0.0.1)
 
 <!--Ukilop.MoreTags-->
 ### [MoreTags!](https://github.com/ukilop/MoreTags) by [ukilop](https://github.com/ukilop)
@@ -1496,13 +1505,6 @@ Lets you easily change your own voice stream's bitrate
 
 The latest version is [1.1.0](https://github.com/zkxs/NeosVoiceQuality/releases/tag/1.1.0):
 adds ability to change opus application type and frame size
-
-<!--dev.zkxs.voicevolumeoverride-->
-### [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) by [runtime](https://github.com/zkxs)
-
-Lets you adjust your microphone volume in-game
-
-The latest version is [1.0.1](https://github.com/zkxs/VoiceVolumeOverride/releases/tag/1.0.1.0)
 
 ## Optimization
 

@@ -10,6 +10,7 @@ If you need a new category or think an existing category should be split let us 
 | Category               | Description |
 | ---------------------- | ----------- |
 | Asset Importing Tweaks | Improving Asset Importing |
+| Audio                  | Enhancements and tweaks related to audio |
 | Bug Workarounds        | A mod cannot truly fix a bug, but we can work around it with an awful hack |
 | Context Menu Tweaks    | Messing around with the context menu |
 | Dash Tweaks            | Messing around with the dashboard |

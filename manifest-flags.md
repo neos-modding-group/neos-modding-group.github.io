@@ -23,6 +23,7 @@ Mod versions inherit the flags of their defining mod, and can additionally use t
   - `vulnerability:high` High
   - `vulnerability:critical` Critical
 - `broken` This version is broken and doesn't work on any platform.
+  - `broken:android` Doesn't work on android
   - `broken:linux-native` Doesn't work on linux native
   - `broken:linux-wine` Doesn't work on linux wine/proton
   - `broken:windows` Doesn't work on windows

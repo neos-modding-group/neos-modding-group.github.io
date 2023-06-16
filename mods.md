@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-16T14:30:32.705297+00:00'>16 June 2023, 02:32 UTC</time>
+Last updated at <time datetime='2023-06-16T14:50:40.333992+00:00'>16 June 2023, 02:40 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1716,9 +1716,9 @@ The latest version is [1.0.0](https://github.com/LeCloutPanda/VideoToStream/rele
 <!--me.art0007i.CapturePrivateUI-->
 ### [CapturePrivateUI](https://github.com/art0007i/CapturePrivateUI) by [art0007i](https://github.com/art0007i)
 
-Allows finger photos to render private UI
+Allows finger photos or cameras with a specific tag to render private UI
 
-The latest version is [1.0.0](https://github.com/art0007i/CapturePrivateUI/releases/tag/1.0.0.0)
+The latest version is [1.1.0](https://github.com/art0007i/CapturePrivateUI/releases/tag/1.1.0)
 
 <!--owo.Nytra.ColorMyPanels-->
 ### [ColorMyPanels](https://github.com/Nytra/NeosColorMyPanels) by [Nytra](https://github.com/Nytra)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-10T20:28:06.533261+00:00'>10 June 2023, 08:06 UTC</time>
+Last updated at <time datetime='2023-06-16T14:30:32.705297+00:00'>16 June 2023, 02:32 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -186,6 +186,13 @@ The latest version is [1.0.4](https://github.com/Nytra/NeosHeadlessCurbYourUndoM
 A mod for Neos Headless Client that prevents tooltip permission kicks from causing a world crash.
 
 The latest version is [1.0.1](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix/releases/tag/v1.0.1)
+
+<!--owo.Nytra.HeadlessWorldSaveProtections-->
+### [HeadlessWorldSaveProtections](https://github.com/Nytra/NeosHeadlessWorldSaveProtections) by [Nytra](https://github.com/Nytra)
+
+A mod for Neos Headless Client that sets world access level to private and disables away kick while the world is saving. Reduces the likelihood of crashing by users joining or leaving while the world is saving.
+
+The latest version is [1.0.0](https://github.com/Nytra/NeosHeadlessWorldSaveProtections/releases/tag/v1.0.0)
 
 <!--jworkz.sjackal.JworkzAnimJImportFixMod-->
 ### [JworkzAnimJImportFixMod](https://github.com/stiefeljackal/NeosAnimJImportFix) by [StiefelJackal](https://github.com/stiefeljackal)

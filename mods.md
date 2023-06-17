@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-16T14:50:40.333992+00:00'>16 June 2023, 02:40 UTC</time>
+Last updated at <time datetime='2023-06-17T11:45:47.189394+00:00'>17 June 2023, 11:47 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -158,6 +158,13 @@ The latest version is [1.0.1](https://github.com/EIA485/NeosChildrenAlsoMatter/r
 Allows you to stop that annoying snapping when trying to set up an avatar in certain sessions (Especially when in a Headless session).
 
 The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/CompliantAvatarCreator/releases/tag/v1.0.0.0)
+
+<!--owo.Nytra.DevTipMultiSelectFix-->
+### [DevTipMultiSelectFix](https://github.com/Nytra/NeosDevTipMultiSelectFix) by [Nytra](https://github.com/Nytra)
+
+Fixes multi-select mode of the Dev Tool Tip to actually let you reselect a slot you just deselected.
+
+The latest version is [1.0.0](https://github.com/Nytra/NeosDevTipMultiSelectFix/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.FixAltEnter-->
 ### [FixAltEnter](https://github.com/badhaloninja/FixAltEnter) by [badhaloninja](https://github.com/badhaloninja/)

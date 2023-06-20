@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-06-20T11:06:08.511833+00:00</updated>
+	<updated>2023-06-20T18:24:27.272692+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -924,5 +924,21 @@
 		<link rel="alternate" href="https://github.com/RileyGuy/DontDriveMeMad/releases/tag/1.0.0"/>
 		<published>2023-06-20T11:06:08.511833+00:00</published>
 		<updated>2023-06-20T11:06:08.511833+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/Nytra/NeosAudioClipWizard/releases/tag/v1.0.0</id>
+		<title>Released Version 1.0.0 for 'AudioClipWizard'</title>
+		<content>Provides a wizard for batch processing StaticAudioClips in a hierarchy (and converting to different audio formats.)</content>
+		<author>
+			<name>Nytra</name>
+			<uri>https://github.com/Nytra</uri>
+		</author>
+		<contributor>
+			<name>EIA485</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Wizards" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/Nytra/NeosAudioClipWizard/releases/tag/v1.0.0"/>
+		<published>2023-06-20T18:24:27.272692+00:00</published>
+		<updated>2023-06-20T18:24:27.272692+00:00</updated>
 	</entry>
 </feed>

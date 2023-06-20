@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-20T11:06:08.382791+00:00'>20 June 2023, 11:08 UTC</time>
+Last updated at <time datetime='2023-06-20T18:24:27.087754+00:00'>20 June 2023, 06:27 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1880,6 +1880,13 @@ Allows you to replace the vive tracker model used to visualize trackers.
 The latest version is [1.0.0](https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0)
 
 ## Wizards
+
+<!--owo.Nytra.AudioClipWizard-->
+### [AudioClipWizard](https://github.com/Nytra/NeosAudioClipWizard) by [Nytra](https://github.com/Nytra)
+
+Provides a wizard for batch processing StaticAudioClips in a hierarchy (and converting to different audio formats.)
+
+The latest version is [1.0.0](https://github.com/Nytra/NeosAudioClipWizard/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.AvatarCreatorUtils-->
 ### [AvatarCreatorUtils](https://github.com/badhaloninja/AvatarCreatorUtils) by [badhaloninja](https://github.com/badhaloninja)

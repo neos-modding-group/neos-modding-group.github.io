@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-20T10:45:57.094584+00:00'>20 June 2023, 10:57 UTC</time>
+Last updated at <time datetime='2023-06-20T11:06:08.382791+00:00'>20 June 2023, 11:08 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -165,6 +165,13 @@ The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/CompliantAvatarCre
 Fixes multi-select mode of the Dev Tool Tip to actually let you reselect a slot you just deselected.
 
 The latest version is [1.0.0](https://github.com/Nytra/NeosDevTipMultiSelectFix/releases/tag/v1.0.0)
+
+<!--net.Cyro.DontDriveMeMad-->
+### [DontDriveMeMad](https://github.com/RileyGuy/DontDriveMeMad) by [Cyro](https://github.com/RileyGuy)
+
+Enables 'DontDrive' on FullBodyCalibrator grab handles to make them less jumpy in certain sessions.
+
+The latest version is [1.0.0](https://github.com/RileyGuy/DontDriveMeMad/releases/tag/1.0.0)
 
 <!--me.badhaloninja.FixAltEnter-->
 ### [FixAltEnter](https://github.com/badhaloninja/FixAltEnter) by [badhaloninja](https://github.com/badhaloninja/)

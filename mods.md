@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-20T05:39:39.178034+00:00'>20 June 2023, 05:39 UTC</time>
+Last updated at <time datetime='2023-06-20T10:45:57.094584+00:00'>20 June 2023, 10:57 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -424,6 +424,13 @@ Sorts contacts Better™
 
 The latest version is [1.2.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.2.0):
 sort friends above search results
+
+<!--net.deltawolf.PermissionControl-->
+### [PermissionControl](https://github.com/XDelta/PermissionControl) by [Delta](https://github.com/XDelta)
+
+Allows editing permission overrides individually, even for users not in a session
+
+The latest version is [1.0.0](https://github.com/XDelta/PermissionControl/releases/tag/1.0.0)
 
 <!--net.TheJebForge.ReallyBan-->
 ### [Really Ban?](https://github.com/TheJebForge/ReallyBan) by [TheJebForge](https://github.com/TheJebForge)

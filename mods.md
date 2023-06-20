@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-20T18:24:27.087754+00:00'>20 June 2023, 06:27 UTC</time>
+Last updated at <time datetime='2023-06-20T21:45:37.853160+00:00'>20 June 2023, 09:37 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1303,6 +1303,13 @@ Makes you luckier 🍀
 The latest version is [1.0.0](https://github.com/art0007i/FourLeafClover/releases/tag/1.0.0)
 
 ## Misc
+
+<!--owo.Nytra.AccessibleFullBodyCalibrator-->
+### [AccessibleFullBodyCalibrator](https://github.com/Nytra/NeosAccessibleFullBodyCalibrator) by [Nytra](https://github.com/Nytra)
+
+Adds a button to the T-Pose Calibration step of the Full Body Calibrator to allow completing the step with only one controller.
+
+The latest version is [1.0.1](https://github.com/Nytra/NeosAccessibleFullBodyCalibrator/releases/tag/v1.0.1)
 
 <!--dev.zkxs.neoscloudhomeaccesslevel-->
 ### [CloudHomeAccessLevel](https://github.com/zkxs/NeosCloudHomeAccessLevel) by [runtime](https://github.com/zkxs)

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-22T20:49:32.862105+00:00'>22 June 2023, 08:32 UTC</time>
+Last updated at <time datetime='2023-06-22T21:10:49.091090+00:00'>22 June 2023, 09:49 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -885,6 +885,13 @@ The latest version is [1.1.1](https://github.com/art0007i/ShowDelegates/releases
 Allows viewing what a field is driven by
 
 The latest version is [1.1.1](https://github.com/art0007i/ShowDriveSource/releases/tag/1.1.1.0)
+
+<!--net.eia485.SlotlessInspectorOpener-->
+### [SlotlessInspectorOpener](https://github.com/EIA485/NeosSlotlessInspectorOpener) by [eia485](https://github.com/EIA485)
+
+Improves refeditor's handling of the open inspector button when the worker has no slot
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosSlotlessInspectorOpener/releases/tag/1.0.0)
 
 ## Keybinds & Gestures
 

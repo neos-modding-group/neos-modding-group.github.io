@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-22T21:10:49.091090+00:00'>22 June 2023, 09:49 UTC</time>
+Last updated at <time datetime='2023-06-22T21:19:03.649697+00:00'>22 June 2023, 09:03 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -663,7 +663,8 @@ The latest version is [1.0.0](https://github.com/badhaloninja/ReadableDebugDialo
 
 Reduce ui animations
 
-The latest version is [1.2.0](https://github.com/EIA485/NeosReduceAnimation/releases/tag/1.2.0.0)
+The latest version is [1.3.0](https://github.com/EIA485/NeosReduceAnimation/releases/tag/1.3.0.0):
+made changing the dash OpenClose speed easier
 
 <!--net.cyro.squishspector-->
 ### [SquishPanels](https://github.com/RileyGuy/SquishPanels) by [Cyro](https://github.com/RileyGuy)

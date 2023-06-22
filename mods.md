@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-20T21:45:37.853160+00:00'>20 June 2023, 09:37 UTC</time>
+Last updated at <time datetime='2023-06-22T20:49:32.862105+00:00'>22 June 2023, 08:32 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -887,6 +887,13 @@ Allows viewing what a field is driven by
 The latest version is [1.1.1](https://github.com/art0007i/ShowDriveSource/releases/tag/1.1.1.0)
 
 ## Keybinds & Gestures
+
+<!--net.eia485.ArrowExpanders-->
+### [ArrowExpanders](https://github.com/EIA485/NeosArrowExpanders) by [eia485](https://github.com/EIA485)
+
+keybinds for navigating and interacting with expander tress
+
+The latest version is [1.0.1](https://github.com/EIA485/NeosArrowExpanders/releases/tag/1.0.1)
 
 <!--net.TheJebForge.DesktopHandSwitch-->
 ### [DesktopHandSwitch](https://github.com/TheJebForge/DesktopHandSwitch) by [TheJebForge](https://github.com/TheJebForge)

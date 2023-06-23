@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-22T21:19:03.649697+00:00'>22 June 2023, 09:03 UTC</time>
+Last updated at <time datetime='2023-06-23T01:11:48.221300+00:00'>23 June 2023, 01:48 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1908,7 +1908,8 @@ The latest version is [1.0.0](https://github.com/art0007i/TrackerModelSwapper/re
 
 Provides a wizard for batch processing StaticAudioClips in a hierarchy (and converting to different audio formats.)
 
-The latest version is [1.0.0](https://github.com/Nytra/NeosAudioClipWizard/releases/tag/v1.0.0)
+The latest version is [1.0.1](https://github.com/Nytra/NeosAudioClipWizard/releases/tag/v1.0.1):
+Small code tweaks.
 
 <!--me.badhaloninja.AvatarCreatorUtils-->
 ### [AvatarCreatorUtils](https://github.com/badhaloninja/AvatarCreatorUtils) by [badhaloninja](https://github.com/badhaloninja)

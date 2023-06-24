@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-23T01:11:48.221300+00:00'>23 June 2023, 01:48 UTC</time>
+Last updated at <time datetime='2023-06-24T07:21:52.938953+00:00'>24 June 2023, 07:52 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1216,6 +1216,13 @@ The latest version is [1.0.0](https://github.com/RileyGuy/Proxify/releases/tag/1
 Stops reference nodes from killing themselves
 
 The latest version is [1.0.0](https://github.com/EIA485/NeosReferenceNodeHotline/releases/tag/1.0.0.0)
+
+<!--net.TheJebForge.SafeMode-->
+### [Safe Mode](https://github.com/TheJebForge/SafeMode) by [TheJebForge](https://github.com/TheJebForge)
+
+Adds a configuration toggle to disable all impulse Logix from functioning, so you can use your inspector without Logix being able to do anything
+
+The latest version is [1.0.1](https://github.com/TheJebForge/SafeMode/releases/tag/1.0.1)
 
 <!--APnda.UnsafeLogix-->
 ### [UnsafeLogix](https://github.com/Ap6661/UnsafeLogix) by [APnda](https://github.com/Ap6661)

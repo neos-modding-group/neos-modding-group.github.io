@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-27T11:56:31.841464+00:00'>27 June 2023, 11:31 UTC</time>
+Last updated at <time datetime='2023-06-27T23:44:23.142474+00:00'>27 June 2023, 11:23 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -222,6 +222,13 @@ Linux fixes for item rotation not working properly, centers mouse on context men
 
 The latest version is [0.2.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases/tag/v2022-04-12)
 
+<!--net.hantabaru1014.NeosBetterIMESupport-->
+### [NeosBetterIMESupport](https://github.com/hantabaru1014/NeosBetterIMESupport) by [hantabaru1014](https://github.com/hantabaru1014)
+
+Fix issues in IMEs with complex input methods like Japanese
+
+The latest version is [1.0.1](https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.1)
+
 <!--io.github.frozenreflex.neoslinuxexportfix-->
 ### [NeosLinuxExportFix](https://github.com/Frozenreflex/NeosLinuxExportFix) by [Fro Zen](https://github.com/Frozenreflex)
 
@@ -304,6 +311,13 @@ Displays the save destination for the save to inventory button
 
 The latest version is [1.0.0](https://github.com/rassi0429/SaveToWhere/releases/tag/v1.0.0)
 
+<!--Banane9.StopDisappearingLocomotionMenu-->
+### [StopDisappearingLocomotionMenu](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu) by [Banane9](https://github.com/Banane9)
+
+Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
+
 ## Dash Tweaks
 
 <!--net.rampa3.3ddashonscreen-->
@@ -329,12 +343,33 @@ A Neos mod to change the main font in the Local Userspace.
 
 The latest version is [1.0.1](https://github.com/Hayden-Fluff/Change-Userspace-Font/releases/tag/1.0.1)
 
+<!--Banane9.ClearContactSearch-->
+### [ClearContactSearch](https://github.com/Banane9/NeosClearContactSearch) by [Banane9](https://github.com/Banane9)
+
+Adds a clear button to the search bar on the contacts panel in the dash.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosClearContactSearch/releases/tag/v1.0.0)
+
+<!--Banane9.ContactSessionsUserCapacity-->
+### [ContactSessionsUserCapacity](https://github.com/Banane9/NeosContactSessionsUserCapacity) by [Banane9](https://github.com/Banane9)
+
+Adds a label showing the maximum user count in a session on the contacts page and can color it to show usage.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosContactSessionsUserCapacity/releases/tag/v1.0.0)
+
 <!--me.badhaloninja.contactspublishedworldsbutton-->
 ### [ContactsPublishedWorldsButton](https://github.com/badhaloninja/ContactsPublishedWorldsButton) by [badhaloninja](https://github.com/badhaloninja)
 
 Adds a button to contacts to show their published worlds
 
 The latest version is [1.0.0](https://github.com/badhaloninja/ContactsPublishedWorldsButton/releases/tag/v1.0.0)
+
+<!--dev.Kodu.CustomNotificationSounds-->
+### [CustomNotificationSounds](https://github.com/Kodufan/CustomNotificationSounds) by [Kodufan](https://github.com/Kodufan)
+
+Change Neos' notification sounds!
+
+The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSounds/releases/tag/v1.0.0)
 
 <!--me.badhaloninja.DesktopLoadingIndicator-->
 ### [DesktopLoadingIndicator](https://github.com/badhaloninja/DesktopLoadingIndicator) by [badhaloninja](https://github.com/badhaloninja)
@@ -358,6 +393,13 @@ Switch to using float2 instead of 2 separate float options
 Allows you to record voice messages without having to keep your laser on the tiny square button. (although your laser needs to stay on your dash)
 
 The latest version is [1.0.0.0](https://github.com/Sox-NeosVR/EasyVoiceMessage/releases/tag/v1.0.0.0)
+
+<!--Banane9.FlexibleContactsSort-->
+### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
+
+Sorts contacts Better™ and to your liking.
+
+The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
 
 <!--net.eia485.friendLinkSessionList-->
 ### [FriendLinkSessionList](https://github.com/EIA485/NeosFriendLinkSessionList) by [eia485](https://github.com/EIA485)
@@ -431,6 +473,13 @@ Sorts contacts Better™
 
 The latest version is [1.2.0](https://github.com/zkxs/NeosContactsSort/releases/tag/1.2.0):
 sort friends above search results
+
+<!--net.DoubleStyx.NotificationsWhenBusy-->
+### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
+
+Allows you to receive notifications while your status is set to Busy.
+
+The latest version is [1.0.0](https://github.com/DoubleStyx/NotificationsWhenBusy/releases/tag/v1.0.0)
 
 <!--net.deltawolf.PermissionControl-->
 ### [PermissionControl](https://github.com/XDelta/PermissionControl) by [Delta](https://github.com/XDelta)
@@ -607,79 +656,6 @@ This mod implements an HTTP web server and a Websockets server into the Neos cli
 
 The latest version is [1.1.0](https://github.com/Zetaphor/NeosWebServers/releases/tag/1.1)
 
-## General UI Tweaks
-
-<!--Banane9.ClearContactSearch-->
-### [ClearContactSearch](https://github.com/Banane9/NeosClearContactSearch) by [Banane9](https://github.com/Banane9)
-
-Adds a clear button to the search bar on the contacts panel in the dash.
-
-The latest version is [1.0.0](https://github.com/Banane9/NeosClearContactSearch/releases/tag/v1.0.0)
-
-<!--Banane9.ContactSessionsUserCapacity-->
-### [ContactSessionsUserCapacity](https://github.com/Banane9/NeosContactSessionsUserCapacity) by [Banane9](https://github.com/Banane9)
-
-Adds a label showing the maximum user count in a session on the contacts page and can color it to show usage.
-
-The latest version is [1.0.0](https://github.com/Banane9/NeosContactSessionsUserCapacity/releases/tag/v1.0.0)
-
-<!--dev.Kodu.CustomNotificationSounds-->
-### [CustomNotificationSounds](https://github.com/Kodufan/CustomNotificationSounds) by [Kodufan](https://github.com/Kodufan)
-
-Change Neos' notification sounds!
-
-The latest version is [1.0.0](https://github.com/Kodufan/CustomNotificationSounds/releases/tag/v1.0.0)
-
-<!--Banane9.FlexibleContactsSort-->
-### [FlexibleContactsSort](https://github.com/Banane9/NeosFlexibleContactsSort) by [Banane9](https://github.com/Banane9), [runtime](https://github.com/zkxs)
-
-Sorts contacts Better™ and to your liking.
-
-The latest version is [2.1.0](https://github.com/Banane9/NeosFlexibleContactsSort/releases/tag/v2.1.0)
-
-<!--net.hantabaru1014.NeosBetterIMESupport-->
-### [NeosBetterIMESupport](https://github.com/hantabaru1014/NeosBetterIMESupport) by [hantabaru1014](https://github.com/hantabaru1014)
-
-Fix issues in IMEs with complex input methods like Japanese
-
-The latest version is [1.0.1](https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.1)
-
-<!--net.DoubleStyx.NotificationsWhenBusy-->
-### [NotificationsWhenBusy](https://github.com/DoubleStyx/NotificationsWhenBusy) by [DoubleStyx](https://github.com/DoubleStyx)
-
-Allows you to receive notifications while your status is set to Busy.
-
-The latest version is [1.0.0](https://github.com/DoubleStyx/NotificationsWhenBusy/releases/tag/v1.0.0)
-
-<!--me.badhaloninja.ReadableDebugDialog-->
-### [ReadableDebugDialog](https://github.com/badhaloninja/ReadableDebugDialog/) by [badhaloninja](https://github.com/badhaloninja)
-
-Makes the debug dialog more readable in dark lighting
-
-The latest version is [1.0.0](https://github.com/badhaloninja/ReadableDebugDialog/releases/tag/v1.0.0)
-
-<!--net.eia485.reduceanimation-->
-### [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) by [eia485](https://github.com/EIA485)
-
-Reduce ui animations
-
-The latest version is [1.3.0](https://github.com/EIA485/NeosReduceAnimation/releases/tag/1.3.0.0):
-made changing the dash OpenClose speed easier
-
-<!--net.cyro.squishspector-->
-### [SquishPanels](https://github.com/RileyGuy/SquishPanels) by [Cyro](https://github.com/RileyGuy)
-
-Modify the NeosPanels in Neos to squish in and out of existence
-
-The latest version is [1.0.1](https://github.com/RileyGuy/SquishPanels/releases/tag/1.0.1)
-
-<!--Banane9.StopDisappearingLocomotionMenu-->
-### [StopDisappearingLocomotionMenu](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu) by [Banane9](https://github.com/Banane9)
-
-Can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.
-
-The latest version is [1.0.0](https://github.com/Banane9/NeosStopDisappearingLocomotionMenu/releases/tag/v1.0.0)
-
 ## Hardware Integrations
 
 <!--net.dfg.pimaxeyetracking-->
@@ -816,6 +792,13 @@ Makes you generate the inspector content instead of the host
 
 The latest version is [1.2.0](https://github.com/art0007i/MyInspectors/releases/tag/1.2.0)
 
+<!--net.TheJebForge.NegativeBlendshapes-->
+### [NegativeBlendshapes](https://github.com/TheJebForge/NegativeBlendshapes) by [TheJebForge](https://github.com/TheJebForge)
+
+Allows setting blendshapes negative using the slider
+
+The latest version is [1.0.0](https://github.com/TheJebForge/NegativeBlendshapes/releases/tag/1.0.0)
+
 <!--io.github.frozenreflex.neosparticletools-->
 ### [NeosParticleTools](https://github.com/Frozenreflex/NeosParticleTools) by [Fro Zen](https://github.com/Frozenreflex)
 
@@ -917,6 +900,13 @@ Allows you to switch primary hand via a keypress
 
 The latest version is [1.0.1](https://github.com/TheJebForge/DesktopHandSwitch/releases/tag/1.0.1)
 
+<!--net.eia485.desktopphisicalgrab-->
+### [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) by [eia485](https://github.com/EIA485)
+
+Enables physical grabbing in screen mode
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosDesktopPhisicalGrab/releases/tag/1.0.0.0)
+
 <!--dev.zkxs.neosdesktoptoolshortcutremapper-->
 ### [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) by [runtime](https://github.com/zkxs)
 
@@ -940,6 +930,13 @@ The latest version is [2.0.0](https://github.com/kazu0617/DesktopToolShortcutRem
 Disables the grip+dash menu legacy inventory gesture.
 
 The latest version is [1.0.0](https://github.com/art0007i/DisableLegacyInventory/releases/tag/1.0.0)
+
+<!--Banane9.EditorTabbing-->
+### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9), [hantabaru1014](https://github.com/hantabaru1014)
+
+Allows moving between UIX text inputs in the inspector or anywhere else with tab, with a fallback when Steam Overlay could be triggered with shift+tab.
+
+The latest version is [2.0.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v2.0.0)
 
 <!--net.rampa3.ExitAndDiscardHomesKeybind-->
 ### [ExitAndDiscardHomesKeybind](https://github.com/rampa3/ExitAndDiscardHomesKeybind) by [rampa3](https://github.com/rampa3)
@@ -984,13 +981,6 @@ The latest version is [1.0.0](https://github.com/EIA485/NeosKillDesktopTools/rel
 Allows you to configure on which sides the thumbstick will be used as jump.
 
 The latest version is [1.1.0](https://github.com/Banane9/NeosMaybeJump/releases/tag/v1.1.0)
-
-<!--net.TheJebForge.NegativeBlendshapes-->
-### [NegativeBlendshapes](https://github.com/TheJebForge/NegativeBlendshapes) by [TheJebForge](https://github.com/TheJebForge)
-
-Allows setting blendshapes negative using the slider
-
-The latest version is [1.0.0](https://github.com/TheJebForge/NegativeBlendshapes/releases/tag/1.0.0)
 
 <!--net.lexevo.NeosDisableGamepads-->
 ### [NeosDisableGamepads](https://github.com/Lexevolution/NeosDisableGamepads) by [Lexevo](https://github.com/Lexevolution)
@@ -1377,20 +1367,6 @@ The latest version is [1.0.1](https://github.com/LeCloutPanda/DefaultLaserState/
 Gives you the option to set what voice mode should be active when the game starts.
 
 The latest version is [1.0.0](https://github.com/Psychpsyo/DefaultVoiceMode/releases/tag/1.0.0)
-
-<!--net.eia485.desktopphisicalgrab-->
-### [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) by [eia485](https://github.com/EIA485)
-
-Enables physical grabbing in screen mode
-
-The latest version is [1.0.0](https://github.com/EIA485/NeosDesktopPhisicalGrab/releases/tag/1.0.0.0)
-
-<!--Banane9.EditorTabbing-->
-### [EditorTabbing](https://github.com/Banane9/NeosEditorTabbing) by [Banane9](https://github.com/Banane9), [hantabaru1014](https://github.com/hantabaru1014)
-
-Allows moving between UIX text inputs in the inspector or anywhere else with tab, with a fallback when Steam Overlay could be triggered with shift+tab.
-
-The latest version is [2.0.0](https://github.com/Banane9/NeosEditorTabbing/releases/tag/v2.0.0)
 
 <!--net.eia485.exposepatchedmethods-->
 ### [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) by [eia485](https://github.com/EIA485), [kazu0617](https://github.com/kazu0617)
@@ -1873,6 +1849,21 @@ Exposes many post processing effects for neos cameras!
 
 The latest version is [1.1.1](https://github.com/RileyGuy/ReFract/releases/tag/1.1.1)
 
+<!--me.badhaloninja.ReadableDebugDialog-->
+### [ReadableDebugDialog](https://github.com/badhaloninja/ReadableDebugDialog/) by [badhaloninja](https://github.com/badhaloninja)
+
+Makes the debug dialog more readable in dark lighting
+
+The latest version is [1.0.0](https://github.com/badhaloninja/ReadableDebugDialog/releases/tag/v1.0.0)
+
+<!--net.eia485.reduceanimation-->
+### [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) by [eia485](https://github.com/EIA485)
+
+Reduce ui animations
+
+The latest version is [1.3.0](https://github.com/EIA485/NeosReduceAnimation/releases/tag/1.3.0.0):
+made changing the dash OpenClose speed easier
+
 <!--dev.LeCloutPanda.Resolutions-->
 ### [Resolutions](https://github.com/LeCloutPanda/Resolutions) by [LeCloutPanda](https://github.com/LeCloutPanda)
 
@@ -1893,6 +1884,13 @@ The latest version is [0.1.1](https://git.ljoonal.xyz/ljoonal/Neos-Mods/releases
 Allows changing the shadow distance
 
 The latest version is [1.0.0](https://github.com/art0007i/ShadowDistanceChanger/releases/tag/1.0.0)
+
+<!--net.cyro.squishspector-->
+### [SquishPanels](https://github.com/RileyGuy/SquishPanels) by [Cyro](https://github.com/RileyGuy)
+
+Modify the NeosPanels in Neos to squish in and out of existence
+
+The latest version is [1.0.1](https://github.com/RileyGuy/SquishPanels/releases/tag/1.0.1)
 
 <!--dev.zkxs.ssaodisable-->
 ### [SsaoDisable](https://github.com/zkxs/SsaoDisable) by [runtime](https://github.com/zkxs)

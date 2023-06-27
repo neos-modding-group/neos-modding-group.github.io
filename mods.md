@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-27T09:24:56.816121+00:00'>27 June 2023, 09:56 UTC</time>
+Last updated at <time datetime='2023-06-27T11:56:31.841464+00:00'>27 June 2023, 11:31 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -455,6 +455,13 @@ The latest version is [1.1.0](https://github.com/rampa3/ScreenDashFixer/releases
 
 - synced in fix of the desktop control panel keybind interfering with VR keyboard from latest 3D Dash On Screen code
 
+<!--Banane9.SessionTabOverhaul-->
+### [SessionTabOverhaul](https://github.com/Banane9/NeosSessionTabOverhaul) by [Banane9](https://github.com/Banane9)
+
+Overhauls the Session Tab of the Dash, most notably the Users list, by adding more details and options. Screenshots on the Github page. Replaces Banane9.AlternatingSessionUserList and net.eia485.friendLinkSessionList.
+
+The latest version is [1.0.0](https://github.com/Banane9/NeosSessionTabOverhaul/releases/tag/v1.0.0)
+
 <!--net.kazu0617.sessiontweaks-->
 ### [SessionTweaks](https://github.com/kazu0617/SessionTweaks) by [kazu0617](https://github.com/kazu0617)
 
@@ -601,13 +608,6 @@ This mod implements an HTTP web server and a Websockets server into the Neos cli
 The latest version is [1.1.0](https://github.com/Zetaphor/NeosWebServers/releases/tag/1.1)
 
 ## General UI Tweaks
-
-<!--Banane9.AlternatingSessionUserList-->
-### [AlternatingSessionUserList](https://github.com/Banane9/NeosAlternatingSessionUserList) by [Banane9](https://github.com/Banane9)
-
-Adds alternating colors to the rows in the Session tab's Users and Permissions lists. The colors can be customized in the mod settings.
-
-The latest version is [1.0.0](https://github.com/Banane9/NeosAlternatingSessionUserList/releases/tag/v1.0.0)
 
 <!--Banane9.ClearContactSearch-->
 ### [ClearContactSearch](https://github.com/Banane9/NeosClearContactSearch) by [Banane9](https://github.com/Banane9)

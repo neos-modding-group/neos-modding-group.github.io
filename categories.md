@@ -15,7 +15,6 @@ If you need a new category or think an existing category should be split let us 
 | Context Menu Tweaks    | Messing around with the context menu |
 | Dash Tweaks            | Messing around with the dashboard |
 | Developers             | Lower-level functionality intended for "power users" |
-| General UI Tweaks      | Making the crusty UI slightly less crusty |
 | Hardware Integrations  | Making unsupported hardware supported. This is some real technomancy. |
 | Inspectors             | Tweaking inspectors |
 | Keybinds & Gestures    | New ways to control the game |

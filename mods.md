@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-24T13:43:19.816019+00:00'>24 June 2023, 01:19 UTC</time>
+Last updated at <time datetime='2023-06-27T09:24:56.816121+00:00'>27 June 2023, 09:56 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -747,6 +747,13 @@ The latest version is [1.1.0](https://github.com/AlexW-578/CustomLogixBrowser/re
 Makes Inspectors not move back when opening a new inspector from them
 
 The latest version is [1.0.0](https://github.com/badhaloninja/DontMoveInspectors/releases/tag/v1.0.0)
+
+<!--net.eia485.ExposeEditorlessMembers-->
+### [ExposeEditorlessMembers](https://github.com/EIA485/NeosExposeEditorlessMembers) by [eia485](https://github.com/EIA485)
+
+Exposes sync members that dont have an editor as fields in inspector ui
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosExposeEditorlessMembers/releases/tag/1.0.0)
 
 <!--net.earthmark.GenericTypeType-->
 ### [GenericTypeType](https://github.com/Earthmark/Neos-TypeType) by [Earthmark](https://github.com/Earthmark)

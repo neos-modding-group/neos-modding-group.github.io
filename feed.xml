@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-06-24T13:43:19.941980+00:00</updated>
+	<updated>2023-06-27T09:24:57.067663+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -1052,5 +1052,21 @@
 		<link rel="alternate" href="https://github.com/TheJebForge/SafeMode/releases/tag/1.0.2"/>
 		<published>2023-06-24T13:43:19.941980+00:00</published>
 		<updated>2023-06-24T13:43:19.941980+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/EIA485/NeosExposeEditorlessMembers/releases/tag/1.0.0</id>
+		<title>Released Version 1.0.0 for 'ExposeEditorlessMembers'</title>
+		<content>Exposes sync members that dont have an editor as fields in inspector ui</content>
+		<author>
+			<name>eia485</name>
+			<uri>https://github.com/EIA485</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Inspectors" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/EIA485/NeosExposeEditorlessMembers/releases/tag/1.0.0"/>
+		<published>2023-06-27T09:24:57.067663+00:00</published>
+		<updated>2023-06-27T09:24:57.067663+00:00</updated>
 	</entry>
 </feed>

@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-27T23:44:23.142474+00:00'>27 June 2023, 11:23 UTC</time>
+Last updated at <time datetime='2023-06-29T19:01:49.114036+00:00'>29 June 2023, 07:49 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -554,6 +554,14 @@ Adds user join and leave notifications to the notifications panel
 
 The latest version is [1.4.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.4.0):
 Add a config to enable friend links on the notifications - EIA485
+
+<!--owo.Nytra.WorldListSessionHider-->
+### [WorldListSessionHider](https://github.com/Nytra/NeosWorldListSessionHider) by [Nytra](https://github.com/Nytra)
+
+Hides sessions in your world list based on host userID/username or sessionID (configured via Neos Mod Settings.)
+
+The latest version is [1.1.0](https://github.com/Nytra/NeosWorldListSessionHider/releases/tag/v1.1.0):
+Added option to hide sessions completely.
 
 ## Developers
 

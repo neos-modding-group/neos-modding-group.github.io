@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-06-29T19:01:49.114036+00:00'>29 June 2023, 07:49 UTC</time>
+Last updated at <time datetime='2023-07-02T18:53:36.047599+00:00'>02 July 2023, 06:36 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1437,8 +1437,8 @@ The latest version is [1.0.0](https://github.com/ukilop/MoreTags/releases/V1.0.0
 
 Gizmo buttons will automatically face you.
 
-The latest version is [1.1.0](https://github.com/XDelta/NeosBetterGizmos/releases/tag/1.1.0):
-Added configs to show RefID and set gizmo persistence
+The latest version is [1.2.0](https://github.com/XDelta/NeosBetterGizmos/releases/tag/1.2.0):
+Added option to have gizmos render on top, Added additional gizmo button visuals
 
 <!--dev.zkxs.neosplatformspoof-->
 ### [NeosPlatformSpoof](https://github.com/zkxs/NeosPlatformSpoof) by [runtime](https://github.com/zkxs)

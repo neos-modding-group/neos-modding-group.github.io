@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-02T18:53:36.047599+00:00'>02 July 2023, 06:36 UTC</time>
+Last updated at <time datetime='2023-07-08T02:57:09.374804+00:00'>08 July 2023, 02:09 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1523,6 +1523,13 @@ The latest version is [0.3.1](https://github.com/EIA485/NeosPrivacyShield/releas
 Tweaks for saving/spawning items when your UserScale is not 1
 
 The latest version is [1.0.1](https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.1)
+
+<!--net.meister1593.SaveScreenshotToDifferentDirectory-->
+### [SaveScreenshotToDifferentDirectory](https://github.com/Meister1593/SaveScreenshotToDifferentDirectory) by [Meister1593](https://github.com/Meister1593)
+
+Allows to additionally copy screenshot to different directory in system
+
+The latest version is [1.0.0](https://github.com/Meister1593/SaveScreenshotToDifferentDirectory/releases/tag/1.0.0)
 
 <!--net.deltawolf.ScalableWorldOrbs-->
 ### [ScalableWorldOrbs](https://github.com/XDelta/ScalableWorldOrbs) by [Delta](https://github.com/XDelta)

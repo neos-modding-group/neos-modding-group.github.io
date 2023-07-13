@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-08T02:57:09.374804+00:00'>08 July 2023, 02:09 UTC</time>
+Last updated at <time datetime='2023-07-13T04:46:35.149340+00:00'>13 July 2023, 04:35 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1117,12 +1117,11 @@ The latest version is [1.0.1](https://github.com/art0007i/CastNodeHotline/releas
 
 Apply colors to your LogiX nodes. Highly customizable.
 
-The latest version is [1.2.0](https://github.com/Nytra/NeosColorMyLogiX/releases/tag/v1.2.0):
+The latest version is [1.2.1](https://github.com/Nytra/NeosColorMyLogiX/releases/tag/v1.2.1):
 
-- Added an option to automatically update node colors in real-time when your mod config changes (Disabled by default.)
-- Added an option for reference and driver nodes to update their colors when their targets change (Enabled by default.)
-- Added color override options for Display nodes and Input nodes.
-- Various other tweaks and fixes.
+- Fixed an exception when creating LogiX nodes while using the default mod configuration.
+- CPU optimization.
+- Code style adjustments.
 
 <!--net.TheJebForge.CustomLogiXTypes-->
 ### [CustomLogiXTypes](https://github.com/TheJebForge/CustomLogiXTypes) by [TheJebForge](https://github.com/TheJebForge)

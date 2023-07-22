@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-22T07:02:54.940149+00:00'>22 July 2023, 07:54 UTC</time>
+Last updated at <time datetime='2023-07-22T11:32:33.836839+00:00'>22 July 2023, 11:33 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -507,9 +507,9 @@ The latest version is [1.1.0](https://github.com/rampa3/ScreenDashFixer/releases
 <!--Banane9.SessionTabOverhaul-->
 ### [SessionTabOverhaul](https://github.com/Banane9/NeosSessionTabOverhaul) by [Banane9](https://github.com/Banane9)
 
-Overhauls the Session Tab of the Dash, most notably the Users list, by adding more details and options. Screenshots on the Github page. Replaces Banane9.AlternatingSessionUserList and net.eia485.friendLinkSessionList.
+Overhauls the Session Tab of the Dash, most notably the Users list, by adding more (toggleable) details and options. Screenshots on the Github page. Replaces Banane9.AlternatingSessionUserList and net.eia485.friendLinkSessionList.
 
-The latest version is [1.0.0](https://github.com/Banane9/NeosSessionTabOverhaul/releases/tag/v1.0.0)
+The latest version is [1.1.0](https://github.com/Banane9/NeosSessionTabOverhaul/releases/tag/v1.1.0)
 
 <!--net.kazu0617.sessiontweaks-->
 ### [SessionTweaks](https://github.com/kazu0617/SessionTweaks) by [kazu0617](https://github.com/kazu0617)
@@ -585,7 +585,7 @@ Added option to use mesh bone names, null reference fix
 
 Makes UIX elements selectable and editable with the usual Slot gizmos, as well as providing special handling when adding parents and children in the inspector.
 
-The latest version is [2.4.0](https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.4.0)
+The latest version is [2.4.1](https://github.com/Banane9/NeosBoundedUIX/releases/tag/v2.4.1)
 
 <!--Banane9.ComponentAttacherFavorites-->
 ### [ComponentAttacherFavorites](https://github.com/Banane9/NeosComponentAttacherFavorites/) by [Banane9](https://github.com/Banane9)

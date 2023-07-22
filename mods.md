@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-13T04:46:35.149340+00:00'>13 July 2023, 04:35 UTC</time>
+Last updated at <time datetime='2023-07-22T07:02:54.940149+00:00'>22 July 2023, 07:54 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -762,6 +762,13 @@ The latest version is [1.1.0](https://github.com/EIA485/NeosInspectorDelegateCal
 Adds a button to the inspector to expand all visible slots on an inspector
 
 The latest version is [1.0.0](https://github.com/badhaloninja/InspectorExpandAll/releases/tag/v1.0.0)
+
+<!--net.eia485.InspectorKeybinds-->
+### [InspectorKeybinds](https://github.com/EIA485/NeosInspectorKeybinds) by [eia485](https://github.com/EIA485)
+
+keybinds for interacting with inspectors
+
+The latest version is [1.0.0](https://github.com/EIA485/NeosInspectorKeybinds/releases/tag/1.0.0)
 
 <!--me.catshark.KeepGlobalTransformToggle-->
 ### [KeepGlobalTransformToggle](https://github.com/CatSharkShin/KeepGlobalTransformToggle) by [CatSharkShin](https://github.com/CatSharkShin)

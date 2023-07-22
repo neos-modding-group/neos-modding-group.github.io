@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-22T11:32:33.836839+00:00'>22 July 2023, 11:33 UTC</time>
+Last updated at <time datetime='2023-07-22T11:34:15.690209+00:00'>22 July 2023, 11:15 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -558,10 +558,12 @@ Add a config to enable friend links on the notifications - EIA485
 <!--owo.Nytra.WorldListSessionHider-->
 ### [WorldListSessionHider](https://github.com/Nytra/NeosWorldListSessionHider) by [Nytra](https://github.com/Nytra)
 
-Hides sessions in your world list based on host userID/username or sessionID (configured via Neos Mod Settings.)
+Hide stuck sessions and filter based on host userID, username or sessionID.
 
-The latest version is [1.1.0](https://github.com/Nytra/NeosWorldListSessionHider/releases/tag/v1.1.0):
-Added option to hide sessions completely.
+The latest version is [1.2.2](https://github.com/Nytra/NeosWorldListSessionHider/releases/tag/v1.2.2):
+
+- Fixed a bug which caused the session filter toggle to not work.
+- Improved stuck session detection.
 
 ## Developers
 

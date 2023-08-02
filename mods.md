@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-07-22T11:34:15.690209+00:00'>22 July 2023, 11:15 UTC</time>
+Last updated at <time datetime='2023-08-02T23:35:14.679181+00:00'>02 August 2023, 11:14 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -214,6 +214,13 @@ The latest version is [1.0.0](https://github.com/Nytra/NeosHeadlessWorldSaveProt
 Fixes the AnimJ importing, parsing, and setup issues
 
 The latest version is [1.0.0](https://github.com/stiefeljackal/NeosAnimJImportFix/releases/tag/v1.0.0)
+
+<!--jworkz.sjackal.JworkzNeosReturnOfReceivedContactRequestNotification-->
+### [JworkzNeosReturnOfReceivedContactRequestNotification](https://github.com/stiefeljackal/JworkzNeosReturnOfReceivedContactRequestNotification) by [StiefelJackal](https://github.com/stiefeljackal)
+
+Fixes a bug where contact request notifcations are not shown
+
+The latest version is [1.0.0](https://github.com/stiefeljackal/JworkzNeosReturnOfReceivedContactRequestNotification/releases/tag/v1.0.0)
 
 <!--xyz.ljoonal.neos.linuxfixes-->
 ### [LinuxFixes](https://neos.ljoonal.xyz/mods/#linux-fixes) by [ljoonal](https://www.ljoonal.xyz/)

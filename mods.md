@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-08-04T02:16:23.052607+00:00'>04 August 2023, 02:23 UTC</time>
+Last updated at <time datetime='2023-08-04T02:21:46.530327+00:00'>04 August 2023, 02:46 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1701,10 +1701,10 @@ The latest version is [1.0.0](https://github.com/badhaloninja/DevOriginSelectTwe
 
 Adds a dropdown for enum fields and enum input logix nodes
 
-The latest version is [1.1.0](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.1.0):
+The latest version is [1.2.0](https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.2.0):
 
-- Fix interacting with certain flag enums that are defined using non int values
- - Adjust flag selection ui
+- Add support for nullable enums
+ - Switch to patching the LogixNode class instead of generating individual patches for EnumInput<E> by EIA485
 
 <!--dev.zkxs.exportneostojson-->
 ### [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) by [runtime](https://github.com/zkxs)

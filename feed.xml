@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-08-04T02:16:23.260876+00:00</updated>
+	<updated>2023-08-04T02:21:46.682965+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -1244,5 +1244,21 @@
 		<link rel="alternate" href="https://github.com/stiefeljackal/JworkzNeosFixFrickenSync/releases/tag/v1.1.0"/>
 		<published>2023-08-04T02:16:23.260876+00:00</published>
 		<updated>2023-08-04T02:16:23.260876+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.2.0</id>
+		<title>Released Version 1.2.0 for 'EnumDropdown'</title>
+		<content>Adds a dropdown for enum fields and enum input logix nodes</content>
+		<author>
+			<name>badhaloninja</name>
+			<uri>https://github.com/badhaloninja</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Technical Tweaks" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.2.0"/>
+		<published>2023-08-04T02:21:46.682965+00:00</published>
+		<updated>2023-08-04T02:21:46.682965+00:00</updated>
 	</entry>
 </feed>

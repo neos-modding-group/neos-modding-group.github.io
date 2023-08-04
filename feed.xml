@@ -11,7 +11,7 @@
 	<link rel="self" href="https://www.neosmodloader.com/feed.xml" hreflang="en"/>
 	<category term="Games/NeosVR/Mods" label="NeosVR Mods"/>
 	<id>https://www.neosmodloader.com/</id>
-	<updated>2023-08-02T23:35:14.871644+00:00</updated>
+	<updated>2023-08-04T02:16:23.260876+00:00</updated>
 	<generator>atom_feeder.py</generator>
 	<entry>
 		<id>https://github.com/XDelta/CreateNewUIX/releases/tag/1.1.0</id>
@@ -1228,5 +1228,21 @@
 		<link rel="alternate" href="https://github.com/stiefeljackal/JworkzNeosReturnOfReceivedContactRequestNotification/releases/tag/v1.0.0"/>
 		<published>2023-08-02T23:35:14.871644+00:00</published>
 		<updated>2023-08-02T23:35:14.871644+00:00</updated>
+	</entry>
+	<entry>
+		<id>https://github.com/stiefeljackal/JworkzNeosFixFrickenSync/releases/tag/v1.1.0</id>
+		<title>Released Version 1.1.0 for 'JworkzNeosFixFrickenSync'</title>
+		<content>Fixes the Stuck Sync bug that breaks the sync loop.</content>
+		<author>
+			<name>StiefelJackal</name>
+			<uri>https://github.com/stiefeljackal</uri>
+		</author>
+		<contributor>
+			<name>XDelta</name>
+		</contributor>
+		<category term="Games/NeosVR/Mods/Bug Workarounds" label="NeosVR Mods"/>
+		<link rel="alternate" href="https://github.com/stiefeljackal/JworkzNeosFixFrickenSync/releases/tag/v1.1.0"/>
+		<published>2023-08-04T02:16:23.260876+00:00</published>
+		<updated>2023-08-04T02:16:23.260876+00:00</updated>
 	</entry>
 </feed>

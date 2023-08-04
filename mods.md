@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-08-02T23:35:14.679181+00:00'>02 August 2023, 11:14 UTC</time>
+Last updated at <time datetime='2023-08-04T02:16:23.052607+00:00'>04 August 2023, 02:23 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -214,6 +214,17 @@ The latest version is [1.0.0](https://github.com/Nytra/NeosHeadlessWorldSaveProt
 Fixes the AnimJ importing, parsing, and setup issues
 
 The latest version is [1.0.0](https://github.com/stiefeljackal/NeosAnimJImportFix/releases/tag/v1.0.0)
+
+<!--jworkz.sjackal.JworkzNeosFixFrickenSync-->
+### [JworkzNeosFixFrickenSync](https://github.com/stiefeljackal/JworkzNeosFixFrickenSync) by [StiefelJackal](https://github.com/stiefeljackal)
+
+Fixes the Stuck Sync bug that breaks the sync loop.
+
+The latest version is [1.1.0](https://github.com/stiefeljackal/JworkzNeosFixFrickenSync/releases/tag/v1.1.0):
+
+- Add additional retry condition for error messages that match string 'TooManyRequests'.
+- Fix error logging.
+- Remove additional PatchAll call.
 
 <!--jworkz.sjackal.JworkzNeosReturnOfReceivedContactRequestNotification-->
 ### [JworkzNeosReturnOfReceivedContactRequestNotification](https://github.com/stiefeljackal/JworkzNeosReturnOfReceivedContactRequestNotification) by [StiefelJackal](https://github.com/stiefeljackal)

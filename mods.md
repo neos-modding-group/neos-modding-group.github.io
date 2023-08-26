@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-08-04T02:21:46.530327+00:00'>04 August 2023, 02:46 UTC</time>
+Last updated at <time datetime='2023-08-26T21:51:15.420122+00:00'>26 August 2023, 09:15 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -475,14 +475,14 @@ The latest version is [2.0.0](https://github.com/rassi0429/MessageCopy/releases/
 
 Adds a dash screen to edit mod configs
 
-The latest version is [1.3.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.3.0):
+The latest version is [1.4.0](https://github.com/badhaloninja/NeosModSettings/releases/tag/v1.4.0):
 
-- Fix logspam related to NaN inequality by Raemien
-- Allow localized text in config fields by Raemien
-
-- Fix Reset default settings button not triggering changed event
-- Added Option to make the reset default settings button include internal use only
-- Added options for an alternating backdrop
+- Fix regression caused by PR #11 preventing setting a null value to something else
+- Adjust screen generate logic
+- Added more test configruation keys
+- Added option to show buttons to reset individual keys
+- Refactored config key ui generation code
+- Made most of the NeosModSettings update the ui 'live'
 
 <!--dev.zkxs.neoscontactssort-->
 ### [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) by [runtime](https://github.com/zkxs)
@@ -570,8 +570,10 @@ The latest version is [3.0.0](https://github.com/Banane9/NeosUserJoinLeaveNotifi
 
 Adds user join and leave notifications to the notifications panel
 
-The latest version is [1.4.0](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.4.0):
-Add a config to enable friend links on the notifications - EIA485
+The latest version is [1.4.1](https://github.com/badhaloninja/UserJoinLeaveNotifications/releases/tag/v1.4.1):
+
+- Better ensure audio clips exist and are set properly
+- Add boolean config key to enable and disable the sounds
 
 <!--owo.Nytra.WorldListSessionHider-->
 ### [WorldListSessionHider](https://github.com/Nytra/NeosWorldListSessionHider) by [Nytra](https://github.com/Nytra)

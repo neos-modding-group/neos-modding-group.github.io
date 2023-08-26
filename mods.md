@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-08-26T21:51:15.420122+00:00'>26 August 2023, 09:15 UTC</time>
+Last updated at <time datetime='2023-08-26T21:55:10.722664+00:00'>26 August 2023, 09:10 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -1784,7 +1784,7 @@ The latest version is [1.0.0](https://github.com/TheJebForge/TypePicker/releases
 
 Adds a few extra features to reference and value proxies.
 
-The latest version is [1.1.0](https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.1.0)
+The latest version is [1.1.1](https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.1.1)
 
 <!--dev.LeCloutPanda.VideoToStream-->
 ### [VideoToStream](https://github.com/LeCloutPanda/VideoToStream) by [LeCloutPanda](https://github.com/LeCloutPanda)

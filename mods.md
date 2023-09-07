@@ -2,7 +2,7 @@
 layout: mod-list
 title: "Mod List"
 ---
-Last updated at <time datetime='2023-08-26T21:55:10.722664+00:00'>26 August 2023, 09:10 UTC</time>
+Last updated at <time datetime='2023-09-07T04:02:20.158483+00:00'>07 September 2023, 04:20 UTC</time>
 
 ## Asset Importing Tweaks
 
@@ -460,8 +460,7 @@ The latest version is [1.0.0](https://github.com/RileyGuy/LoadAlready/releases/t
 
 Allows you to store items locally on your hard drive. This mod adds a new section to the inventory that can be accessed by pressing the cloud button, called Local Storage.
 
-The latest version is [1.1.0](https://github.com/art0007i/LocalStorage/releases/tag/1.1.0):
-fix linux path separator
+The latest version is [1.1.1](https://github.com/art0007i/LocalStorage/releases/tag/1.1.1)
 
 <!--dev.kokoa.messagecopy-->
 ### [MessageCopy](https://github.com/rassi0429/MessageCopy) by [kka429](https://github.com/rassi0429)
